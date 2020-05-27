@@ -64,7 +64,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "" + ({"idealz-idealz-module":"idealz-idealz-module","login-login-module":"login-login-module","default~pages-Compaign-Compaign-module~pages-charity-charity-module~pages-coupon-coupon-module~pages~a5173ed3":"default~pages-Compaign-Compaign-module~pages-charity-charity-module~pages-coupon-coupon-module~pages~a5173ed3","default~pages-coupon-coupon-module~pages-main-main-module~pages-user-user-module":"default~pages-coupon-coupon-module~pages-main-main-module~pages-user-user-module","pages-coupon-coupon-module":"pages-coupon-coupon-module","pages-main-main-module":"pages-main-main-module","pages-Compaign-Compaign-module":"pages-Compaign-Compaign-module","pages-charity-charity-module":"pages-charity-charity-module","pages-inventory-inventory-module":"pages-inventory-inventory-module","pages-loyality-loyality-module":"pages-loyality-loyality-module","pages-user-user-module":"pages-user-user-module","pages-prize-prize-module":"pages-prize-prize-module","pages-user-report-user-report-module":"pages-user-report-user-report-module"}[chunkId]||chunkId) +    "-es5.js"
+/******/ 		return __webpack_require__.p + "" + ({"idealz-idealz-module":"idealz-idealz-module","login-login-module":"login-login-module"}[chunkId]||chunkId) +    "-es5.js"
 /******/ 	}
 /******/
 /******/ 	// The require function

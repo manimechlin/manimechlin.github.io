@@ -80750,7 +80750,7 @@
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<!-- Footer -->\r\n<footer class=\"sticky-footer bg-white\">\r\n    <div class=\"container my-auto\">\r\n        <div class=\"copyright text-center my-auto\">\r\n            <span>Copyright &copy; windfall.com 2020</span>\r\n        </div>\r\n    </div>\r\n</footer>\r\n<!-- End of Footer -->";
+    __webpack_exports__["default"] = "<!-- Footer -->\r\n<footer class=\"sticky-footer bg-white\">\r\n    <div class=\"container my-auto\">\r\n        <div class=\"copyright text-center my-auto\">\r\n            <span>Copyright &copy; cleatstreet.com 2020</span>\r\n        </div>\r\n    </div>\r\n</footer>\r\n<!-- End of Footer -->";
     /***/
   },
 
@@ -80790,7 +80790,7 @@
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<!-- Topbar -->\r\n<nav class=\"navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow\">\r\n\r\n    <!-- Sidebar Toggle (Topbar) -->\r\n    <button id=\"sidebarToggleTop\" class=\"btn btn-link d-md-none rounded-circle mr-3\">\r\n      <i class=\"fa fa-bars\"></i>\r\n    </button>\r\n  \r\n    <ul class=\"navbar-nav ml-auto\">\r\n  <li class=\"nav-item dropdown no-arrow mx-1\">\r\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"alertsDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <i class=\"fas fa-bell fa-fw\"></i>\r\n          <!-- Counter - Alerts -->\r\n  <!--        <span class=\"badge badge-danger badge-counter\">0</span>-->\r\n        </a>\r\n        <!-- Dropdown - Alerts -->\r\n        <div class=\"dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in\" aria-labelledby=\"alertsDropdown\">\r\n          <h6 class=\"dropdown-header\">\r\n            Alerts Center\r\n          </h6>\r\n \r\n          <a class=\"dropdown-item text-center small text-gray-500\" href=\"javascript:void(0)\">No Alerts</a>\r\n        </div>\r\n      </li>\r\n  \r\n      <!-- Nav Item - Messages -->\r\n      <li class=\"nav-item dropdown no-arrow mx-1\">\r\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"messagesDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <i class=\"fas fa-envelope fa-fw\"></i>\r\n          <!-- Counter - Messages -->\r\n  <!--        <span class=\"badge badge-danger badge-counter\">0</span>-->\r\n        </a>\r\n        <!-- Dropdown - Messages -->\r\n        <div class=\"dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in\" aria-labelledby=\"messagesDropdown\">\r\n          <h6 class=\"dropdown-header\">\r\n            Message Center\r\n          </h6>\r\n \r\n          <a class=\"dropdown-item text-center small text-gray-500\" href=\"javascript:void(0)\">No More Messages</a>\r\n        </div>\r\n      </li>\r\n  \r\n      <div class=\"topbar-divider d-none d-sm-block\"></div>\r\n  \r\n      <!-- Nav Item - User Information -->\r\n      <li class=\"nav-item dropdown no-arrow\">\r\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"userDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <span class=\"mr-2 d-none d-lg-inline text-gray-600 small\"></span>\r\n          <img class=\"img-profile rounded-circle\" src=\"assets/img/default-user.png\">\r\n        </a>\r\n        <!-- Dropdown - User Information -->\r\n        <div class=\"dropdown-menu dropdown-menu-right shadow animated--grow-in\" aria-labelledby=\"userDropdown\">\r\n          <!-- <a class=\"dropdown-item\" href=\"javascript:void(0)\" routerLink=\"/dashboard/profile\">\r\n            <i class=\"fas fa-user fa-sm fa-fw mr-2 text-gray-400\"></i>\r\n            Profile\r\n          </a> -->\r\n  <!--        <a class=\"dropdown-item\" href=\"#\">-->\r\n  <!--          <i class=\"fas fa-cogs fa-sm fa-fw mr-2 text-gray-400\"></i>-->\r\n  <!--          Settings-->\r\n  <!--        </a>-->\r\n  <!--        <a class=\"dropdown-item\" href=\"#\">-->\r\n  <!--          <i class=\"fas fa-list fa-sm fa-fw mr-2 text-gray-400\"></i>-->\r\n  <!--          Activity Log-->\r\n  <!--        </a>-->\r\n          <!-- <div class=\"dropdown-divider\"></div> -->\r\n          <a class=\"dropdown-item\" href=\"#\" data-toggle=\"modal\" data-target=\"#logoutModal\">\r\n            <i class=\"fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400\"></i>\r\n            Logout\r\n          </a>\r\n        </div>\r\n      </li>\r\n  \r\n    </ul>\r\n  \r\n  </nav>\r\n  <div class=\"modal fade\" id=\"logoutModal\" tabindex=\"-1\" data-backdrop=\"static\" role=\"dialog\"\r\n    aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\">\r\n    <div class=\"modal-dialog\" role=\"document\">\r\n        <div class=\"modal-content\">\r\n            <div class=\"modal-header\">\r\n                <h5 class=\"modal-title\" id=\"exampleModalLabel\">Ready to Leave?</h5>\r\n                <button class=\"close\" type=\"button\" data-dismiss=\"modal\" aria-label=\"Close\">\r\n                    <span aria-hidden=\"true\">×</span>\r\n                </button>\r\n            </div>\r\n            <div class=\"modal-body\">Select \"Logout\" below if you are ready to end your current session.</div>\r\n            <div class=\"modal-footer\">\r\n                <button class=\"btn btn-secondary\" type=\"button\" id=\"closeLogoutModal\"\r\n                    data-dismiss=\"modal\">Cancel</button>\r\n                    <a class=\"btn btn-primary\" href=\"javascript:void(0)\" (click)=\"logout()\" >Logout</a>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "<!-- Topbar -->\r\n<nav class=\"navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow\">\r\n\r\n    <!-- Sidebar Toggle (Topbar) -->\r\n    <button id=\"sidebarToggleTop\" class=\"btn btn-link d-md-none rounded-circle mr-3\">\r\n      <i class=\"fa fa-bars\"></i>\r\n    </button>\r\n  \r\n    <ul class=\"navbar-nav ml-auto\">\r\n  <!-- <li class=\"nav-item dropdown no-arrow mx-1\">\r\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"alertsDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <i class=\"fas fa-bell fa-fw\"></i>\r\n  \r\n        </a>\r\n      \r\n        <div class=\"dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in\" aria-labelledby=\"alertsDropdown\">\r\n          <h6 class=\"dropdown-header\">\r\n            Alerts Center\r\n          </h6>\r\n \r\n          <a class=\"dropdown-item text-center small text-gray-500\" href=\"javascript:void(0)\">No Alerts</a>\r\n        </div>\r\n      </li> -->\r\n  \r\n      <!-- Nav Item - Messages -->\r\n      <!-- <li class=\"nav-item dropdown no-arrow mx-1\">\r\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"messagesDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <i class=\"fas fa-envelope fa-fw\"></i>\r\n  \r\n        </a>\r\n     \r\n        <div class=\"dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in\" aria-labelledby=\"messagesDropdown\">\r\n          <h6 class=\"dropdown-header\">\r\n            Message Center\r\n          </h6>\r\n \r\n          <a class=\"dropdown-item text-center small text-gray-500\" href=\"javascript:void(0)\">No More Messages</a>\r\n        </div>\r\n      </li> -->\r\n  \r\n      <div class=\"topbar-divider d-none d-sm-block\"></div>\r\n  \r\n      <!-- Nav Item - User Information -->\r\n      <li class=\"nav-item dropdown no-arrow\">\r\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"userDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n          <span class=\"mr-2 d-none d-lg-inline text-gray-600 small\"></span>\r\n          <img class=\"img-profile rounded-circle\" src=\"assets/img/default-user.png\">\r\n        </a>\r\n        <!-- Dropdown - User Information -->\r\n        <div class=\"dropdown-menu dropdown-menu-right shadow animated--grow-in\" aria-labelledby=\"userDropdown\">\r\n          <!-- <a class=\"dropdown-item\" href=\"javascript:void(0)\" routerLink=\"/dashboard/profile\">\r\n            <i class=\"fas fa-user fa-sm fa-fw mr-2 text-gray-400\"></i>\r\n            Profile\r\n          </a> -->\r\n  <!--        <a class=\"dropdown-item\" href=\"#\">-->\r\n  <!--          <i class=\"fas fa-cogs fa-sm fa-fw mr-2 text-gray-400\"></i>-->\r\n  <!--          Settings-->\r\n  <!--        </a>-->\r\n  <!--        <a class=\"dropdown-item\" href=\"#\">-->\r\n  <!--          <i class=\"fas fa-list fa-sm fa-fw mr-2 text-gray-400\"></i>-->\r\n  <!--          Activity Log-->\r\n  <!--        </a>-->\r\n          <!-- <div class=\"dropdown-divider\"></div> -->\r\n          <a class=\"dropdown-item\"  routerLink=\"/changepassword\">\r\n                 <i class=\"fas fa-lock fa-sm fa-fw mr-2 text-gray-400\"></i>\r\n               Change Password\r\n                 </a>\r\n          <a class=\"dropdown-item\" href=\"#\" data-toggle=\"modal\" data-target=\"#logoutModal\">\r\n            <i class=\"fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400\"></i>\r\n            Logout\r\n          </a>\r\n        </div>\r\n      </li>\r\n  \r\n    </ul>\r\n  \r\n  </nav>\r\n  <div class=\"modal fade\" id=\"logoutModal\" tabindex=\"-1\" data-backdrop=\"static\" role=\"dialog\"\r\n    aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\">\r\n    <div class=\"modal-dialog\" role=\"document\">\r\n        <div class=\"modal-content\">\r\n            <div class=\"modal-header\">\r\n                <h5 class=\"modal-title\" id=\"exampleModalLabel\">Ready to Leave?</h5>\r\n                <button class=\"close\" type=\"button\" data-dismiss=\"modal\" aria-label=\"Close\">\r\n                    <span aria-hidden=\"true\">×</span>\r\n                </button>\r\n            </div>\r\n            <div class=\"modal-body\">Select \"Logout\" below if you are ready to end your current session.</div>\r\n            <div class=\"modal-footer\">\r\n                <button class=\"btn btn-secondary\" type=\"button\" id=\"closeLogoutModal\"\r\n                    data-dismiss=\"modal\">Cancel</button>\r\n                    <a class=\"btn btn-primary\" href=\"javascript:void(0)\" (click)=\"logout()\" >Logout</a>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -80810,7 +80810,7 @@
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<!-- Sidebar -->\r\n<ul class=\"navbar-nav bg-gradient-primary sidebar sidebar-dark accordion\" id=\"accordionSidebar\">\r\n  <!-- Sidebar - Brand -->\r\n  <a class=\"sidebar-brand d-flex align-items-center justify-content-center mt-1\" href=\"javascript:void(0)\"\r\n    routerLink=\"/dashboard\">\r\n    <div class=\"sidebar-brand-icon\">\r\n      <figure><img src=\"assets/logo.png\"></figure>\r\n    </div>\r\n    <div class=\"sidebar-brand-text mx-3\">\r\n       <figure><img src=\"assets/logo.png\"></figure>\r\n        <!-- <span class=\"logo-bold\">Dash</span> -->\r\n      <!-- </figure> -->\r\n    </div>\r\n  </a>\r\n\r\n  <!-- Divider -->\r\n  <hr class=\"sidebar-divider my-0\" />\r\n  <!--  <div class=\"sidebar-heading\">-->\r\n  <!--    Addons-->\r\n  <!--  </div>-->\r\n\r\n  <!-- <ng-container *ngFor=\"let item of menuItems; let i = index\">\r\n    <li\r\n      *ngIf=\"\r\n        role == 'SuperAdmin' ||\r\n        (role == 'Merchant' &&\r\n          (item.path == '/b2b/products' || item.path == '/b2b/order')) ||\r\n        (role == 'SubAdmin' &&\r\n          access.read == true &&\r\n          item.path !== '/b2b/sub-admin')\r\n      \"\r\n      routerLink=\"{{ item.path }}\"\r\n      routerLinkActive=\"active\"\r\n      class=\"nav-item\"\r\n    >\r\n      <a class=\"nav-link\" href=\"javascript:void(0)\">\r\n        <img [src]=\"item.icon\" />\r\n        <span>{{ item.title }}</span></a\r\n      >\r\n    </li>\r\n  </ng-container> -->\r\n  <!-- Nav Item - Charts -->\r\n  <ng-container *ngFor=\"let item of menuItems\">\r\n    <li *ngIf=\"item.class == 'sub'\" routerLink=\"{{ item.path }}\" routerLinkActive=\"active\" class=\"nav-item\">\r\n      <a class=\"nav-link\" href=\"javascript:void(0)\">\r\n        <img [src]=\"item.icon\" />\r\n        <span>{{ item.title }}</span></a>\r\n    </li>\r\n    <li class=\"nav-item\" *ngIf=\"item.class == 'subchild'\">\r\n      <a class=\"nav-link collapsed\" href=\"#\" data-toggle=\"collapse\" [attr.data-target]=\"'#collapse' + item.id\"\r\n        aria-expanded=\"true\" [attr.aria-controls]=\"'collapse' + item.id\">\r\n        <img [src]=\"item.icon\" />\r\n        <span>{{ item.title }}</span>\r\n      </a>\r\n      <div [id]=\"'collapse' + item.id\" class=\"collapse\" aria-labelledby=\"headingTwo\" data-parent=\"#accordionSidebar\">\r\n        <div class=\"bg-white py-2 collapse-inner rounded\">\r\n          <a *ngFor=\"let child of item.children\" class=\"collapse-item\" routerLink=\"{{ child.path }}\"\r\n            routerLinkActive=\"active\">{{ child.title }}</a>\r\n        </div>\r\n      </div>\r\n    </li>\r\n  </ng-container>\r\n\r\n  <!-- Divider -->\r\n  <hr class=\"sidebar-divider d-none d-md-block\" />\r\n\r\n  <!-- Sidebar Toggler (Sidebar) -->\r\n  <div class=\"text-center d-none d-md-inline\">\r\n    <button class=\"rounded-circle border-0\" id=\"sidebarToggle\"></button>\r\n  </div>\r\n</ul>\r\n<!-- End of Sidebar -->";
+    __webpack_exports__["default"] = "<!-- Sidebar -->\r\n<ul class=\"navbar-nav bg-gradient-primary sidebar sidebar-dark accordion\" id=\"accordionSidebar\">\r\n  <!-- Sidebar - Brand -->\r\n  <a class=\"sidebar-brand d-flex align-items-center justify-content-center mt-1\" href=\"javascript:void(0)\"\r\n    routerLink=\"/dashboard\">\r\n    <div class=\"sidebar-brand-icon\">\r\n      <figure><img src=\"assets/logo.png\"></figure>\r\n    </div>\r\n    <div class=\"sidebar-brand-text text-center\">\r\n       <figure><img src=\"assets/logo.png\"></figure>\r\n        <!-- <span class=\"logo-bold\">Dash</span> -->\r\n      <!-- </figure> -->\r\n    </div>\r\n  </a>\r\n\r\n  <!-- Divider -->\r\n  <hr class=\"sidebar-divider my-0\" />\r\n  <!--  <div class=\"sidebar-heading\">-->\r\n  <!--    Addons-->\r\n  <!--  </div>-->\r\n\r\n  <!-- <ng-container *ngFor=\"let item of menuItems; let i = index\">\r\n    <li\r\n      *ngIf=\"\r\n        role == 'SuperAdmin' ||\r\n        (role == 'Merchant' &&\r\n          (item.path == '/b2b/products' || item.path == '/b2b/order')) ||\r\n        (role == 'SubAdmin' &&\r\n          access.read == true &&\r\n          item.path !== '/b2b/sub-admin')\r\n      \"\r\n      routerLink=\"{{ item.path }}\"\r\n      routerLinkActive=\"active\"\r\n      class=\"nav-item\"\r\n    >\r\n      <a class=\"nav-link\" href=\"javascript:void(0)\">\r\n        <img [src]=\"item.icon\" />\r\n        <span>{{ item.title }}</span></a\r\n      >\r\n    </li>\r\n  </ng-container> -->\r\n  <!-- Nav Item - Charts -->\r\n  <ng-container *ngFor=\"let item of menuItems\">\r\n    <li *ngIf=\"item.class == 'sub'\" routerLink=\"{{ item.path }}\" routerLinkActive=\"active\" class=\"nav-item\">\r\n      <a class=\"nav-link\" href=\"javascript:void(0)\">\r\n        <img [src]=\"item.icon\" />\r\n        <span>{{ item.title }}</span></a>\r\n    </li>\r\n    <li class=\"nav-item\" *ngIf=\"item.class == 'subchild'\">\r\n      <a class=\"nav-link collapsed\" href=\"#\" data-toggle=\"collapse\" [attr.data-target]=\"'#collapse' + item.id\"\r\n        aria-expanded=\"true\" [attr.aria-controls]=\"'collapse' + item.id\">\r\n        <img [src]=\"item.icon\" />\r\n        <span>{{ item.title }}</span>\r\n      </a>\r\n      <div [id]=\"'collapse' + item.id\" class=\"collapse\" aria-labelledby=\"headingTwo\" data-parent=\"#accordionSidebar\">\r\n        <div class=\"bg-white py-2 collapse-inner rounded\">\r\n          <a *ngFor=\"let child of item.children\" class=\"collapse-item\" routerLink=\"{{ child.path }}\"\r\n            routerLinkActive=\"active\">{{ child.title }}</a>\r\n        </div>\r\n      </div>\r\n    </li>\r\n  </ng-container>\r\n\r\n  <!-- Divider -->\r\n  <hr class=\"sidebar-divider d-none d-md-block\" />\r\n\r\n  <!-- Sidebar Toggler (Sidebar) -->\r\n  <div class=\"text-center d-none d-md-inline\">\r\n    <button class=\"rounded-circle border-0\" id=\"sidebarToggle\"></button>\r\n  </div>\r\n</ul>\r\n<!-- End of Sidebar -->";
     /***/
   },
 
@@ -80835,6 +80835,66 @@
   },
 
   /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/algorithms/algorithms.component.html":
+  /*!*********************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/algorithms/algorithms.component.html ***!
+    \*********************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppIdealzPagesAlgorithmsAlgorithmsComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "<div class=\"container-fluid\">\r\n    <div class=\"card shadow mb-4\">\r\n    <div class=\"card-header py-3\">\r\n    <div class=\"row\">\r\n    <div class=\"col-md-12 user_title\">\r\n    <h6 class=\"m-0 font-weight-bold text-primary\">Algorithms\r\n    \r\n    </h6>\r\n    </div>\r\n    </div>\r\n    <div class=\"row\">\r\n    <div class=\"col-md-4 user_filter\">\r\n    <input type=\"text\" class=\"form-control\" name=\"searchText\" placeholder=\"Search Name\">\r\n    </div>\r\n    <div class=\"col-md-5 user_serch_btn\">\r\n    <button type=\"submit\" class=\"btn btn-primary pl-4 pr-4\">Search</button>\r\n    <button type=\"reset\" class=\"btn btn-primary pl-4 pr-4 ml-2\">Reset</button>\r\n    </div>\r\n    \r\n    </div>\r\n    </div>\r\n    \r\n    <div class=\"card-body\">\r\n    <div class=\"table-responsive\">\r\n    <table class=\"table table-bordered\" width=\"100%\" cellspacing=\"0\">\r\n    <thead>\r\n    \r\n    <tr>\r\n    <th width=\"5%\">S.No</th>\r\n    <th width=\"10%\">Name</th>\r\n    <th width=\"20%\">Summary </th>\r\n    <th width=\"10%\">Created by</th>\r\n    <th width=\"10%\">Created Date</th>\r\n    <th width=\"10%\">Actions</th>\r\n    </tr>\r\n    </thead>\r\n<tbody>\r\n    <tr *ngFor=\"let algo of algorithmList; let i = index\">\r\n    <td>{{ i + 1 }}</td>\r\n    <td>{{algo.name}}</td>\r\n    <td>{{algo.description}}</td>\r\n    <td>{{algo.userId}}</td>\r\n    <td>{{algo.createdAt}}</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n    <button class=\"btn btn-danger mr-1\" title=\"Delete\" (click)=\"deleteAlgorithm(algo._id)\">\r\n    <span class=\"fas fa-fw fa-trash\"></span>\r\n    </button>\r\n    </div>\r\n    </td>\r\n    </tr>\r\n    <!-- <tr>\r\n    <td>2</td>\r\n    <td>Mohamed Almeer</td>\r\n    <td>Lorem ipsum, or lipsum as it is sometimes known, is dummy text \r\n        used in laying out print, graphic or web designs.</td>\r\n    <td>Almeer</td>\r\n    <td>20-04-2020</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>3</td>\r\n    <td>Tony Stark</td>\r\n    <td>Lorem ipsum, or lipsum as it is sometimes known, is dummy text \r\n        used in laying out print, graphic or web designs.</td>\r\n\r\n   \r\n    <td>Stark</td>\r\n    <td>19-04-2020</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>4</td>\r\n    <td>hemant mahalle</td>\r\n    <td>Lorem ipsum, or lipsum as it is sometimes known, is dummy text \r\n        used in laying out print, graphic or web designs.</td>\r\n    <td>Mahalle</td>\r\n    <td>18-04-2020</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>5</td>\r\n    <td>yasir yousaf</td>\r\n    <td>Lorem ipsum, or lipsum as it is sometimes known, is dummy text \r\n        used in laying out print, graphic or web designs.</td>\r\n    <td>yousaf</td>\r\n    <td>17-04-2020</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>6</td>\r\n    <td>Champ ionn</td>\r\n    <td>Lorem ipsum, or lipsum as it is sometimes known, is dummy text \r\n        used in laying out print, graphic or web designs.</td>\r\n    <td>Champ</td>\r\n    <td>16-04-2020</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>7</td>\r\n    <td>Anguilla</td>\r\n    <td>Lorem ipsum, or lipsum as it is sometimes known, is dummy text \r\n        used in laying out print, graphic or web designs.</td>\r\n    <td>Champ</td>\r\n    <td>15-04-2020</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>8</td>\r\n    <td>Antarctica Joans</td>\r\n    <td>Lorem ipsum, or lipsum as it is sometimes known, is dummy text \r\n        used in laying out print, graphic or web designs.</td>\r\n    <td>Joans</td>\r\n    <td>14-04-2020</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>9</td>\r\n    <td>Antigua And Barbuda</td>\r\n    <td>Lorem ipsum, or lipsum as it is sometimes known, is dummy text \r\n        used in laying out print, graphic or web designs.</td>\r\n    <td>Barbuda</td>\r\n    <td>13-04-2020</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>10</td>\r\n    <td>Afsal Rahman</td>\r\n    <td>Lorem ipsum, or lipsum as it is sometimes known, is dummy text \r\n        used in laying out print, graphic or web designs.</td>\r\n    <td>Rahman</td>\r\n    <td>12-04-2020</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n</tr> -->\r\n</tbody>\r\n</table>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n\r\n\r\n    \r\n\r\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/analysts/analysts.component.html":
+  /*!*****************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/analysts/analysts.component.html ***!
+    \*****************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppIdealzPagesAnalystsAnalystsComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "<div class=\"container-fluid\">\r\n    <div class=\"card shadow mb-4\">\r\n    <div class=\"card-header py-3\">\r\n    <div class=\"row\">\r\n    <div class=\"col-md-12 user_title\">\r\n    <h6 class=\"m-0 font-weight-bold text-primary\">Analysts\r\n    \r\n    </h6>\r\n    </div>\r\n    </div>\r\n    <div class=\"row\">\r\n    <div class=\"col-md-4 user_filter\">\r\n    <input type=\"text\" class=\"form-control\" name=\"searchText\" placeholder=\"Search Name\">\r\n    </div>\r\n    <div class=\"col-md-5 user_serch_btn\">\r\n    <button type=\"submit\" class=\"btn btn-primary pl-4 pr-4\">Search</button>\r\n    <button type=\"reset\" class=\"btn btn-primary pl-4 pr-4 ml-2\">Reset</button>\r\n    </div>\r\n    <div class=\"col-md-3 text-right\"><button class=\"btn btn-primary\"  tabindex=\"0\" routerLink=\"/onboardanalyst\"> Onboard Analyst </button></div>\r\n    \r\n    </div>\r\n    </div>\r\n    \r\n    <div class=\"card-body\">\r\n    <div class=\"table-responsive\">\r\n    <table class=\"table table-bordered\" width=\"100%\" cellspacing=\"0\">\r\n    <thead>\r\n    \r\n    <tr>\r\n    <th width=\"2%\">S.No</th>\r\n    <th width=\"10%\">Username</th>\r\n    <th width=\"10%\">Email </th>\r\n    <th width=\"20%\">Description </th>\r\n    <th width=\"10%\">Bankroll</th>\r\n    <th width=\"12%\">On-boarding Date</th>\r\n    <th width=\"10%\">Actions</th>\r\n    </tr>\r\n    </thead>\r\n<tbody>\r\n    <tr *ngFor=\"let analyst of analystsList; let i = index\">\r\n        <td>{{ i +1 }}</td>\r\n        <td>{{analyst.userName}}</td>\r\n        <td>{{analyst.email}}</td>\r\n        <td>{{analyst.description}}</td>\r\n        <td>{{analyst.bankRoll}}</td>\r\n        <td>{{analyst.createdAt}}</td>\r\n        <td>\r\n            <div class=\"product_action\">\r\n       \r\n        <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n                <span *ngIf=\"!analyst.isBlocked\" class=\"fa fa-ban\" (click)=\"blockAnalyst(analyst.id)\"></span>\r\n                <span *ngIf=\"analyst.isBlocked\" (click)=\"unBlockAnalyst(analyst.id)\">UnBan</span>\r\n        </button>\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\" (click)=\"deleteAnalyst(analyst.id)\">\r\n               <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n        </tr>\r\n </tbody>\r\n</table>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n\r\n\r\n    \r\n\r\n\r\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/changepassword/changepassword.component.html":
+  /*!*****************************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/changepassword/changepassword.component.html ***!
+    \*****************************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppIdealzPagesChangepasswordChangepasswordComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "<div class=\"container-fluid\">\r\n<div class=\"card shadow mb-4\">\r\n<div class=\"card-header py-3\">\r\n<div class=\"row\">\r\n<div class=\"col-md-12\">\r\n<div class=\"row\">\r\n<div class=\"col-md-6 user_title\">\r\n<h6 class=\"m-0 font-weight-bold text-primary add_comman_button\">\r\n Change Password \r\n\r\n</h6>\r\n</div>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n\r\n<div class=\"content_sec_comman\">\r\n<div class=\"content_wrap\">\r\n\r\n<div class=\"commission_Setting\">\r\n<div class=\" col-md-12\">\r\n<div class=\"row\">\r\n<div class=\"form-group col-md-6\">\r\n<label for=\"title\">Current Password</label>\r\n<div class=\"input-group\">\r\n<input class=\"form-control\" type=\"text\" value=\"\" name=\"Current Password\" placeholder=\"Enter Current Password\">\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n\r\n<div class=\" col-md-12\">\r\n    <div class=\"row\">\r\n    <div class=\"form-group col-md-6\">\r\n    <label for=\"title\">New Password</label>\r\n    <div class=\"input-group\">\r\n    <input class=\"form-control\" type=\"text\" value=\"\" name=\"New Password\" placeholder=\"Enter New Password\">\r\n    </div>\r\n    </div>\r\n    </div>\r\n    </div>\r\n\r\n\r\n    <div class=\" col-md-12\">\r\n        <div class=\"row\">\r\n        <div class=\"form-group col-md-6\">\r\n        <label for=\"title\">Confirm Password</label>\r\n        <div class=\"input-group\">\r\n        <input class=\"form-control\" type=\"text\" value=\"\" name=\"Confirm Password\" placeholder=\"Enter Confirm Password\">\r\n        </div>\r\n        </div>\r\n        </div>\r\n        </div>\r\n\r\n        <div class=\"col-md-12\">\r\n            <div class=\"form-group form-actions add_edit\">\r\n                <button type=\"submit\" class=\"btn btn-sm btn-success\">\r\n                    Update\r\n                </button>\r\n            </div>\r\n        </div>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n\r\n";
+    /***/
+  },
+
+  /***/
   "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/dashboard/dashboard.component.html":
   /*!*******************************************************************************************************!*\
     !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/dashboard/dashboard.component.html ***!
@@ -80850,7 +80910,3223 @@
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"container-fluid\">\r\n\r\n    <!-- Page Heading -->\r\n    <div class=\"d-sm-flex align-items-center justify-content-between mb-4\">\r\n        <h1 class=\"h3 mb-0 text-gray-800\">Dashboard</h1>\r\n        <!-- <a href=\"#\" class=\"d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm\"><i\r\n                class=\"fas fa-download fa-sm text-white-50\"></i> Generate Report</a> -->\r\n    </div>\r\n        <!-- Content Row -->\r\n    <div class=\"grid_name\">\r\n        <!-- Earnings (Monthly) Card Example -->\r\n        <div class=\"comman_name_grid hvrcursor\"  title=\"View Total Campaign\">\r\n            <div class=\"card border-left-primary shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-primary text-uppercase mb-1\">\r\n                                Total Campaign\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                               27\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                            <img src=\"assets/icon/campaign4.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <!-- Earnings (Monthly) Card Example -->\r\n        <div class=\" comman_name_grid hvrcursor\"  title=\"View On Going Campaign\">\r\n            <div class=\"card border-left-warning shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-warning text-uppercase mb-1\">\r\n                                On Going Campaign\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                                10\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                            <img src=\"assets/icon/campaign2.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <!-- Pending Requests Card Example -->\r\n        <div class=\"comman_name_grid hvrcursor\"  title=\"View Closed Campaign\">\r\n            <div class=\"card border-left-success shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-success text-uppercase mb-1\">\r\n                              Closed Campaign\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                               11\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                              <img src=\"assets/icon/campaign3.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n          <div class=\"comman_name_grid hvrcursor\"  title=\"View User Report\">\r\n            <div class=\"card border-left-info shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-info text-uppercase mb-1\">\r\n                            User Report\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                               3\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                              <img src=\"assets/icon/user-report1.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n\r\n      <!-- Content Row -->\r\n    <div class=\"grid_name\">\r\n        <!-- Earnings (Monthly) Card Example -->\r\n        <div class=\"comman_name_grid hvrcursor\"  title=\"View Orders\">\r\n            <div class=\"card border-left-primary shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-primary text-uppercase mb-1\">\r\n                                Orders\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                               7\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                             <img src=\"assets/icon/order1.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <!-- Earnings (Monthly) Card Example -->\r\n        <div class=\" comman_name_grid hvrcursor\"  title=\"View Products\">\r\n            <div class=\"card border-left-warning shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-warning text-uppercase mb-1\">\r\n                                Products\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                                20\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                               <img src=\"assets/icon/order1.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <!-- Pending Requests Card Example -->\r\n        <div class=\"comman_name_grid hvrcursor\"  title=\"View Users\">\r\n            <div class=\"card border-left-success shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-success text-uppercase mb-1\">\r\n                                Users\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                               5\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                               <img src=\"assets/icon/user1.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <div class=\" comman_name_grid hvrcursor\" title=\"View Earnings\">\r\n            <div class=\"card border-left-info shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-info text-uppercase mb-1\">\r\n                               Earnings\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                                4\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                            <img src=\"assets/icon/earning1.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n    <!-- Content Row -->\r\n\r\n    <div class=\"row\">\r\n\r\n        <!-- Area Chart -->\r\n        <div class=\"col-xl-12 col-lg-12\">\r\n            <div class=\"card shadow mb-4\">\r\n                <!-- Card Header - Dropdown -->\r\n                <div class=\"card-header py-3 d-flex flex-row align-items-center justify-content-between\">\r\n                    <h6 class=\"m-0 font-weight-bold text-primary\">Revenue Analytics</h6>\r\n                </div>\r\n                <!-- Card Body -->\r\n                <div class=\"card-body\">        \r\n                    <fusioncharts\r\n                    type=\"timeseries\"\r\n                    width=\"100%\"\r\n                    height=\"600\"\r\n                    [dataSource]=\"dataSource\"\r\n                    ></fusioncharts>\r\n                   \r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>";
+    __webpack_exports__["default"] = "<div class=\"container-fluid\">\r\n\r\n    <!-- Page Heading -->\r\n    <div class=\"d-sm-flex align-items-center justify-content-between mb-4\">\r\n        <h1 class=\"h3 mb-0 text-gray-800\">Dashboard</h1>\r\n        <!-- <a href=\"#\" class=\"d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm\"><i\r\n                class=\"fas fa-download fa-sm text-white-50\"></i> Generate Report</a> -->\r\n    </div>\r\n        <!-- Content Row -->\r\n    <div class=\"grid_name\">\r\n        <!-- Earnings (Monthly) Card Example -->\r\n        <div class=\"comman_name_grid hvrcursor\"  title=\" No. of Enthusiast\">\r\n            <div class=\"card border-left-primary shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-primary text-uppercase mb-1\">\r\n                                No. of Enthusiast\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                               27\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                            <img src=\"assets/icon/people.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <!-- Earnings (Monthly) Card Example -->\r\n        <div class=\" comman_name_grid hvrcursor\"  title=\"No. of Analysts\">\r\n            <div class=\"card border-left-warning shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-warning text-uppercase mb-1\">\r\n                                No. of Analysts\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                                10\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                            <img src=\"assets/icon/bars.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <!-- Pending Requests Card Example -->\r\n        <div class=\"comman_name_grid hvrcursor\"  title=\"No. of Algorithms\">\r\n            <div class=\"card border-left-success shadow h-100 py-2\">\r\n                <div class=\"card-body\">\r\n                    <div class=\"row no-gutters align-items-center\">\r\n                        <div class=\"col mr-2\">\r\n                            <div class=\"text-xs font-weight-bold text-success text-uppercase mb-1\">\r\n                                No. of Algorithms\r\n                            </div>\r\n                            <div class=\"h5 mb-0 font-weight-bold text-gray-800\">\r\n                               11\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"col-auto\">\r\n                              <img src=\"assets/icon/network.png\">\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n\r\n     \r\n\r\n    <div class=\"row\">\r\n\r\n        <!-- Area Chart -->\r\n        <div class=\"col-xl-12 col-lg-12\">\r\n            <div class=\"card shadow mb-4\">\r\n               \r\n                <div class=\"card-header py-3 d-flex flex-row align-items-center justify-content-between\">\r\n                    <h6 class=\"m-0 font-weight-bold text-primary\"> No. of Enthusiast</h6>\r\n                </div>\r\n               \r\n                <div class=\"card-body\">        \r\n                    <fusioncharts\r\n                    type=\"timeseries\"\r\n                    width=\"100%\"\r\n                    height=\"600\"\r\n                    [dataSource]=\"dataSource\"\r\n                    ></fusioncharts>\r\n                   \r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/enthusiasts/enthusiasts.component.html":
+  /*!***********************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/enthusiasts/enthusiasts.component.html ***!
+    \***********************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppIdealzPagesEnthusiastsEnthusiastsComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "<div class=\"container-fluid\">\r\n    <div class=\"card shadow mb-4\">\r\n    <div class=\"card-header py-3\">\r\n    <div class=\"row\">\r\n    <div class=\"col-md-12 user_title\">\r\n    <h6 class=\"m-0 font-weight-bold text-primary\">Enthusiasts\r\n    \r\n    </h6>\r\n    </div>\r\n    </div>\r\n    <div class=\"row\">\r\n    <div class=\"col-md-4 user_filter\">\r\n    <input type=\"text\" class=\"form-control\" name=\"searchText\" (keyup)=\"applyFilter($event.target.value)\" placeholder=\"Search Username\">\r\n    </div>\r\n    <div class=\"col-md-5 user_serch_btn\">\r\n    <button type=\"submit\" class=\"btn btn-primary pl-4 pr-4\">Search</button>\r\n    <button type=\"reset\" class=\"btn btn-primary pl-4 pr-4 ml-2\">Reset</button>\r\n    </div>\r\n    \r\n    </div>\r\n    </div>\r\n    \r\n    <div class=\"card-body\">\r\n    <div class=\"table-responsive\">\r\n    <table class=\"table table-bordered\" width=\"100%\" cellspacing=\"0\">\r\n    <thead>\r\n    \r\n    <tr>\r\n    <th width=\"5%\">S.No</th>\r\n    <th width=\"10%\">Username</th>\r\n    <th width=\"10%\">Email </th>\r\n    <th width=\"10%\">Bankroll</th>\r\n    <th width=\"10%\">Actions</th>\r\n    </tr>\r\n    </thead>\r\n    <tbody>\r\n    <tr *ngFor=\"let enthusiasts of enthusiastsList; let i = index\">\r\n    <td>{{ i +1 }}</td>\r\n    <td>{{enthusiasts.userName}}</td>\r\n    <td>{{enthusiasts.email}}</td>\r\n    <td>{{enthusiasts.bankRoll}}</td>\r\n    <td>\r\n    <div class=\"product_action\">\r\n    <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n    <span class=\"fa fa-ban\"></span>\r\n    </button>\r\n    <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n    <span class=\"fas fa-fw fa-trash\"></span>\r\n    </button>\r\n    </div>\r\n    </td>\r\n    </tr>\r\n    <!-- <tr>\r\n    <td>2</td>\r\n    <td>Mohamed Almeer</td>\r\n    <td>m.almeer@almeergroup.com</td>\r\n    <td>Almeer</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n        <span class=\"fa fa-ban\"></span>\r\n        </button>\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>3</td>\r\n    <td>Tony Stark</td>\r\n    <td>tonystark@stark.com</td>\r\n    <td>Stark</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n        <span class=\"fa fa-ban\"></span>\r\n        </button>\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>4</td>\r\n    <td>hemant mahalle</td>\r\n    <td>forextrainternetuse@gmail.com</td>\r\n    <td>Mahalle</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n        <span class=\"fa fa-ban\"></span>\r\n        </button>\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>5</td>\r\n    <td>yasir yousaf</td>\r\n    <td>yasir_659@yahoo.com</td>\r\n    <td>yousaf</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n        <span class=\"fa fa-ban\"></span>\r\n        </button>\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>6</td>\r\n    <td>Champ ionn</td>\r\n    <td>c@yopmail.com</td>\r\n    <td>Champ</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n        <span class=\"fa fa-ban\"></span>\r\n        </button>\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>7</td>\r\n    <td>Anguilla</td>\r\n    <td>Anguilla129@gmail.com</td>\r\n    <td>Anguilla</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n        <span class=\"fa fa-ban\"></span>\r\n        </button>\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>8</td>\r\n    <td>Antarctica Joans</td>\r\n    <td>Antarcticajoans@gmail.com</td>\r\n    <td>Joans</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n        <span class=\"fa fa-ban\"></span>\r\n        </button>\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>9</td>\r\n    <td>Antigua And Barbuda</td>\r\n    <td>AntiguaBarbuda@gmail.com</td>\r\n    <td>Barbuda</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n        <span class=\"fa fa-ban\"></span>\r\n        </button>\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n    <td>10</td>\r\n    <td>Afsal Rahman</td>\r\n    <td>meafsal@gmail.com</td>\r\n    <td>Rahman</td>\r\n    <td>\r\n        <div class=\"product_action\">\r\n        <button class=\"btn btn-dark mr-1\" title=\"Block\">\r\n        <span class=\"fa fa-ban\"></span>\r\n        </button>\r\n        <button class=\"btn btn-danger mr-1\" title=\"Delete\">\r\n        <span class=\"fas fa-fw fa-trash\"></span>\r\n        </button>\r\n        </div>\r\n        </td>\r\n    </tr>\r\n     -->\r\n    \r\n    \r\n    </tbody>\r\n    </table>\r\n    </div>\r\n    </div>\r\n    \r\n    </div>\r\n    \r\n    \r\n    </div>\r\n    \r\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/notification/notification.component.html":
+  /*!*************************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/notification/notification.component.html ***!
+    \*************************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppIdealzPagesNotificationNotificationComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "<div class=\"container-fluid\">\r\n    <div class=\"card shadow mb-4\">\r\n    <div class=\"card-header py-3\">\r\n    <div class=\"row\">\r\n    <div class=\"col-md-12\">\r\n    <div class=\"row\">\r\n    <div class=\"col-md-6 user_title\">\r\n    <h6 class=\"m-0 font-weight-bold text-primary add_comman_button\">\r\n        Broadcast Notifications \r\n    \r\n    </h6>\r\n    </div>\r\n    \r\n    </div>\r\n    </div>\r\n    </div>\r\n    </div>\r\n    \r\n    <div class=\"content_sec_comman\">\r\n    <div class=\"content_wrap\">\r\n    \r\n    <div class=\"commission_Setting\">\r\n\r\n        <div class=\" col-md-12\">\r\n            <div class=\"row\">\r\n            <div class=\"form-group col-md-6\">\r\n        <div class=\"radio_box_outer\">\r\n            <p>\r\n                <label class=\"radio_check\">\r\n                    <input type=\"radio\" name=\"radio\">\r\n                    <span class=\"checkmark_radio\"></span>\r\n                    <span class=\"label_name\">Enthusiast </span>\r\n                </label>\r\n            </p>\r\n            <p>\r\n                <label class=\"radio_check\">\r\n                    <input type=\"radio\" name=\"radio\">\r\n                    <span class=\"checkmark_radio\"></span>\r\n                    <span class=\"label_name\">Analyst</span>\r\n                </label>\r\n            </p>\r\n        </div>\r\n        </div>\r\n        </div>\r\n        </div>\r\n    <div class=\" col-md-12\">\r\n    <div class=\"row\">\r\n    <div class=\"form-group col-md-6\">\r\n    <label for=\"title\">Title</label>\r\n    <div class=\"input-group\">\r\n    <input class=\"form-control\" type=\"text\" value=\"\" name=\"Title\">\r\n    </div>\r\n    </div>\r\n    </div>\r\n    </div>\r\n    \r\n    <div class=\" col-md-12\">\r\n        <div class=\"row\">\r\n        <div class=\"form-group col-md-6\">\r\n        <label for=\"title\">Message</label>\r\n        <div class=\"input-group\">\r\n            <textarea type=\"text\" row=\"3\" id=\"body\" class=\"form-control\" formControlName=\"Message\"\r\n            placeholder=\"\"></textarea>\r\n        </div>\r\n        </div>\r\n        </div>\r\n        </div>\r\n    \r\n    \r\n            <div class=\"col-md-12\">\r\n                <div class=\"form-group form-actions add_edit\">\r\n                    <button type=\"submit\" class=\"btn btn-sm btn-success\">\r\n                        Submit\r\n                    </button>\r\n                </div>\r\n            </div>\r\n    \r\n    </div>\r\n    </div>\r\n    </div>\r\n    </div>\r\n    </div>\r\n    \r\n    \r\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/onboard-analyst/onboard-analyst.component.html":
+  /*!*******************************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/onboard-analyst/onboard-analyst.component.html ***!
+    \*******************************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppIdealzPagesOnboardAnalystOnboardAnalystComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "<div class=\"container-fluid\">\r\n    <div class=\"card shadow mb-4\">\r\n        <div class=\"card-header py-3\">\r\n            <div class=\"row\">\r\n                <div class=\"col-md-12\">\r\n                    <div class=\"row\">\r\n                        <div class=\"col-md-6 user_title\">\r\n                            <h6 class=\"m-0 font-weight-bold text-primary add_comman_button\">\r\n                                Onboard Analyst\r\n\r\n                            </h6>\r\n                        </div>\r\n\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <div class=\"content_sec_comman\">\r\n            <div class=\"content_wrap\">\r\n                <form [formGroup]=\"analystForm\">\r\n                    <div class=\"commission_Setting\">\r\n                        <div class=\" col-md-12\">\r\n                            <div class=\"row\">\r\n                                <div class=\"form-group col-md-6\">\r\n                                    <label for=\"title\">Username</label>\r\n                                    <div class=\"input-group\">\r\n                                        <input class=\"form-control\" type=\"text\" value=\"\" name=\"userName\"\r\n                                            formControlName=\"userName\">\r\n                                    </div>\r\n                                    <div *ngIf=\"submitted && analystForm.controls.userName.errors\"\r\n                                        class=\"invalid-feedback\">\r\n                                        <div *ngIf=\"analystForm.controls.userName.errors.required\">\r\n                                            Username is required.\r\n                                        </div>\r\n                                        <!-- <div *ngIf=\"analystForm.controls.userName.errors.pattern\">\r\n                                    Prize Name is not valid.\r\n                                    </div> -->\r\n                                        <div *ngIf=\"analystForm.controls.userName.errors.maxlength\">\r\n                                            Username can be max 20 characters long.\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n                                <div class=\"form-group col-md-6\">\r\n                                    <label for=\"title\">Email</label>\r\n                                    <div class=\"input-group\">\r\n                                        <input class=\"form-control\" type=\"text\" value=\"\" name=\"email\"\r\n                                            formControlName=\"email\">\r\n                                    </div>\r\n                                    <div *ngIf=\"submitted && analystForm.controls.email.errors\"\r\n                                        class=\"invalid-feedback\">\r\n                                        <div *ngIf=\"analystForm.controls.email.errors.required\">\r\n                                            Email is required.\r\n                                        </div>\r\n                                        <div *ngIf=\"analystForm.controls.email.errors.pattern\">\r\n                                            Email is not valid.\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n                            <div class=\" col-md-12\">\r\n                                <div class=\"row\">\r\n                                    <div class=\"form-group col-md-6\">\r\n                                        <label for=\"title\">Description</label>\r\n                                        <div class=\"input-group\">\r\n                                            <textarea type=\"text\" id=\"body\" class=\"form-control\"\r\n                                                formControlName=\"description\" placeholder=\"\"></textarea>\r\n                                        </div>\r\n                                        <div *ngIf=\"submitted && analystForm.controls.description.errors\"\r\n                                            class=\"invalid-feedback\">\r\n                                            <div *ngIf=\"analystForm.controls.description.errors.required\">\r\n                                                Description is required.\r\n                                            </div>\r\n                                            <div *ngIf=\"analystForm.controls.description.errors.maxlength\">\r\n                                                Description can be max 250 characters long.\r\n                                            </div>\r\n                                        </div>\r\n                                    </div>\r\n                                    <div class=\"form-group col-md-6\">\r\n                                        <label for=\"title\">Bankroll</label>\r\n                                        <div class=\"input-group\">\r\n                                            <input class=\"form-control\" type=\"text\" value=\"\" name=\"bankRoll\"\r\n                                                formControlName=\"bankRoll\">\r\n                                        </div>\r\n                                        <div *ngIf=\"submitted && analystForm.controls.bankRoll.errors\"\r\n                                            class=\"invalid-feedback\">\r\n                                            <div *ngIf=\"analystForm.controls.bankRoll.errors.required\">\r\n                                                Bankroll is required.\r\n                                            </div>\r\n                                        </div>\r\n                                    </div>\r\n\r\n                                </div>\r\n                            </div>\r\n\r\n\r\n                            <div class=\"col-md-12\">\r\n                                <div class=\"form-group form-actions add_edit\">\r\n                                    <button type=\"submit\" class=\"btn btn-sm btn-success\" (click)=\"onSubmit()\">\r\n                                        Submit\r\n                                    </button>\r\n                                </div>\r\n                            </div>\r\n\r\n                        </div>\r\n                </form>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/onboardanalyst/onboardanalyst.component.html":
+  /*!*****************************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/onboardanalyst/onboardanalyst.component.html ***!
+    \*****************************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppIdealzPagesOnboardanalystOnboardanalystComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "";
+    /***/
+  },
+
+  /***/
+  "./node_modules/sweetalert2/dist/sweetalert2.all.js":
+  /*!**********************************************************!*\
+    !*** ./node_modules/sweetalert2/dist/sweetalert2.all.js ***!
+    \**********************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesSweetalert2DistSweetalert2AllJs(module, exports, __webpack_require__) {
+    /*!
+    * sweetalert2 v9.10.2
+    * Released under the MIT License.
+    */
+    (function (global, factory) {
+      true ? module.exports = factory() : undefined;
+    })(this, function () {
+      'use strict';
+
+      function _typeof(obj) {
+        "@babel/helpers - typeof";
+
+        if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") {
+          _typeof = function _typeof(obj) {
+            return typeof obj;
+          };
+        } else {
+          _typeof = function _typeof(obj) {
+            return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj;
+          };
+        }
+
+        return _typeof(obj);
+      }
+
+      function _classCallCheck(instance, Constructor) {
+        if (!(instance instanceof Constructor)) {
+          throw new TypeError("Cannot call a class as a function");
+        }
+      }
+
+      function _defineProperties(target, props) {
+        for (var i = 0; i < props.length; i++) {
+          var descriptor = props[i];
+          descriptor.enumerable = descriptor.enumerable || false;
+          descriptor.configurable = true;
+          if ("value" in descriptor) descriptor.writable = true;
+          Object.defineProperty(target, descriptor.key, descriptor);
+        }
+      }
+
+      function _createClass(Constructor, protoProps, staticProps) {
+        if (protoProps) _defineProperties(Constructor.prototype, protoProps);
+        if (staticProps) _defineProperties(Constructor, staticProps);
+        return Constructor;
+      }
+
+      function _extends() {
+        _extends = Object.assign || function (target) {
+          for (var i = 1; i < arguments.length; i++) {
+            var source = arguments[i];
+
+            for (var key in source) {
+              if (Object.prototype.hasOwnProperty.call(source, key)) {
+                target[key] = source[key];
+              }
+            }
+          }
+
+          return target;
+        };
+
+        return _extends.apply(this, arguments);
+      }
+
+      function _inherits(subClass, superClass) {
+        if (typeof superClass !== "function" && superClass !== null) {
+          throw new TypeError("Super expression must either be null or a function");
+        }
+
+        subClass.prototype = Object.create(superClass && superClass.prototype, {
+          constructor: {
+            value: subClass,
+            writable: true,
+            configurable: true
+          }
+        });
+        if (superClass) _setPrototypeOf(subClass, superClass);
+      }
+
+      function _getPrototypeOf(o) {
+        _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) {
+          return o.__proto__ || Object.getPrototypeOf(o);
+        };
+        return _getPrototypeOf(o);
+      }
+
+      function _setPrototypeOf(o, p) {
+        _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) {
+          o.__proto__ = p;
+          return o;
+        };
+
+        return _setPrototypeOf(o, p);
+      }
+
+      function isNativeReflectConstruct() {
+        if (typeof Reflect === "undefined" || !Reflect.construct) return false;
+        if (Reflect.construct.sham) return false;
+        if (typeof Proxy === "function") return true;
+
+        try {
+          Date.prototype.toString.call(Reflect.construct(Date, [], function () {}));
+          return true;
+        } catch (e) {
+          return false;
+        }
+      }
+
+      function _construct(Parent, args, Class) {
+        if (isNativeReflectConstruct()) {
+          _construct = Reflect.construct;
+        } else {
+          _construct = function _construct(Parent, args, Class) {
+            var a = [null];
+            a.push.apply(a, args);
+            var Constructor = Function.bind.apply(Parent, a);
+            var instance = new Constructor();
+            if (Class) _setPrototypeOf(instance, Class.prototype);
+            return instance;
+          };
+        }
+
+        return _construct.apply(null, arguments);
+      }
+
+      function _assertThisInitialized(self) {
+        if (self === void 0) {
+          throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+        }
+
+        return self;
+      }
+
+      function _possibleConstructorReturn(self, call) {
+        if (call && (typeof call === "object" || typeof call === "function")) {
+          return call;
+        }
+
+        return _assertThisInitialized(self);
+      }
+
+      function _superPropBase(object, property) {
+        while (!Object.prototype.hasOwnProperty.call(object, property)) {
+          object = _getPrototypeOf(object);
+          if (object === null) break;
+        }
+
+        return object;
+      }
+
+      function _get(target, property, receiver) {
+        if (typeof Reflect !== "undefined" && Reflect.get) {
+          _get = Reflect.get;
+        } else {
+          _get = function _get(target, property, receiver) {
+            var base = _superPropBase(target, property);
+
+            if (!base) return;
+            var desc = Object.getOwnPropertyDescriptor(base, property);
+
+            if (desc.get) {
+              return desc.get.call(receiver);
+            }
+
+            return desc.value;
+          };
+        }
+
+        return _get(target, property, receiver || target);
+      }
+
+      var consolePrefix = 'SweetAlert2:';
+      /**
+       * Filter the unique values into a new array
+       * @param arr
+       */
+
+      var uniqueArray = function uniqueArray(arr) {
+        var result = [];
+
+        for (var i = 0; i < arr.length; i++) {
+          if (result.indexOf(arr[i]) === -1) {
+            result.push(arr[i]);
+          }
+        }
+
+        return result;
+      };
+      /**
+       * Capitalize the first letter of a string
+       * @param str
+       */
+
+
+      var capitalizeFirstLetter = function capitalizeFirstLetter(str) {
+        return str.charAt(0).toUpperCase() + str.slice(1);
+      };
+      /**
+       * Returns the array ob object values (Object.values isn't supported in IE11)
+       * @param obj
+       */
+
+
+      var objectValues = function objectValues(obj) {
+        return Object.keys(obj).map(function (key) {
+          return obj[key];
+        });
+      };
+      /**
+       * Convert NodeList to Array
+       * @param nodeList
+       */
+
+
+      var toArray = function toArray(nodeList) {
+        return Array.prototype.slice.call(nodeList);
+      };
+      /**
+       * Standardise console warnings
+       * @param message
+       */
+
+
+      var warn = function warn(message) {
+        console.warn("".concat(consolePrefix, " ").concat(message));
+      };
+      /**
+       * Standardise console errors
+       * @param message
+       */
+
+
+      var error = function error(message) {
+        console.error("".concat(consolePrefix, " ").concat(message));
+      };
+      /**
+       * Private global state for `warnOnce`
+       * @type {Array}
+       * @private
+       */
+
+
+      var previousWarnOnceMessages = [];
+      /**
+       * Show a console warning, but only if it hasn't already been shown
+       * @param message
+       */
+
+      var warnOnce = function warnOnce(message) {
+        if (!(previousWarnOnceMessages.indexOf(message) !== -1)) {
+          previousWarnOnceMessages.push(message);
+          warn(message);
+        }
+      };
+      /**
+       * Show a one-time console warning about deprecated params/methods
+       */
+
+
+      var warnAboutDepreation = function warnAboutDepreation(deprecatedParam, useInstead) {
+        warnOnce("\"".concat(deprecatedParam, "\" is deprecated and will be removed in the next major release. Please use \"").concat(useInstead, "\" instead."));
+      };
+      /**
+       * If `arg` is a function, call it (with no arguments or context) and return the result.
+       * Otherwise, just pass the value through
+       * @param arg
+       */
+
+
+      var callIfFunction = function callIfFunction(arg) {
+        return typeof arg === 'function' ? arg() : arg;
+      };
+
+      var isPromise = function isPromise(arg) {
+        return arg && Promise.resolve(arg) === arg;
+      };
+
+      var DismissReason = Object.freeze({
+        cancel: 'cancel',
+        backdrop: 'backdrop',
+        close: 'close',
+        esc: 'esc',
+        timer: 'timer'
+      });
+
+      var isJqueryElement = function isJqueryElement(elem) {
+        return _typeof(elem) === 'object' && elem.jquery;
+      };
+
+      var isElement = function isElement(elem) {
+        return elem instanceof Element || isJqueryElement(elem);
+      };
+
+      var argsToParams = function argsToParams(args) {
+        var params = {};
+
+        if (_typeof(args[0]) === 'object' && !isElement(args[0])) {
+          _extends(params, args[0]);
+        } else {
+          ['title', 'html', 'icon'].forEach(function (name, index) {
+            var arg = args[index];
+
+            if (typeof arg === 'string' || isElement(arg)) {
+              params[name] = arg;
+            } else if (arg !== undefined) {
+              error("Unexpected type of ".concat(name, "! Expected \"string\" or \"Element\", got ").concat(_typeof(arg)));
+            }
+          });
+        }
+
+        return params;
+      };
+
+      var swalPrefix = 'swal2-';
+
+      var prefix = function prefix(items) {
+        var result = {};
+
+        for (var i in items) {
+          result[items[i]] = swalPrefix + items[i];
+        }
+
+        return result;
+      };
+
+      var swalClasses = prefix(['container', 'shown', 'height-auto', 'iosfix', 'popup', 'modal', 'no-backdrop', 'no-transition', 'toast', 'toast-shown', 'toast-column', 'show', 'hide', 'close', 'title', 'header', 'content', 'html-container', 'actions', 'confirm', 'cancel', 'footer', 'icon', 'icon-content', 'image', 'input', 'file', 'range', 'select', 'radio', 'checkbox', 'label', 'textarea', 'inputerror', 'validation-message', 'progress-steps', 'active-progress-step', 'progress-step', 'progress-step-line', 'loading', 'styled', 'top', 'top-start', 'top-end', 'top-left', 'top-right', 'center', 'center-start', 'center-end', 'center-left', 'center-right', 'bottom', 'bottom-start', 'bottom-end', 'bottom-left', 'bottom-right', 'grow-row', 'grow-column', 'grow-fullscreen', 'rtl', 'timer-progress-bar', 'timer-progress-bar-container', 'scrollbar-measure', 'icon-success', 'icon-warning', 'icon-info', 'icon-question', 'icon-error']);
+      var iconTypes = prefix(['success', 'warning', 'info', 'question', 'error']);
+
+      var getContainer = function getContainer() {
+        return document.body.querySelector(".".concat(swalClasses.container));
+      };
+
+      var elementBySelector = function elementBySelector(selectorString) {
+        var container = getContainer();
+        return container ? container.querySelector(selectorString) : null;
+      };
+
+      var elementByClass = function elementByClass(className) {
+        return elementBySelector(".".concat(className));
+      };
+
+      var getPopup = function getPopup() {
+        return elementByClass(swalClasses.popup);
+      };
+
+      var getIcons = function getIcons() {
+        var popup = getPopup();
+        return toArray(popup.querySelectorAll(".".concat(swalClasses.icon)));
+      };
+
+      var getIcon = function getIcon() {
+        var visibleIcon = getIcons().filter(function (icon) {
+          return isVisible(icon);
+        });
+        return visibleIcon.length ? visibleIcon[0] : null;
+      };
+
+      var getTitle = function getTitle() {
+        return elementByClass(swalClasses.title);
+      };
+
+      var getContent = function getContent() {
+        return elementByClass(swalClasses.content);
+      };
+
+      var getHtmlContainer = function getHtmlContainer() {
+        return elementByClass(swalClasses['html-container']);
+      };
+
+      var getImage = function getImage() {
+        return elementByClass(swalClasses.image);
+      };
+
+      var getProgressSteps = function getProgressSteps() {
+        return elementByClass(swalClasses['progress-steps']);
+      };
+
+      var getValidationMessage = function getValidationMessage() {
+        return elementByClass(swalClasses['validation-message']);
+      };
+
+      var getConfirmButton = function getConfirmButton() {
+        return elementBySelector(".".concat(swalClasses.actions, " .").concat(swalClasses.confirm));
+      };
+
+      var getCancelButton = function getCancelButton() {
+        return elementBySelector(".".concat(swalClasses.actions, " .").concat(swalClasses.cancel));
+      };
+
+      var getActions = function getActions() {
+        return elementByClass(swalClasses.actions);
+      };
+
+      var getHeader = function getHeader() {
+        return elementByClass(swalClasses.header);
+      };
+
+      var getFooter = function getFooter() {
+        return elementByClass(swalClasses.footer);
+      };
+
+      var getTimerProgressBar = function getTimerProgressBar() {
+        return elementByClass(swalClasses['timer-progress-bar']);
+      };
+
+      var getCloseButton = function getCloseButton() {
+        return elementByClass(swalClasses.close);
+      }; // https://github.com/jkup/focusable/blob/master/index.js
+
+
+      var focusable = "\n  a[href],\n  area[href],\n  input:not([disabled]),\n  select:not([disabled]),\n  textarea:not([disabled]),\n  button:not([disabled]),\n  iframe,\n  object,\n  embed,\n  [tabindex=\"0\"],\n  [contenteditable],\n  audio[controls],\n  video[controls],\n  summary\n";
+
+      var getFocusableElements = function getFocusableElements() {
+        var focusableElementsWithTabindex = toArray(getPopup().querySelectorAll('[tabindex]:not([tabindex="-1"]):not([tabindex="0"])')) // sort according to tabindex
+        .sort(function (a, b) {
+          a = parseInt(a.getAttribute('tabindex'));
+          b = parseInt(b.getAttribute('tabindex'));
+
+          if (a > b) {
+            return 1;
+          } else if (a < b) {
+            return -1;
+          }
+
+          return 0;
+        });
+        var otherFocusableElements = toArray(getPopup().querySelectorAll(focusable)).filter(function (el) {
+          return el.getAttribute('tabindex') !== '-1';
+        });
+        return uniqueArray(focusableElementsWithTabindex.concat(otherFocusableElements)).filter(function (el) {
+          return isVisible(el);
+        });
+      };
+
+      var isModal = function isModal() {
+        return !isToast() && !document.body.classList.contains(swalClasses['no-backdrop']);
+      };
+
+      var isToast = function isToast() {
+        return document.body.classList.contains(swalClasses['toast-shown']);
+      };
+
+      var isLoading = function isLoading() {
+        return getPopup().hasAttribute('data-loading');
+      };
+
+      var states = {
+        previousBodyPadding: null
+      };
+
+      var hasClass = function hasClass(elem, className) {
+        if (!className) {
+          return false;
+        }
+
+        var classList = className.split(/\s+/);
+
+        for (var i = 0; i < classList.length; i++) {
+          if (!elem.classList.contains(classList[i])) {
+            return false;
+          }
+        }
+
+        return true;
+      };
+
+      var removeCustomClasses = function removeCustomClasses(elem, params) {
+        toArray(elem.classList).forEach(function (className) {
+          if (!(objectValues(swalClasses).indexOf(className) !== -1) && !(objectValues(iconTypes).indexOf(className) !== -1) && !(objectValues(params.showClass).indexOf(className) !== -1)) {
+            elem.classList.remove(className);
+          }
+        });
+      };
+
+      var applyCustomClass = function applyCustomClass(elem, params, className) {
+        removeCustomClasses(elem, params);
+
+        if (params.customClass && params.customClass[className]) {
+          if (typeof params.customClass[className] !== 'string' && !params.customClass[className].forEach) {
+            return warn("Invalid type of customClass.".concat(className, "! Expected string or iterable object, got \"").concat(_typeof(params.customClass[className]), "\""));
+          }
+
+          addClass(elem, params.customClass[className]);
+        }
+      };
+
+      function getInput(content, inputType) {
+        if (!inputType) {
+          return null;
+        }
+
+        switch (inputType) {
+          case 'select':
+          case 'textarea':
+          case 'file':
+            return getChildByClass(content, swalClasses[inputType]);
+
+          case 'checkbox':
+            return content.querySelector(".".concat(swalClasses.checkbox, " input"));
+
+          case 'radio':
+            return content.querySelector(".".concat(swalClasses.radio, " input:checked")) || content.querySelector(".".concat(swalClasses.radio, " input:first-child"));
+
+          case 'range':
+            return content.querySelector(".".concat(swalClasses.range, " input"));
+
+          default:
+            return getChildByClass(content, swalClasses.input);
+        }
+      }
+
+      var focusInput = function focusInput(input) {
+        input.focus(); // place cursor at end of text in text input
+
+        if (input.type !== 'file') {
+          // http://stackoverflow.com/a/2345915
+          var val = input.value;
+          input.value = '';
+          input.value = val;
+        }
+      };
+
+      var toggleClass = function toggleClass(target, classList, condition) {
+        if (!target || !classList) {
+          return;
+        }
+
+        if (typeof classList === 'string') {
+          classList = classList.split(/\s+/).filter(Boolean);
+        }
+
+        classList.forEach(function (className) {
+          if (target.forEach) {
+            target.forEach(function (elem) {
+              condition ? elem.classList.add(className) : elem.classList.remove(className);
+            });
+          } else {
+            condition ? target.classList.add(className) : target.classList.remove(className);
+          }
+        });
+      };
+
+      var addClass = function addClass(target, classList) {
+        toggleClass(target, classList, true);
+      };
+
+      var removeClass = function removeClass(target, classList) {
+        toggleClass(target, classList, false);
+      };
+
+      var getChildByClass = function getChildByClass(elem, className) {
+        for (var i = 0; i < elem.childNodes.length; i++) {
+          if (hasClass(elem.childNodes[i], className)) {
+            return elem.childNodes[i];
+          }
+        }
+      };
+
+      var applyNumericalStyle = function applyNumericalStyle(elem, property, value) {
+        if (value || parseInt(value) === 0) {
+          elem.style[property] = typeof value === 'number' ? "".concat(value, "px") : value;
+        } else {
+          elem.style.removeProperty(property);
+        }
+      };
+
+      var show = function show(elem) {
+        var display = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 'flex';
+        elem.style.opacity = '';
+        elem.style.display = display;
+      };
+
+      var hide = function hide(elem) {
+        elem.style.opacity = '';
+        elem.style.display = 'none';
+      };
+
+      var toggle = function toggle(elem, condition, display) {
+        condition ? show(elem, display) : hide(elem);
+      }; // borrowed from jquery $(elem).is(':visible') implementation
+
+
+      var isVisible = function isVisible(elem) {
+        return !!(elem && (elem.offsetWidth || elem.offsetHeight || elem.getClientRects().length));
+      };
+      /* istanbul ignore next */
+
+
+      var isScrollable = function isScrollable(elem) {
+        return !!(elem.scrollHeight > elem.clientHeight);
+      }; // borrowed from https://stackoverflow.com/a/46352119
+
+
+      var hasCssAnimation = function hasCssAnimation(elem) {
+        var style = window.getComputedStyle(elem);
+        var animDuration = parseFloat(style.getPropertyValue('animation-duration') || '0');
+        var transDuration = parseFloat(style.getPropertyValue('transition-duration') || '0');
+        return animDuration > 0 || transDuration > 0;
+      };
+
+      var contains = function contains(haystack, needle) {
+        if (typeof haystack.contains === 'function') {
+          return haystack.contains(needle);
+        }
+      };
+
+      var animateTimerProgressBar = function animateTimerProgressBar(timer) {
+        var reset = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : false;
+        var timerProgressBar = getTimerProgressBar();
+
+        if (isVisible(timerProgressBar)) {
+          if (reset) {
+            timerProgressBar.style.transition = 'none';
+            timerProgressBar.style.width = '100%';
+          }
+
+          setTimeout(function () {
+            timerProgressBar.style.transition = "width ".concat(timer / 1000, "s linear");
+            timerProgressBar.style.width = '0%';
+          }, 10);
+        }
+      };
+
+      var stopTimerProgressBar = function stopTimerProgressBar() {
+        var timerProgressBar = getTimerProgressBar();
+        var timerProgressBarWidth = parseInt(window.getComputedStyle(timerProgressBar).width);
+        timerProgressBar.style.removeProperty('transition');
+        timerProgressBar.style.width = '100%';
+        var timerProgressBarFullWidth = parseInt(window.getComputedStyle(timerProgressBar).width);
+        var timerProgressBarPercent = parseInt(timerProgressBarWidth / timerProgressBarFullWidth * 100);
+        timerProgressBar.style.removeProperty('transition');
+        timerProgressBar.style.width = "".concat(timerProgressBarPercent, "%");
+      }; // Detect Node env
+
+
+      var isNodeEnv = function isNodeEnv() {
+        return typeof window === 'undefined' || typeof document === 'undefined';
+      };
+
+      var sweetHTML = "\n <div aria-labelledby=\"".concat(swalClasses.title, "\" aria-describedby=\"").concat(swalClasses.content, "\" class=\"").concat(swalClasses.popup, "\" tabindex=\"-1\">\n   <div class=\"").concat(swalClasses.header, "\">\n     <ul class=\"").concat(swalClasses['progress-steps'], "\"></ul>\n     <div class=\"").concat(swalClasses.icon, " ").concat(iconTypes.error, "\"></div>\n     <div class=\"").concat(swalClasses.icon, " ").concat(iconTypes.question, "\"></div>\n     <div class=\"").concat(swalClasses.icon, " ").concat(iconTypes.warning, "\"></div>\n     <div class=\"").concat(swalClasses.icon, " ").concat(iconTypes.info, "\"></div>\n     <div class=\"").concat(swalClasses.icon, " ").concat(iconTypes.success, "\"></div>\n     <img class=\"").concat(swalClasses.image, "\" />\n     <h2 class=\"").concat(swalClasses.title, "\" id=\"").concat(swalClasses.title, "\"></h2>\n     <button type=\"button\" class=\"").concat(swalClasses.close, "\"></button>\n   </div>\n   <div class=\"").concat(swalClasses.content, "\">\n     <div id=\"").concat(swalClasses.content, "\" class=\"").concat(swalClasses['html-container'], "\"></div>\n     <input class=\"").concat(swalClasses.input, "\" />\n     <input type=\"file\" class=\"").concat(swalClasses.file, "\" />\n     <div class=\"").concat(swalClasses.range, "\">\n       <input type=\"range\" />\n       <output></output>\n     </div>\n     <select class=\"").concat(swalClasses.select, "\"></select>\n     <div class=\"").concat(swalClasses.radio, "\"></div>\n     <label for=\"").concat(swalClasses.checkbox, "\" class=\"").concat(swalClasses.checkbox, "\">\n       <input type=\"checkbox\" />\n       <span class=\"").concat(swalClasses.label, "\"></span>\n     </label>\n     <textarea class=\"").concat(swalClasses.textarea, "\"></textarea>\n     <div class=\"").concat(swalClasses['validation-message'], "\" id=\"").concat(swalClasses['validation-message'], "\"></div>\n   </div>\n   <div class=\"").concat(swalClasses.actions, "\">\n     <button type=\"button\" class=\"").concat(swalClasses.confirm, "\">OK</button>\n     <button type=\"button\" class=\"").concat(swalClasses.cancel, "\">Cancel</button>\n   </div>\n   <div class=\"").concat(swalClasses.footer, "\"></div>\n   <div class=\"").concat(swalClasses['timer-progress-bar-container'], "\">\n     <div class=\"").concat(swalClasses['timer-progress-bar'], "\"></div>\n   </div>\n </div>\n").replace(/(^|\n)\s*/g, '');
+
+      var resetOldContainer = function resetOldContainer() {
+        var oldContainer = getContainer();
+
+        if (!oldContainer) {
+          return false;
+        }
+
+        oldContainer.parentNode.removeChild(oldContainer);
+        removeClass([document.documentElement, document.body], [swalClasses['no-backdrop'], swalClasses['toast-shown'], swalClasses['has-column']]);
+        return true;
+      };
+
+      var oldInputVal; // IE11 workaround, see #1109 for details
+
+      var resetValidationMessage = function resetValidationMessage(e) {
+        if (Swal.isVisible() && oldInputVal !== e.target.value) {
+          Swal.resetValidationMessage();
+        }
+
+        oldInputVal = e.target.value;
+      };
+
+      var addInputChangeListeners = function addInputChangeListeners() {
+        var content = getContent();
+        var input = getChildByClass(content, swalClasses.input);
+        var file = getChildByClass(content, swalClasses.file);
+        var range = content.querySelector(".".concat(swalClasses.range, " input"));
+        var rangeOutput = content.querySelector(".".concat(swalClasses.range, " output"));
+        var select = getChildByClass(content, swalClasses.select);
+        var checkbox = content.querySelector(".".concat(swalClasses.checkbox, " input"));
+        var textarea = getChildByClass(content, swalClasses.textarea);
+        input.oninput = resetValidationMessage;
+        file.onchange = resetValidationMessage;
+        select.onchange = resetValidationMessage;
+        checkbox.onchange = resetValidationMessage;
+        textarea.oninput = resetValidationMessage;
+
+        range.oninput = function (e) {
+          resetValidationMessage(e);
+          rangeOutput.value = range.value;
+        };
+
+        range.onchange = function (e) {
+          resetValidationMessage(e);
+          range.nextSibling.value = range.value;
+        };
+      };
+
+      var getTarget = function getTarget(target) {
+        return typeof target === 'string' ? document.querySelector(target) : target;
+      };
+
+      var setupAccessibility = function setupAccessibility(params) {
+        var popup = getPopup();
+        popup.setAttribute('role', params.toast ? 'alert' : 'dialog');
+        popup.setAttribute('aria-live', params.toast ? 'polite' : 'assertive');
+
+        if (!params.toast) {
+          popup.setAttribute('aria-modal', 'true');
+        }
+      };
+
+      var setupRTL = function setupRTL(targetElement) {
+        if (window.getComputedStyle(targetElement).direction === 'rtl') {
+          addClass(getContainer(), swalClasses.rtl);
+        }
+      };
+      /*
+       * Add modal + backdrop to DOM
+       */
+
+
+      var init = function init(params) {
+        // Clean up the old popup container if it exists
+        var oldContainerExisted = resetOldContainer();
+        /* istanbul ignore if */
+
+        if (isNodeEnv()) {
+          error('SweetAlert2 requires document to initialize');
+          return;
+        }
+
+        var container = document.createElement('div');
+        container.className = swalClasses.container;
+
+        if (oldContainerExisted) {
+          addClass(container, swalClasses['no-transition']);
+        }
+
+        container.innerHTML = sweetHTML;
+        var targetElement = getTarget(params.target);
+        targetElement.appendChild(container);
+        setupAccessibility(params);
+        setupRTL(targetElement);
+        addInputChangeListeners();
+      };
+
+      var parseHtmlToContainer = function parseHtmlToContainer(param, target) {
+        // DOM element
+        if (param instanceof HTMLElement) {
+          target.appendChild(param); // Object
+        } else if (_typeof(param) === 'object') {
+          handleObject(param, target); // Plain string
+        } else if (param) {
+          target.innerHTML = param;
+        }
+      };
+
+      var handleObject = function handleObject(param, target) {
+        // JQuery element(s)
+        if (param.jquery) {
+          handleJqueryElem(target, param); // For other objects use their string representation
+        } else {
+          target.innerHTML = param.toString();
+        }
+      };
+
+      var handleJqueryElem = function handleJqueryElem(target, elem) {
+        target.innerHTML = '';
+
+        if (0 in elem) {
+          for (var i = 0; i in elem; i++) {
+            target.appendChild(elem[i].cloneNode(true));
+          }
+        } else {
+          target.appendChild(elem.cloneNode(true));
+        }
+      };
+
+      var animationEndEvent = function () {
+        // Prevent run in Node env
+
+        /* istanbul ignore if */
+        if (isNodeEnv()) {
+          return false;
+        }
+
+        var testEl = document.createElement('div');
+        var transEndEventNames = {
+          WebkitAnimation: 'webkitAnimationEnd',
+          OAnimation: 'oAnimationEnd oanimationend',
+          animation: 'animationend'
+        };
+
+        for (var i in transEndEventNames) {
+          if (Object.prototype.hasOwnProperty.call(transEndEventNames, i) && typeof testEl.style[i] !== 'undefined') {
+            return transEndEventNames[i];
+          }
+        }
+
+        return false;
+      }(); // https://github.com/twbs/bootstrap/blob/master/js/src/modal.js
+
+
+      var measureScrollbar = function measureScrollbar() {
+        var scrollDiv = document.createElement('div');
+        scrollDiv.className = swalClasses['scrollbar-measure'];
+        document.body.appendChild(scrollDiv);
+        var scrollbarWidth = scrollDiv.getBoundingClientRect().width - scrollDiv.clientWidth;
+        document.body.removeChild(scrollDiv);
+        return scrollbarWidth;
+      };
+
+      var renderActions = function renderActions(instance, params) {
+        var actions = getActions();
+        var confirmButton = getConfirmButton();
+        var cancelButton = getCancelButton(); // Actions (buttons) wrapper
+
+        if (!params.showConfirmButton && !params.showCancelButton) {
+          hide(actions);
+        } // Custom class
+
+
+        applyCustomClass(actions, params, 'actions'); // Render confirm button
+
+        renderButton(confirmButton, 'confirm', params); // render Cancel Button
+
+        renderButton(cancelButton, 'cancel', params);
+
+        if (params.buttonsStyling) {
+          handleButtonsStyling(confirmButton, cancelButton, params);
+        } else {
+          removeClass([confirmButton, cancelButton], swalClasses.styled);
+          confirmButton.style.backgroundColor = confirmButton.style.borderLeftColor = confirmButton.style.borderRightColor = '';
+          cancelButton.style.backgroundColor = cancelButton.style.borderLeftColor = cancelButton.style.borderRightColor = '';
+        }
+
+        if (params.reverseButtons) {
+          confirmButton.parentNode.insertBefore(cancelButton, confirmButton);
+        }
+      };
+
+      function handleButtonsStyling(confirmButton, cancelButton, params) {
+        addClass([confirmButton, cancelButton], swalClasses.styled); // Buttons background colors
+
+        if (params.confirmButtonColor) {
+          confirmButton.style.backgroundColor = params.confirmButtonColor;
+        }
+
+        if (params.cancelButtonColor) {
+          cancelButton.style.backgroundColor = params.cancelButtonColor;
+        } // Loading state
+
+
+        var confirmButtonBackgroundColor = window.getComputedStyle(confirmButton).getPropertyValue('background-color');
+        confirmButton.style.borderLeftColor = confirmButtonBackgroundColor;
+        confirmButton.style.borderRightColor = confirmButtonBackgroundColor;
+      }
+
+      function renderButton(button, buttonType, params) {
+        toggle(button, params["show".concat(capitalizeFirstLetter(buttonType), "Button")], 'inline-block');
+        button.innerHTML = params["".concat(buttonType, "ButtonText")]; // Set caption text
+
+        button.setAttribute('aria-label', params["".concat(buttonType, "ButtonAriaLabel")]); // ARIA label
+        // Add buttons custom classes
+
+        button.className = swalClasses[buttonType];
+        applyCustomClass(button, params, "".concat(buttonType, "Button"));
+        addClass(button, params["".concat(buttonType, "ButtonClass")]);
+      }
+
+      function handleBackdropParam(container, backdrop) {
+        if (typeof backdrop === 'string') {
+          container.style.background = backdrop;
+        } else if (!backdrop) {
+          addClass([document.documentElement, document.body], swalClasses['no-backdrop']);
+        }
+      }
+
+      function handlePositionParam(container, position) {
+        if (position in swalClasses) {
+          addClass(container, swalClasses[position]);
+        } else {
+          warn('The "position" parameter is not valid, defaulting to "center"');
+          addClass(container, swalClasses.center);
+        }
+      }
+
+      function handleGrowParam(container, grow) {
+        if (grow && typeof grow === 'string') {
+          var growClass = "grow-".concat(grow);
+
+          if (growClass in swalClasses) {
+            addClass(container, swalClasses[growClass]);
+          }
+        }
+      }
+
+      var renderContainer = function renderContainer(instance, params) {
+        var container = getContainer();
+
+        if (!container) {
+          return;
+        }
+
+        handleBackdropParam(container, params.backdrop);
+
+        if (!params.backdrop && params.allowOutsideClick) {
+          warn('"allowOutsideClick" parameter requires `backdrop` parameter to be set to `true`');
+        }
+
+        handlePositionParam(container, params.position);
+        handleGrowParam(container, params.grow); // Custom class
+
+        applyCustomClass(container, params, 'container'); // Set queue step attribute for getQueueStep() method
+
+        var queueStep = document.body.getAttribute('data-swal2-queue-step');
+
+        if (queueStep) {
+          container.setAttribute('data-queue-step', queueStep);
+          document.body.removeAttribute('data-swal2-queue-step');
+        }
+      };
+      /**
+       * This module containts `WeakMap`s for each effectively-"private  property" that a `Swal` has.
+       * For example, to set the private property "foo" of `this` to "bar", you can `privateProps.foo.set(this, 'bar')`
+       * This is the approach that Babel will probably take to implement private methods/fields
+       *   https://github.com/tc39/proposal-private-methods
+       *   https://github.com/babel/babel/pull/7555
+       * Once we have the changes from that PR in Babel, and our core class fits reasonable in *one module*
+       *   then we can use that language feature.
+       */
+
+
+      var privateProps = {
+        promise: new WeakMap(),
+        innerParams: new WeakMap(),
+        domCache: new WeakMap()
+      };
+      var inputTypes = ['input', 'file', 'range', 'select', 'radio', 'checkbox', 'textarea'];
+
+      var renderInput = function renderInput(instance, params) {
+        var content = getContent();
+        var innerParams = privateProps.innerParams.get(instance);
+        var rerender = !innerParams || params.input !== innerParams.input;
+        inputTypes.forEach(function (inputType) {
+          var inputClass = swalClasses[inputType];
+          var inputContainer = getChildByClass(content, inputClass); // set attributes
+
+          setAttributes(inputType, params.inputAttributes); // set class
+
+          inputContainer.className = inputClass;
+
+          if (rerender) {
+            hide(inputContainer);
+          }
+        });
+
+        if (params.input) {
+          if (rerender) {
+            showInput(params);
+          } // set custom class
+
+
+          setCustomClass(params);
+        }
+      };
+
+      var showInput = function showInput(params) {
+        if (!renderInputType[params.input]) {
+          return error("Unexpected type of input! Expected \"text\", \"email\", \"password\", \"number\", \"tel\", \"select\", \"radio\", \"checkbox\", \"textarea\", \"file\" or \"url\", got \"".concat(params.input, "\""));
+        }
+
+        var inputContainer = getInputContainer(params.input);
+        var input = renderInputType[params.input](inputContainer, params);
+        show(input); // input autofocus
+
+        setTimeout(function () {
+          focusInput(input);
+        });
+      };
+
+      var removeAttributes = function removeAttributes(input) {
+        for (var i = 0; i < input.attributes.length; i++) {
+          var attrName = input.attributes[i].name;
+
+          if (!(['type', 'value', 'style'].indexOf(attrName) !== -1)) {
+            input.removeAttribute(attrName);
+          }
+        }
+      };
+
+      var setAttributes = function setAttributes(inputType, inputAttributes) {
+        var input = getInput(getContent(), inputType);
+
+        if (!input) {
+          return;
+        }
+
+        removeAttributes(input);
+
+        for (var attr in inputAttributes) {
+          // Do not set a placeholder for <input type="range">
+          // it'll crash Edge, #1298
+          if (inputType === 'range' && attr === 'placeholder') {
+            continue;
+          }
+
+          input.setAttribute(attr, inputAttributes[attr]);
+        }
+      };
+
+      var setCustomClass = function setCustomClass(params) {
+        var inputContainer = getInputContainer(params.input);
+
+        if (params.customClass) {
+          addClass(inputContainer, params.customClass.input);
+        }
+      };
+
+      var setInputPlaceholder = function setInputPlaceholder(input, params) {
+        if (!input.placeholder || params.inputPlaceholder) {
+          input.placeholder = params.inputPlaceholder;
+        }
+      };
+
+      var getInputContainer = function getInputContainer(inputType) {
+        var inputClass = swalClasses[inputType] ? swalClasses[inputType] : swalClasses.input;
+        return getChildByClass(getContent(), inputClass);
+      };
+
+      var renderInputType = {};
+
+      renderInputType.text = renderInputType.email = renderInputType.password = renderInputType.number = renderInputType.tel = renderInputType.url = function (input, params) {
+        if (typeof params.inputValue === 'string' || typeof params.inputValue === 'number') {
+          input.value = params.inputValue;
+        } else if (!isPromise(params.inputValue)) {
+          warn("Unexpected type of inputValue! Expected \"string\", \"number\" or \"Promise\", got \"".concat(_typeof(params.inputValue), "\""));
+        }
+
+        setInputPlaceholder(input, params);
+        input.type = params.input;
+        return input;
+      };
+
+      renderInputType.file = function (input, params) {
+        setInputPlaceholder(input, params);
+        return input;
+      };
+
+      renderInputType.range = function (range, params) {
+        var rangeInput = range.querySelector('input');
+        var rangeOutput = range.querySelector('output');
+        rangeInput.value = params.inputValue;
+        rangeInput.type = params.input;
+        rangeOutput.value = params.inputValue;
+        return range;
+      };
+
+      renderInputType.select = function (select, params) {
+        select.innerHTML = '';
+
+        if (params.inputPlaceholder) {
+          var placeholder = document.createElement('option');
+          placeholder.innerHTML = params.inputPlaceholder;
+          placeholder.value = '';
+          placeholder.disabled = true;
+          placeholder.selected = true;
+          select.appendChild(placeholder);
+        }
+
+        return select;
+      };
+
+      renderInputType.radio = function (radio) {
+        radio.innerHTML = '';
+        return radio;
+      };
+
+      renderInputType.checkbox = function (checkboxContainer, params) {
+        var checkbox = getInput(getContent(), 'checkbox');
+        checkbox.value = 1;
+        checkbox.id = swalClasses.checkbox;
+        checkbox.checked = Boolean(params.inputValue);
+        var label = checkboxContainer.querySelector('span');
+        label.innerHTML = params.inputPlaceholder;
+        return checkboxContainer;
+      };
+
+      renderInputType.textarea = function (textarea, params) {
+        textarea.value = params.inputValue;
+        setInputPlaceholder(textarea, params);
+
+        if ('MutationObserver' in window) {
+          // #1699
+          var initialPopupWidth = parseInt(window.getComputedStyle(getPopup()).width);
+          var popupPadding = parseInt(window.getComputedStyle(getPopup()).paddingLeft) + parseInt(window.getComputedStyle(getPopup()).paddingRight);
+
+          var outputsize = function outputsize() {
+            var contentWidth = textarea.offsetWidth + popupPadding;
+
+            if (contentWidth > initialPopupWidth) {
+              getPopup().style.width = "".concat(contentWidth, "px");
+            } else {
+              getPopup().style.width = null;
+            }
+          };
+
+          new MutationObserver(outputsize).observe(textarea, {
+            attributes: true,
+            attributeFilter: ['style']
+          });
+        }
+
+        return textarea;
+      };
+
+      var renderContent = function renderContent(instance, params) {
+        var content = getContent().querySelector("#".concat(swalClasses.content)); // Content as HTML
+
+        if (params.html) {
+          parseHtmlToContainer(params.html, content);
+          show(content, 'block'); // Content as plain text
+        } else if (params.text) {
+          content.textContent = params.text;
+          show(content, 'block'); // No content
+        } else {
+          hide(content);
+        }
+
+        renderInput(instance, params); // Custom class
+
+        applyCustomClass(getContent(), params, 'content');
+      };
+
+      var renderFooter = function renderFooter(instance, params) {
+        var footer = getFooter();
+        toggle(footer, params.footer);
+
+        if (params.footer) {
+          parseHtmlToContainer(params.footer, footer);
+        } // Custom class
+
+
+        applyCustomClass(footer, params, 'footer');
+      };
+
+      var renderCloseButton = function renderCloseButton(instance, params) {
+        var closeButton = getCloseButton();
+        closeButton.innerHTML = params.closeButtonHtml; // Custom class
+
+        applyCustomClass(closeButton, params, 'closeButton');
+        toggle(closeButton, params.showCloseButton);
+        closeButton.setAttribute('aria-label', params.closeButtonAriaLabel);
+      };
+
+      var renderIcon = function renderIcon(instance, params) {
+        var innerParams = privateProps.innerParams.get(instance); // if the give icon already rendered, apply the custom class without re-rendering the icon
+
+        if (innerParams && params.icon === innerParams.icon && getIcon()) {
+          applyCustomClass(getIcon(), params, 'icon');
+          return;
+        }
+
+        hideAllIcons();
+
+        if (!params.icon) {
+          return;
+        }
+
+        if (Object.keys(iconTypes).indexOf(params.icon) !== -1) {
+          var icon = elementBySelector(".".concat(swalClasses.icon, ".").concat(iconTypes[params.icon]));
+          show(icon); // Custom or default content
+
+          setContent(icon, params);
+          adjustSuccessIconBackgoundColor(); // Custom class
+
+          applyCustomClass(icon, params, 'icon'); // Animate icon
+
+          addClass(icon, params.showClass.icon);
+        } else {
+          error("Unknown icon! Expected \"success\", \"error\", \"warning\", \"info\" or \"question\", got \"".concat(params.icon, "\""));
+        }
+      };
+
+      var hideAllIcons = function hideAllIcons() {
+        var icons = getIcons();
+
+        for (var i = 0; i < icons.length; i++) {
+          hide(icons[i]);
+        }
+      }; // Adjust success icon background color to match the popup background color
+
+
+      var adjustSuccessIconBackgoundColor = function adjustSuccessIconBackgoundColor() {
+        var popup = getPopup();
+        var popupBackgroundColor = window.getComputedStyle(popup).getPropertyValue('background-color');
+        var successIconParts = popup.querySelectorAll('[class^=swal2-success-circular-line], .swal2-success-fix');
+
+        for (var i = 0; i < successIconParts.length; i++) {
+          successIconParts[i].style.backgroundColor = popupBackgroundColor;
+        }
+      };
+
+      var setContent = function setContent(icon, params) {
+        icon.innerHTML = '';
+
+        if (params.iconHtml) {
+          icon.innerHTML = iconContent(params.iconHtml);
+        } else if (params.icon === 'success') {
+          icon.innerHTML = "\n      <div class=\"swal2-success-circular-line-left\"></div>\n      <span class=\"swal2-success-line-tip\"></span> <span class=\"swal2-success-line-long\"></span>\n      <div class=\"swal2-success-ring\"></div> <div class=\"swal2-success-fix\"></div>\n      <div class=\"swal2-success-circular-line-right\"></div>\n    ";
+        } else if (params.icon === 'error') {
+          icon.innerHTML = "\n      <span class=\"swal2-x-mark\">\n        <span class=\"swal2-x-mark-line-left\"></span>\n        <span class=\"swal2-x-mark-line-right\"></span>\n      </span>\n    ";
+        } else {
+          var defaultIconHtml = {
+            question: '?',
+            warning: '!',
+            info: 'i'
+          };
+          icon.innerHTML = iconContent(defaultIconHtml[params.icon]);
+        }
+      };
+
+      var iconContent = function iconContent(content) {
+        return "<div class=\"".concat(swalClasses['icon-content'], "\">").concat(content, "</div>");
+      };
+
+      var renderImage = function renderImage(instance, params) {
+        var image = getImage();
+
+        if (!params.imageUrl) {
+          return hide(image);
+        }
+
+        show(image); // Src, alt
+
+        image.setAttribute('src', params.imageUrl);
+        image.setAttribute('alt', params.imageAlt); // Width, height
+
+        applyNumericalStyle(image, 'width', params.imageWidth);
+        applyNumericalStyle(image, 'height', params.imageHeight); // Class
+
+        image.className = swalClasses.image;
+        applyCustomClass(image, params, 'image');
+      };
+
+      var currentSteps = [];
+      /*
+       * Global function for chaining sweetAlert popups
+       */
+
+      var queue = function queue(steps) {
+        var Swal = this;
+        currentSteps = steps;
+
+        var resetAndResolve = function resetAndResolve(resolve, value) {
+          currentSteps = [];
+          resolve(value);
+        };
+
+        var queueResult = [];
+        return new Promise(function (resolve) {
+          (function step(i, callback) {
+            if (i < currentSteps.length) {
+              document.body.setAttribute('data-swal2-queue-step', i);
+              Swal.fire(currentSteps[i]).then(function (result) {
+                if (typeof result.value !== 'undefined') {
+                  queueResult.push(result.value);
+                  step(i + 1, callback);
+                } else {
+                  resetAndResolve(resolve, {
+                    dismiss: result.dismiss
+                  });
+                }
+              });
+            } else {
+              resetAndResolve(resolve, {
+                value: queueResult
+              });
+            }
+          })(0);
+        });
+      };
+      /*
+       * Global function for getting the index of current popup in queue
+       */
+
+
+      var getQueueStep = function getQueueStep() {
+        return getContainer().getAttribute('data-queue-step');
+      };
+      /*
+       * Global function for inserting a popup to the queue
+       */
+
+
+      var insertQueueStep = function insertQueueStep(step, index) {
+        if (index && index < currentSteps.length) {
+          return currentSteps.splice(index, 0, step);
+        }
+
+        return currentSteps.push(step);
+      };
+      /*
+       * Global function for deleting a popup from the queue
+       */
+
+
+      var deleteQueueStep = function deleteQueueStep(index) {
+        if (typeof currentSteps[index] !== 'undefined') {
+          currentSteps.splice(index, 1);
+        }
+      };
+
+      var createStepElement = function createStepElement(step) {
+        var stepEl = document.createElement('li');
+        addClass(stepEl, swalClasses['progress-step']);
+        stepEl.innerHTML = step;
+        return stepEl;
+      };
+
+      var createLineElement = function createLineElement(params) {
+        var lineEl = document.createElement('li');
+        addClass(lineEl, swalClasses['progress-step-line']);
+
+        if (params.progressStepsDistance) {
+          lineEl.style.width = params.progressStepsDistance;
+        }
+
+        return lineEl;
+      };
+
+      var renderProgressSteps = function renderProgressSteps(instance, params) {
+        var progressStepsContainer = getProgressSteps();
+
+        if (!params.progressSteps || params.progressSteps.length === 0) {
+          return hide(progressStepsContainer);
+        }
+
+        show(progressStepsContainer);
+        progressStepsContainer.innerHTML = '';
+        var currentProgressStep = parseInt(params.currentProgressStep === undefined ? getQueueStep() : params.currentProgressStep);
+
+        if (currentProgressStep >= params.progressSteps.length) {
+          warn('Invalid currentProgressStep parameter, it should be less than progressSteps.length ' + '(currentProgressStep like JS arrays starts from 0)');
+        }
+
+        params.progressSteps.forEach(function (step, index) {
+          var stepEl = createStepElement(step);
+          progressStepsContainer.appendChild(stepEl);
+
+          if (index === currentProgressStep) {
+            addClass(stepEl, swalClasses['active-progress-step']);
+          }
+
+          if (index !== params.progressSteps.length - 1) {
+            var lineEl = createLineElement(step);
+            progressStepsContainer.appendChild(lineEl);
+          }
+        });
+      };
+
+      var renderTitle = function renderTitle(instance, params) {
+        var title = getTitle();
+        toggle(title, params.title || params.titleText);
+
+        if (params.title) {
+          parseHtmlToContainer(params.title, title);
+        }
+
+        if (params.titleText) {
+          title.innerText = params.titleText;
+        } // Custom class
+
+
+        applyCustomClass(title, params, 'title');
+      };
+
+      var renderHeader = function renderHeader(instance, params) {
+        var header = getHeader(); // Custom class
+
+        applyCustomClass(header, params, 'header'); // Progress steps
+
+        renderProgressSteps(instance, params); // Icon
+
+        renderIcon(instance, params); // Image
+
+        renderImage(instance, params); // Title
+
+        renderTitle(instance, params); // Close button
+
+        renderCloseButton(instance, params);
+      };
+
+      var renderPopup = function renderPopup(instance, params) {
+        var popup = getPopup(); // Width
+
+        applyNumericalStyle(popup, 'width', params.width); // Padding
+
+        applyNumericalStyle(popup, 'padding', params.padding); // Background
+
+        if (params.background) {
+          popup.style.background = params.background;
+        } // Classes
+
+
+        addClasses(popup, params);
+      };
+
+      var addClasses = function addClasses(popup, params) {
+        // Default Class + showClass when updating Swal.update({})
+        popup.className = "".concat(swalClasses.popup, " ").concat(isVisible(popup) ? params.showClass.popup : '');
+
+        if (params.toast) {
+          addClass([document.documentElement, document.body], swalClasses['toast-shown']);
+          addClass(popup, swalClasses.toast);
+        } else {
+          addClass(popup, swalClasses.modal);
+        } // Custom class
+
+
+        applyCustomClass(popup, params, 'popup');
+
+        if (typeof params.customClass === 'string') {
+          addClass(popup, params.customClass);
+        } // Icon class (#1842)
+
+
+        if (params.icon) {
+          addClass(popup, swalClasses["icon-".concat(params.icon)]);
+        }
+      };
+
+      var render = function render(instance, params) {
+        renderPopup(instance, params);
+        renderContainer(instance, params);
+        renderHeader(instance, params);
+        renderContent(instance, params);
+        renderActions(instance, params);
+        renderFooter(instance, params);
+
+        if (typeof params.onRender === 'function') {
+          params.onRender(getPopup());
+        }
+      };
+      /*
+       * Global function to determine if SweetAlert2 popup is shown
+       */
+
+
+      var isVisible$1 = function isVisible$$1() {
+        return isVisible(getPopup());
+      };
+      /*
+       * Global function to click 'Confirm' button
+       */
+
+
+      var clickConfirm = function clickConfirm() {
+        return getConfirmButton() && getConfirmButton().click();
+      };
+      /*
+       * Global function to click 'Cancel' button
+       */
+
+
+      var clickCancel = function clickCancel() {
+        return getCancelButton() && getCancelButton().click();
+      };
+
+      function fire() {
+        var Swal = this;
+
+        for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+          args[_key] = arguments[_key];
+        }
+
+        return _construct(Swal, args);
+      }
+      /**
+       * Returns an extended version of `Swal` containing `params` as defaults.
+       * Useful for reusing Swal configuration.
+       *
+       * For example:
+       *
+       * Before:
+       * const textPromptOptions = { input: 'text', showCancelButton: true }
+       * const {value: firstName} = await Swal.fire({ ...textPromptOptions, title: 'What is your first name?' })
+       * const {value: lastName} = await Swal.fire({ ...textPromptOptions, title: 'What is your last name?' })
+       *
+       * After:
+       * const TextPrompt = Swal.mixin({ input: 'text', showCancelButton: true })
+       * const {value: firstName} = await TextPrompt('What is your first name?')
+       * const {value: lastName} = await TextPrompt('What is your last name?')
+       *
+       * @param mixinParams
+       */
+
+
+      function mixin(mixinParams) {
+        var MixinSwal = /*#__PURE__*/function (_this) {
+          _inherits(MixinSwal, _this);
+
+          function MixinSwal() {
+            _classCallCheck(this, MixinSwal);
+
+            return _possibleConstructorReturn(this, _getPrototypeOf(MixinSwal).apply(this, arguments));
+          }
+
+          _createClass(MixinSwal, [{
+            key: "_main",
+            value: function _main(params) {
+              return _get(_getPrototypeOf(MixinSwal.prototype), "_main", this).call(this, _extends({}, mixinParams, params));
+            }
+          }]);
+
+          return MixinSwal;
+        }(this);
+
+        return MixinSwal;
+      }
+      /**
+       * Show spinner instead of Confirm button
+       */
+
+
+      var showLoading = function showLoading() {
+        var popup = getPopup();
+
+        if (!popup) {
+          Swal.fire();
+        }
+
+        popup = getPopup();
+        var actions = getActions();
+        var confirmButton = getConfirmButton();
+        show(actions);
+        show(confirmButton, 'inline-block');
+        addClass([popup, actions], swalClasses.loading);
+        confirmButton.disabled = true;
+        popup.setAttribute('data-loading', true);
+        popup.setAttribute('aria-busy', true);
+        popup.focus();
+      };
+
+      var RESTORE_FOCUS_TIMEOUT = 100;
+      var globalState = {};
+
+      var focusPreviousActiveElement = function focusPreviousActiveElement() {
+        if (globalState.previousActiveElement && globalState.previousActiveElement.focus) {
+          globalState.previousActiveElement.focus();
+          globalState.previousActiveElement = null;
+        } else if (document.body) {
+          document.body.focus();
+        }
+      }; // Restore previous active (focused) element
+
+
+      var restoreActiveElement = function restoreActiveElement() {
+        return new Promise(function (resolve) {
+          var x = window.scrollX;
+          var y = window.scrollY;
+          globalState.restoreFocusTimeout = setTimeout(function () {
+            focusPreviousActiveElement();
+            resolve();
+          }, RESTORE_FOCUS_TIMEOUT); // issues/900
+
+          /* istanbul ignore if */
+
+          if (typeof x !== 'undefined' && typeof y !== 'undefined') {
+            // IE doesn't have scrollX/scrollY support
+            window.scrollTo(x, y);
+          }
+        });
+      };
+      /**
+       * If `timer` parameter is set, returns number of milliseconds of timer remained.
+       * Otherwise, returns undefined.
+       */
+
+
+      var getTimerLeft = function getTimerLeft() {
+        return globalState.timeout && globalState.timeout.getTimerLeft();
+      };
+      /**
+       * Stop timer. Returns number of milliseconds of timer remained.
+       * If `timer` parameter isn't set, returns undefined.
+       */
+
+
+      var stopTimer = function stopTimer() {
+        if (globalState.timeout) {
+          stopTimerProgressBar();
+          return globalState.timeout.stop();
+        }
+      };
+      /**
+       * Resume timer. Returns number of milliseconds of timer remained.
+       * If `timer` parameter isn't set, returns undefined.
+       */
+
+
+      var resumeTimer = function resumeTimer() {
+        if (globalState.timeout) {
+          var remaining = globalState.timeout.start();
+          animateTimerProgressBar(remaining);
+          return remaining;
+        }
+      };
+      /**
+       * Resume timer. Returns number of milliseconds of timer remained.
+       * If `timer` parameter isn't set, returns undefined.
+       */
+
+
+      var toggleTimer = function toggleTimer() {
+        var timer = globalState.timeout;
+        return timer && (timer.running ? stopTimer() : resumeTimer());
+      };
+      /**
+       * Increase timer. Returns number of milliseconds of an updated timer.
+       * If `timer` parameter isn't set, returns undefined.
+       */
+
+
+      var increaseTimer = function increaseTimer(n) {
+        if (globalState.timeout) {
+          var remaining = globalState.timeout.increase(n);
+          animateTimerProgressBar(remaining, true);
+          return remaining;
+        }
+      };
+      /**
+       * Check if timer is running. Returns true if timer is running
+       * or false if timer is paused or stopped.
+       * If `timer` parameter isn't set, returns undefined
+       */
+
+
+      var isTimerRunning = function isTimerRunning() {
+        return globalState.timeout && globalState.timeout.isRunning();
+      };
+
+      var defaultParams = {
+        title: '',
+        titleText: '',
+        text: '',
+        html: '',
+        footer: '',
+        icon: undefined,
+        iconHtml: undefined,
+        toast: false,
+        animation: true,
+        showClass: {
+          popup: 'swal2-show',
+          backdrop: 'swal2-backdrop-show',
+          icon: 'swal2-icon-show'
+        },
+        hideClass: {
+          popup: 'swal2-hide',
+          backdrop: 'swal2-backdrop-hide',
+          icon: 'swal2-icon-hide'
+        },
+        customClass: undefined,
+        target: 'body',
+        backdrop: true,
+        heightAuto: true,
+        allowOutsideClick: true,
+        allowEscapeKey: true,
+        allowEnterKey: true,
+        stopKeydownPropagation: true,
+        keydownListenerCapture: false,
+        showConfirmButton: true,
+        showCancelButton: false,
+        preConfirm: undefined,
+        confirmButtonText: 'OK',
+        confirmButtonAriaLabel: '',
+        confirmButtonColor: undefined,
+        cancelButtonText: 'Cancel',
+        cancelButtonAriaLabel: '',
+        cancelButtonColor: undefined,
+        buttonsStyling: true,
+        reverseButtons: false,
+        focusConfirm: true,
+        focusCancel: false,
+        showCloseButton: false,
+        closeButtonHtml: '&times;',
+        closeButtonAriaLabel: 'Close this dialog',
+        showLoaderOnConfirm: false,
+        imageUrl: undefined,
+        imageWidth: undefined,
+        imageHeight: undefined,
+        imageAlt: '',
+        timer: undefined,
+        timerProgressBar: false,
+        width: undefined,
+        padding: undefined,
+        background: undefined,
+        input: undefined,
+        inputPlaceholder: '',
+        inputValue: '',
+        inputOptions: {},
+        inputAutoTrim: true,
+        inputAttributes: {},
+        inputValidator: undefined,
+        validationMessage: undefined,
+        grow: false,
+        position: 'center',
+        progressSteps: [],
+        currentProgressStep: undefined,
+        progressStepsDistance: undefined,
+        onBeforeOpen: undefined,
+        onOpen: undefined,
+        onRender: undefined,
+        onClose: undefined,
+        onAfterClose: undefined,
+        onDestroy: undefined,
+        scrollbarPadding: true
+      };
+      var updatableParams = ['title', 'titleText', 'text', 'html', 'icon', 'hideClass', 'customClass', 'allowOutsideClick', 'allowEscapeKey', 'showConfirmButton', 'showCancelButton', 'confirmButtonText', 'confirmButtonAriaLabel', 'confirmButtonColor', 'cancelButtonText', 'cancelButtonAriaLabel', 'cancelButtonColor', 'buttonsStyling', 'reverseButtons', 'imageUrl', 'imageWidth', 'imageHeight', 'imageAlt', 'progressSteps', 'currentProgressStep'];
+      var deprecatedParams = {
+        animation: 'showClass" and "hideClass'
+      };
+      var toastIncompatibleParams = ['allowOutsideClick', 'allowEnterKey', 'backdrop', 'focusConfirm', 'focusCancel', 'heightAuto', 'keydownListenerCapture'];
+      /**
+       * Is valid parameter
+       * @param {String} paramName
+       */
+
+      var isValidParameter = function isValidParameter(paramName) {
+        return Object.prototype.hasOwnProperty.call(defaultParams, paramName);
+      };
+      /**
+       * Is valid parameter for Swal.update() method
+       * @param {String} paramName
+       */
+
+
+      var isUpdatableParameter = function isUpdatableParameter(paramName) {
+        return updatableParams.indexOf(paramName) !== -1;
+      };
+      /**
+       * Is deprecated parameter
+       * @param {String} paramName
+       */
+
+
+      var isDeprecatedParameter = function isDeprecatedParameter(paramName) {
+        return deprecatedParams[paramName];
+      };
+
+      var checkIfParamIsValid = function checkIfParamIsValid(param) {
+        if (!isValidParameter(param)) {
+          warn("Unknown parameter \"".concat(param, "\""));
+        }
+      };
+
+      var checkIfToastParamIsValid = function checkIfToastParamIsValid(param) {
+        if (toastIncompatibleParams.indexOf(param) !== -1) {
+          warn("The parameter \"".concat(param, "\" is incompatible with toasts"));
+        }
+      };
+
+      var checkIfParamIsDeprecated = function checkIfParamIsDeprecated(param) {
+        if (isDeprecatedParameter(param)) {
+          warnAboutDepreation(param, isDeprecatedParameter(param));
+        }
+      };
+      /**
+       * Show relevant warnings for given params
+       *
+       * @param params
+       */
+
+
+      var showWarningsForParams = function showWarningsForParams(params) {
+        for (var param in params) {
+          checkIfParamIsValid(param);
+
+          if (params.toast) {
+            checkIfToastParamIsValid(param);
+          }
+
+          checkIfParamIsDeprecated(param);
+        }
+      };
+
+      var staticMethods = /*#__PURE__*/Object.freeze({
+        isValidParameter: isValidParameter,
+        isUpdatableParameter: isUpdatableParameter,
+        isDeprecatedParameter: isDeprecatedParameter,
+        argsToParams: argsToParams,
+        isVisible: isVisible$1,
+        clickConfirm: clickConfirm,
+        clickCancel: clickCancel,
+        getContainer: getContainer,
+        getPopup: getPopup,
+        getTitle: getTitle,
+        getContent: getContent,
+        getHtmlContainer: getHtmlContainer,
+        getImage: getImage,
+        getIcon: getIcon,
+        getIcons: getIcons,
+        getCloseButton: getCloseButton,
+        getActions: getActions,
+        getConfirmButton: getConfirmButton,
+        getCancelButton: getCancelButton,
+        getHeader: getHeader,
+        getFooter: getFooter,
+        getTimerProgressBar: getTimerProgressBar,
+        getFocusableElements: getFocusableElements,
+        getValidationMessage: getValidationMessage,
+        isLoading: isLoading,
+        fire: fire,
+        mixin: mixin,
+        queue: queue,
+        getQueueStep: getQueueStep,
+        insertQueueStep: insertQueueStep,
+        deleteQueueStep: deleteQueueStep,
+        showLoading: showLoading,
+        enableLoading: showLoading,
+        getTimerLeft: getTimerLeft,
+        stopTimer: stopTimer,
+        resumeTimer: resumeTimer,
+        toggleTimer: toggleTimer,
+        increaseTimer: increaseTimer,
+        isTimerRunning: isTimerRunning
+      });
+      /**
+       * Enables buttons and hide loader.
+       */
+
+      function hideLoading() {
+        // do nothing if popup is closed
+        var innerParams = privateProps.innerParams.get(this);
+
+        if (!innerParams) {
+          return;
+        }
+
+        var domCache = privateProps.domCache.get(this);
+
+        if (!innerParams.showConfirmButton) {
+          hide(domCache.confirmButton);
+
+          if (!innerParams.showCancelButton) {
+            hide(domCache.actions);
+          }
+        }
+
+        removeClass([domCache.popup, domCache.actions], swalClasses.loading);
+        domCache.popup.removeAttribute('aria-busy');
+        domCache.popup.removeAttribute('data-loading');
+        domCache.confirmButton.disabled = false;
+        domCache.cancelButton.disabled = false;
+      }
+
+      function getInput$1(instance) {
+        var innerParams = privateProps.innerParams.get(instance || this);
+        var domCache = privateProps.domCache.get(instance || this);
+
+        if (!domCache) {
+          return null;
+        }
+
+        return getInput(domCache.content, innerParams.input);
+      }
+
+      var fixScrollbar = function fixScrollbar() {
+        // for queues, do not do this more than once
+        if (states.previousBodyPadding !== null) {
+          return;
+        } // if the body has overflow
+
+
+        if (document.body.scrollHeight > window.innerHeight) {
+          // add padding so the content doesn't shift after removal of scrollbar
+          states.previousBodyPadding = parseInt(window.getComputedStyle(document.body).getPropertyValue('padding-right'));
+          document.body.style.paddingRight = "".concat(states.previousBodyPadding + measureScrollbar(), "px");
+        }
+      };
+
+      var undoScrollbar = function undoScrollbar() {
+        if (states.previousBodyPadding !== null) {
+          document.body.style.paddingRight = "".concat(states.previousBodyPadding, "px");
+          states.previousBodyPadding = null;
+        }
+      };
+      /* istanbul ignore file */
+
+
+      var iOSfix = function iOSfix() {
+        var iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream || navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1;
+
+        if (iOS && !hasClass(document.body, swalClasses.iosfix)) {
+          var offset = document.body.scrollTop;
+          document.body.style.top = "".concat(offset * -1, "px");
+          addClass(document.body, swalClasses.iosfix);
+          lockBodyScroll();
+        }
+      };
+
+      var lockBodyScroll = function lockBodyScroll() {
+        // #1246
+        var container = getContainer();
+        var preventTouchMove;
+
+        container.ontouchstart = function (e) {
+          preventTouchMove = e.target === container || !isScrollable(container) && e.target.tagName !== 'INPUT' // #1603
+          ;
+        };
+
+        container.ontouchmove = function (e) {
+          if (preventTouchMove) {
+            e.preventDefault();
+            e.stopPropagation();
+          }
+        };
+      };
+
+      var undoIOSfix = function undoIOSfix() {
+        if (hasClass(document.body, swalClasses.iosfix)) {
+          var offset = parseInt(document.body.style.top, 10);
+          removeClass(document.body, swalClasses.iosfix);
+          document.body.style.top = '';
+          document.body.scrollTop = offset * -1;
+        }
+      };
+      /* istanbul ignore file */
+
+
+      var isIE11 = function isIE11() {
+        return !!window.MSInputMethodContext && !!document.documentMode;
+      }; // Fix IE11 centering sweetalert2/issues/933
+
+
+      var fixVerticalPositionIE = function fixVerticalPositionIE() {
+        var container = getContainer();
+        var popup = getPopup();
+        container.style.removeProperty('align-items');
+
+        if (popup.offsetTop < 0) {
+          container.style.alignItems = 'flex-start';
+        }
+      };
+
+      var IEfix = function IEfix() {
+        if (typeof window !== 'undefined' && isIE11()) {
+          fixVerticalPositionIE();
+          window.addEventListener('resize', fixVerticalPositionIE);
+        }
+      };
+
+      var undoIEfix = function undoIEfix() {
+        if (typeof window !== 'undefined' && isIE11()) {
+          window.removeEventListener('resize', fixVerticalPositionIE);
+        }
+      }; // Adding aria-hidden="true" to elements outside of the active modal dialog ensures that
+      // elements not within the active modal dialog will not be surfaced if a user opens a screen
+      // reader’s list of elements (headings, form controls, landmarks, etc.) in the document.
+
+
+      var setAriaHidden = function setAriaHidden() {
+        var bodyChildren = toArray(document.body.children);
+        bodyChildren.forEach(function (el) {
+          if (el === getContainer() || contains(el, getContainer())) {
+            return;
+          }
+
+          if (el.hasAttribute('aria-hidden')) {
+            el.setAttribute('data-previous-aria-hidden', el.getAttribute('aria-hidden'));
+          }
+
+          el.setAttribute('aria-hidden', 'true');
+        });
+      };
+
+      var unsetAriaHidden = function unsetAriaHidden() {
+        var bodyChildren = toArray(document.body.children);
+        bodyChildren.forEach(function (el) {
+          if (el.hasAttribute('data-previous-aria-hidden')) {
+            el.setAttribute('aria-hidden', el.getAttribute('data-previous-aria-hidden'));
+            el.removeAttribute('data-previous-aria-hidden');
+          } else {
+            el.removeAttribute('aria-hidden');
+          }
+        });
+      };
+      /**
+       * This module containts `WeakMap`s for each effectively-"private  property" that a `Swal` has.
+       * For example, to set the private property "foo" of `this` to "bar", you can `privateProps.foo.set(this, 'bar')`
+       * This is the approach that Babel will probably take to implement private methods/fields
+       *   https://github.com/tc39/proposal-private-methods
+       *   https://github.com/babel/babel/pull/7555
+       * Once we have the changes from that PR in Babel, and our core class fits reasonable in *one module*
+       *   then we can use that language feature.
+       */
+
+
+      var privateMethods = {
+        swalPromiseResolve: new WeakMap()
+      };
+      /*
+       * Instance method to close sweetAlert
+       */
+
+      function removePopupAndResetState(instance, container, isToast$$1, onAfterClose) {
+        if (isToast$$1) {
+          triggerOnAfterCloseAndDispose(instance, onAfterClose);
+        } else {
+          restoreActiveElement().then(function () {
+            return triggerOnAfterCloseAndDispose(instance, onAfterClose);
+          });
+          globalState.keydownTarget.removeEventListener('keydown', globalState.keydownHandler, {
+            capture: globalState.keydownListenerCapture
+          });
+          globalState.keydownHandlerAdded = false;
+        }
+
+        if (container.parentNode && !document.body.getAttribute('data-swal2-queue-step')) {
+          container.parentNode.removeChild(container);
+        }
+
+        if (isModal()) {
+          undoScrollbar();
+          undoIOSfix();
+          undoIEfix();
+          unsetAriaHidden();
+        }
+
+        removeBodyClasses();
+      }
+
+      function removeBodyClasses() {
+        removeClass([document.documentElement, document.body], [swalClasses.shown, swalClasses['height-auto'], swalClasses['no-backdrop'], swalClasses['toast-shown'], swalClasses['toast-column']]);
+      }
+
+      function close(resolveValue) {
+        var popup = getPopup();
+
+        if (!popup) {
+          return;
+        }
+
+        var innerParams = privateProps.innerParams.get(this);
+
+        if (!innerParams || hasClass(popup, innerParams.hideClass.popup)) {
+          return;
+        }
+
+        var swalPromiseResolve = privateMethods.swalPromiseResolve.get(this);
+        removeClass(popup, innerParams.showClass.popup);
+        addClass(popup, innerParams.hideClass.popup);
+        var backdrop = getContainer();
+        removeClass(backdrop, innerParams.showClass.backdrop);
+        addClass(backdrop, innerParams.hideClass.backdrop);
+        handlePopupAnimation(this, popup, innerParams); // Resolve Swal promise
+
+        swalPromiseResolve(resolveValue || {});
+      }
+
+      var handlePopupAnimation = function handlePopupAnimation(instance, popup, innerParams) {
+        var container = getContainer(); // If animation is supported, animate
+
+        var animationIsSupported = animationEndEvent && hasCssAnimation(popup);
+        var onClose = innerParams.onClose,
+            onAfterClose = innerParams.onAfterClose;
+
+        if (onClose !== null && typeof onClose === 'function') {
+          onClose(popup);
+        }
+
+        if (animationIsSupported) {
+          animatePopup(instance, popup, container, onAfterClose);
+        } else {
+          // Otherwise, remove immediately
+          removePopupAndResetState(instance, container, isToast(), onAfterClose);
+        }
+      };
+
+      var animatePopup = function animatePopup(instance, popup, container, onAfterClose) {
+        globalState.swalCloseEventFinishedCallback = removePopupAndResetState.bind(null, instance, container, isToast(), onAfterClose);
+        popup.addEventListener(animationEndEvent, function (e) {
+          if (e.target === popup) {
+            globalState.swalCloseEventFinishedCallback();
+            delete globalState.swalCloseEventFinishedCallback;
+          }
+        });
+      };
+
+      var triggerOnAfterCloseAndDispose = function triggerOnAfterCloseAndDispose(instance, onAfterClose) {
+        setTimeout(function () {
+          if (typeof onAfterClose === 'function') {
+            onAfterClose();
+          }
+
+          instance._destroy();
+        });
+      };
+
+      function setButtonsDisabled(instance, buttons, disabled) {
+        var domCache = privateProps.domCache.get(instance);
+        buttons.forEach(function (button) {
+          domCache[button].disabled = disabled;
+        });
+      }
+
+      function setInputDisabled(input, disabled) {
+        if (!input) {
+          return false;
+        }
+
+        if (input.type === 'radio') {
+          var radiosContainer = input.parentNode.parentNode;
+          var radios = radiosContainer.querySelectorAll('input');
+
+          for (var i = 0; i < radios.length; i++) {
+            radios[i].disabled = disabled;
+          }
+        } else {
+          input.disabled = disabled;
+        }
+      }
+
+      function enableButtons() {
+        setButtonsDisabled(this, ['confirmButton', 'cancelButton'], false);
+      }
+
+      function disableButtons() {
+        setButtonsDisabled(this, ['confirmButton', 'cancelButton'], true);
+      }
+
+      function enableInput() {
+        return setInputDisabled(this.getInput(), false);
+      }
+
+      function disableInput() {
+        return setInputDisabled(this.getInput(), true);
+      }
+
+      function showValidationMessage(error) {
+        var domCache = privateProps.domCache.get(this);
+        domCache.validationMessage.innerHTML = error;
+        var popupComputedStyle = window.getComputedStyle(domCache.popup);
+        domCache.validationMessage.style.marginLeft = "-".concat(popupComputedStyle.getPropertyValue('padding-left'));
+        domCache.validationMessage.style.marginRight = "-".concat(popupComputedStyle.getPropertyValue('padding-right'));
+        show(domCache.validationMessage);
+        var input = this.getInput();
+
+        if (input) {
+          input.setAttribute('aria-invalid', true);
+          input.setAttribute('aria-describedBy', swalClasses['validation-message']);
+          focusInput(input);
+          addClass(input, swalClasses.inputerror);
+        }
+      } // Hide block with validation message
+
+
+      function resetValidationMessage$1() {
+        var domCache = privateProps.domCache.get(this);
+
+        if (domCache.validationMessage) {
+          hide(domCache.validationMessage);
+        }
+
+        var input = this.getInput();
+
+        if (input) {
+          input.removeAttribute('aria-invalid');
+          input.removeAttribute('aria-describedBy');
+          removeClass(input, swalClasses.inputerror);
+        }
+      }
+
+      function getProgressSteps$1() {
+        var domCache = privateProps.domCache.get(this);
+        return domCache.progressSteps;
+      }
+
+      var Timer = /*#__PURE__*/function () {
+        function Timer(callback, delay) {
+          _classCallCheck(this, Timer);
+
+          this.callback = callback;
+          this.remaining = delay;
+          this.running = false;
+          this.start();
+        }
+
+        _createClass(Timer, [{
+          key: "start",
+          value: function start() {
+            if (!this.running) {
+              this.running = true;
+              this.started = new Date();
+              this.id = setTimeout(this.callback, this.remaining);
+            }
+
+            return this.remaining;
+          }
+        }, {
+          key: "stop",
+          value: function stop() {
+            if (this.running) {
+              this.running = false;
+              clearTimeout(this.id);
+              this.remaining -= new Date() - this.started;
+            }
+
+            return this.remaining;
+          }
+        }, {
+          key: "increase",
+          value: function increase(n) {
+            var running = this.running;
+
+            if (running) {
+              this.stop();
+            }
+
+            this.remaining += n;
+
+            if (running) {
+              this.start();
+            }
+
+            return this.remaining;
+          }
+        }, {
+          key: "getTimerLeft",
+          value: function getTimerLeft() {
+            if (this.running) {
+              this.stop();
+              this.start();
+            }
+
+            return this.remaining;
+          }
+        }, {
+          key: "isRunning",
+          value: function isRunning() {
+            return this.running;
+          }
+        }]);
+
+        return Timer;
+      }();
+
+      var defaultInputValidators = {
+        email: function email(string, validationMessage) {
+          return /^[a-zA-Z0-9.+_-]+@[a-zA-Z0-9.-]+\.[a-zA-Z0-9-]{2,24}$/.test(string) ? Promise.resolve() : Promise.resolve(validationMessage || 'Invalid email address');
+        },
+        url: function url(string, validationMessage) {
+          // taken from https://stackoverflow.com/a/3809435 with a small change from #1306
+          return /^https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{2,256}\.[a-z]{2,63}\b([-a-zA-Z0-9@:%_+.~#?&/=]*)$/.test(string) ? Promise.resolve() : Promise.resolve(validationMessage || 'Invalid URL');
+        }
+      };
+
+      function setDefaultInputValidators(params) {
+        // Use default `inputValidator` for supported input types if not provided
+        if (!params.inputValidator) {
+          Object.keys(defaultInputValidators).forEach(function (key) {
+            if (params.input === key) {
+              params.inputValidator = defaultInputValidators[key];
+            }
+          });
+        }
+      }
+
+      function validateCustomTargetElement(params) {
+        // Determine if the custom target element is valid
+        if (!params.target || typeof params.target === 'string' && !document.querySelector(params.target) || typeof params.target !== 'string' && !params.target.appendChild) {
+          warn('Target parameter is not valid, defaulting to "body"');
+          params.target = 'body';
+        }
+      }
+      /**
+       * Set type, text and actions on popup
+       *
+       * @param params
+       * @returns {boolean}
+       */
+
+
+      function setParameters(params) {
+        setDefaultInputValidators(params); // showLoaderOnConfirm && preConfirm
+
+        if (params.showLoaderOnConfirm && !params.preConfirm) {
+          warn('showLoaderOnConfirm is set to true, but preConfirm is not defined.\n' + 'showLoaderOnConfirm should be used together with preConfirm, see usage example:\n' + 'https://sweetalert2.github.io/#ajax-request');
+        } // params.animation will be actually used in renderPopup.js
+        // but in case when params.animation is a function, we need to call that function
+        // before popup (re)initialization, so it'll be possible to check Swal.isVisible()
+        // inside the params.animation function
+
+
+        params.animation = callIfFunction(params.animation);
+        validateCustomTargetElement(params); // Replace newlines with <br> in title
+
+        if (typeof params.title === 'string') {
+          params.title = params.title.split('\n').join('<br />');
+        }
+
+        init(params);
+      }
+      /**
+       * Open popup, add necessary classes and styles, fix scrollbar
+       *
+       * @param {Array} params
+       */
+
+
+      var openPopup = function openPopup(params) {
+        var container = getContainer();
+        var popup = getPopup();
+
+        if (typeof params.onBeforeOpen === 'function') {
+          params.onBeforeOpen(popup);
+        }
+
+        addClasses$1(container, popup, params); // scrolling is 'hidden' until animation is done, after that 'auto'
+
+        setScrollingVisibility(container, popup);
+
+        if (isModal()) {
+          fixScrollContainer(container, params.scrollbarPadding);
+        }
+
+        if (!isToast() && !globalState.previousActiveElement) {
+          globalState.previousActiveElement = document.activeElement;
+        }
+
+        if (typeof params.onOpen === 'function') {
+          setTimeout(function () {
+            return params.onOpen(popup);
+          });
+        }
+
+        removeClass(container, swalClasses['no-transition']);
+      };
+
+      function swalOpenAnimationFinished(event) {
+        var popup = getPopup();
+
+        if (event.target !== popup) {
+          return;
+        }
+
+        var container = getContainer();
+        popup.removeEventListener(animationEndEvent, swalOpenAnimationFinished);
+        container.style.overflowY = 'auto';
+      }
+
+      var setScrollingVisibility = function setScrollingVisibility(container, popup) {
+        if (animationEndEvent && hasCssAnimation(popup)) {
+          container.style.overflowY = 'hidden';
+          popup.addEventListener(animationEndEvent, swalOpenAnimationFinished);
+        } else {
+          container.style.overflowY = 'auto';
+        }
+      };
+
+      var fixScrollContainer = function fixScrollContainer(container, scrollbarPadding) {
+        iOSfix();
+        IEfix();
+        setAriaHidden();
+
+        if (scrollbarPadding) {
+          fixScrollbar();
+        } // sweetalert2/issues/1247
+
+
+        setTimeout(function () {
+          container.scrollTop = 0;
+        });
+      };
+
+      var addClasses$1 = function addClasses(container, popup, params) {
+        addClass(container, params.showClass.backdrop);
+        show(popup); // Animate popup right after showing it
+
+        addClass(popup, params.showClass.popup);
+        addClass([document.documentElement, document.body], swalClasses.shown);
+
+        if (params.heightAuto && params.backdrop && !params.toast) {
+          addClass([document.documentElement, document.body], swalClasses['height-auto']);
+        }
+      };
+
+      var handleInputOptionsAndValue = function handleInputOptionsAndValue(instance, params) {
+        if (params.input === 'select' || params.input === 'radio') {
+          handleInputOptions(instance, params);
+        } else if (['text', 'email', 'number', 'tel', 'textarea'].indexOf(params.input) !== -1 && isPromise(params.inputValue)) {
+          handleInputValue(instance, params);
+        }
+      };
+
+      var getInputValue = function getInputValue(instance, innerParams) {
+        var input = instance.getInput();
+
+        if (!input) {
+          return null;
+        }
+
+        switch (innerParams.input) {
+          case 'checkbox':
+            return getCheckboxValue(input);
+
+          case 'radio':
+            return getRadioValue(input);
+
+          case 'file':
+            return getFileValue(input);
+
+          default:
+            return innerParams.inputAutoTrim ? input.value.trim() : input.value;
+        }
+      };
+
+      var getCheckboxValue = function getCheckboxValue(input) {
+        return input.checked ? 1 : 0;
+      };
+
+      var getRadioValue = function getRadioValue(input) {
+        return input.checked ? input.value : null;
+      };
+
+      var getFileValue = function getFileValue(input) {
+        return input.files.length ? input.getAttribute('multiple') !== null ? input.files : input.files[0] : null;
+      };
+
+      var handleInputOptions = function handleInputOptions(instance, params) {
+        var content = getContent();
+
+        var processInputOptions = function processInputOptions(inputOptions) {
+          return populateInputOptions[params.input](content, formatInputOptions(inputOptions), params);
+        };
+
+        if (isPromise(params.inputOptions)) {
+          showLoading();
+          params.inputOptions.then(function (inputOptions) {
+            instance.hideLoading();
+            processInputOptions(inputOptions);
+          });
+        } else if (_typeof(params.inputOptions) === 'object') {
+          processInputOptions(params.inputOptions);
+        } else {
+          error("Unexpected type of inputOptions! Expected object, Map or Promise, got ".concat(_typeof(params.inputOptions)));
+        }
+      };
+
+      var handleInputValue = function handleInputValue(instance, params) {
+        var input = instance.getInput();
+        hide(input);
+        params.inputValue.then(function (inputValue) {
+          input.value = params.input === 'number' ? parseFloat(inputValue) || 0 : "".concat(inputValue);
+          show(input);
+          input.focus();
+          instance.hideLoading();
+        })["catch"](function (err) {
+          error("Error in inputValue promise: ".concat(err));
+          input.value = '';
+          show(input);
+          input.focus();
+          instance.hideLoading();
+        });
+      };
+
+      var populateInputOptions = {
+        select: function select(content, inputOptions, params) {
+          var select = getChildByClass(content, swalClasses.select);
+          inputOptions.forEach(function (inputOption) {
+            var optionValue = inputOption[0];
+            var optionLabel = inputOption[1];
+            var option = document.createElement('option');
+            option.value = optionValue;
+            option.innerHTML = optionLabel;
+
+            if (params.inputValue.toString() === optionValue.toString()) {
+              option.selected = true;
+            }
+
+            select.appendChild(option);
+          });
+          select.focus();
+        },
+        radio: function radio(content, inputOptions, params) {
+          var radio = getChildByClass(content, swalClasses.radio);
+          inputOptions.forEach(function (inputOption) {
+            var radioValue = inputOption[0];
+            var radioLabel = inputOption[1];
+            var radioInput = document.createElement('input');
+            var radioLabelElement = document.createElement('label');
+            radioInput.type = 'radio';
+            radioInput.name = swalClasses.radio;
+            radioInput.value = radioValue;
+
+            if (params.inputValue.toString() === radioValue.toString()) {
+              radioInput.checked = true;
+            }
+
+            var label = document.createElement('span');
+            label.innerHTML = radioLabel;
+            label.className = swalClasses.label;
+            radioLabelElement.appendChild(radioInput);
+            radioLabelElement.appendChild(label);
+            radio.appendChild(radioLabelElement);
+          });
+          var radios = radio.querySelectorAll('input');
+
+          if (radios.length) {
+            radios[0].focus();
+          }
+        }
+      };
+      /**
+       * Converts `inputOptions` into an array of `[value, label]`s
+       * @param inputOptions
+       */
+
+      var formatInputOptions = function formatInputOptions(inputOptions) {
+        var result = [];
+
+        if (typeof Map !== 'undefined' && inputOptions instanceof Map) {
+          inputOptions.forEach(function (value, key) {
+            result.push([key, value]);
+          });
+        } else {
+          Object.keys(inputOptions).forEach(function (key) {
+            result.push([key, inputOptions[key]]);
+          });
+        }
+
+        return result;
+      };
+
+      var handleConfirmButtonClick = function handleConfirmButtonClick(instance, innerParams) {
+        instance.disableButtons();
+
+        if (innerParams.input) {
+          handleConfirmWithInput(instance, innerParams);
+        } else {
+          confirm(instance, innerParams, true);
+        }
+      };
+
+      var handleCancelButtonClick = function handleCancelButtonClick(instance, dismissWith) {
+        instance.disableButtons();
+        dismissWith(DismissReason.cancel);
+      };
+
+      var handleConfirmWithInput = function handleConfirmWithInput(instance, innerParams) {
+        var inputValue = getInputValue(instance, innerParams);
+
+        if (innerParams.inputValidator) {
+          instance.disableInput();
+          var validationPromise = Promise.resolve().then(function () {
+            return innerParams.inputValidator(inputValue, innerParams.validationMessage);
+          });
+          validationPromise.then(function (validationMessage) {
+            instance.enableButtons();
+            instance.enableInput();
+
+            if (validationMessage) {
+              instance.showValidationMessage(validationMessage);
+            } else {
+              confirm(instance, innerParams, inputValue);
+            }
+          });
+        } else if (!instance.getInput().checkValidity()) {
+          instance.enableButtons();
+          instance.showValidationMessage(innerParams.validationMessage);
+        } else {
+          confirm(instance, innerParams, inputValue);
+        }
+      };
+
+      var succeedWith = function succeedWith(instance, value) {
+        instance.closePopup({
+          value: value
+        });
+      };
+
+      var confirm = function confirm(instance, innerParams, value) {
+        if (innerParams.showLoaderOnConfirm) {
+          showLoading(); // TODO: make showLoading an *instance* method
+        }
+
+        if (innerParams.preConfirm) {
+          instance.resetValidationMessage();
+          var preConfirmPromise = Promise.resolve().then(function () {
+            return innerParams.preConfirm(value, innerParams.validationMessage);
+          });
+          preConfirmPromise.then(function (preConfirmValue) {
+            if (isVisible(getValidationMessage()) || preConfirmValue === false) {
+              instance.hideLoading();
+            } else {
+              succeedWith(instance, typeof preConfirmValue === 'undefined' ? value : preConfirmValue);
+            }
+          });
+        } else {
+          succeedWith(instance, value);
+        }
+      };
+
+      var addKeydownHandler = function addKeydownHandler(instance, globalState, innerParams, dismissWith) {
+        if (globalState.keydownTarget && globalState.keydownHandlerAdded) {
+          globalState.keydownTarget.removeEventListener('keydown', globalState.keydownHandler, {
+            capture: globalState.keydownListenerCapture
+          });
+          globalState.keydownHandlerAdded = false;
+        }
+
+        if (!innerParams.toast) {
+          globalState.keydownHandler = function (e) {
+            return keydownHandler(instance, e, dismissWith);
+          };
+
+          globalState.keydownTarget = innerParams.keydownListenerCapture ? window : getPopup();
+          globalState.keydownListenerCapture = innerParams.keydownListenerCapture;
+          globalState.keydownTarget.addEventListener('keydown', globalState.keydownHandler, {
+            capture: globalState.keydownListenerCapture
+          });
+          globalState.keydownHandlerAdded = true;
+        }
+      }; // Focus handling
+
+
+      var setFocus = function setFocus(innerParams, index, increment) {
+        var focusableElements = getFocusableElements(); // search for visible elements and select the next possible match
+
+        for (var i = 0; i < focusableElements.length; i++) {
+          index = index + increment; // rollover to first item
+
+          if (index === focusableElements.length) {
+            index = 0; // go to last item
+          } else if (index === -1) {
+            index = focusableElements.length - 1;
+          }
+
+          return focusableElements[index].focus();
+        } // no visible focusable elements, focus the popup
+
+
+        getPopup().focus();
+      };
+
+      var arrowKeys = ['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown', 'Left', 'Right', 'Up', 'Down' // IE11
+      ];
+      var escKeys = ['Escape', 'Esc' // IE11
+      ];
+
+      var keydownHandler = function keydownHandler(instance, e, dismissWith) {
+        var innerParams = privateProps.innerParams.get(instance);
+
+        if (innerParams.stopKeydownPropagation) {
+          e.stopPropagation();
+        } // ENTER
+
+
+        if (e.key === 'Enter') {
+          handleEnter(instance, e, innerParams); // TAB
+        } else if (e.key === 'Tab') {
+          handleTab(e, innerParams); // ARROWS - switch focus between buttons
+        } else if (arrowKeys.indexOf(e.key) !== -1) {
+          handleArrows(); // ESC
+        } else if (escKeys.indexOf(e.key) !== -1) {
+          handleEsc(e, innerParams, dismissWith);
+        }
+      };
+
+      var handleEnter = function handleEnter(instance, e, innerParams) {
+        // #720 #721
+        if (e.isComposing) {
+          return;
+        }
+
+        if (e.target && instance.getInput() && e.target.outerHTML === instance.getInput().outerHTML) {
+          if (['textarea', 'file'].indexOf(innerParams.input) !== -1) {
+            return; // do not submit
+          }
+
+          clickConfirm();
+          e.preventDefault();
+        }
+      };
+
+      var handleTab = function handleTab(e, innerParams) {
+        var targetElement = e.target;
+        var focusableElements = getFocusableElements();
+        var btnIndex = -1;
+
+        for (var i = 0; i < focusableElements.length; i++) {
+          if (targetElement === focusableElements[i]) {
+            btnIndex = i;
+            break;
+          }
+        }
+
+        if (!e.shiftKey) {
+          // Cycle to the next button
+          setFocus(innerParams, btnIndex, 1);
+        } else {
+          // Cycle to the prev button
+          setFocus(innerParams, btnIndex, -1);
+        }
+
+        e.stopPropagation();
+        e.preventDefault();
+      };
+
+      var handleArrows = function handleArrows() {
+        var confirmButton = getConfirmButton();
+        var cancelButton = getCancelButton(); // focus Cancel button if Confirm button is currently focused
+
+        if (document.activeElement === confirmButton && isVisible(cancelButton)) {
+          cancelButton.focus(); // and vice versa
+        } else if (document.activeElement === cancelButton && isVisible(confirmButton)) {
+          confirmButton.focus();
+        }
+      };
+
+      var handleEsc = function handleEsc(e, innerParams, dismissWith) {
+        if (callIfFunction(innerParams.allowEscapeKey)) {
+          e.preventDefault();
+          dismissWith(DismissReason.esc);
+        }
+      };
+
+      var handlePopupClick = function handlePopupClick(instance, domCache, dismissWith) {
+        var innerParams = privateProps.innerParams.get(instance);
+
+        if (innerParams.toast) {
+          handleToastClick(instance, domCache, dismissWith);
+        } else {
+          // Ignore click events that had mousedown on the popup but mouseup on the container
+          // This can happen when the user drags a slider
+          handleModalMousedown(domCache); // Ignore click events that had mousedown on the container but mouseup on the popup
+
+          handleContainerMousedown(domCache);
+          handleModalClick(instance, domCache, dismissWith);
+        }
+      };
+
+      var handleToastClick = function handleToastClick(instance, domCache, dismissWith) {
+        // Closing toast by internal click
+        domCache.popup.onclick = function () {
+          var innerParams = privateProps.innerParams.get(instance);
+
+          if (innerParams.showConfirmButton || innerParams.showCancelButton || innerParams.showCloseButton || innerParams.input) {
+            return;
+          }
+
+          dismissWith(DismissReason.close);
+        };
+      };
+
+      var ignoreOutsideClick = false;
+
+      var handleModalMousedown = function handleModalMousedown(domCache) {
+        domCache.popup.onmousedown = function () {
+          domCache.container.onmouseup = function (e) {
+            domCache.container.onmouseup = undefined; // We only check if the mouseup target is the container because usually it doesn't
+            // have any other direct children aside of the popup
+
+            if (e.target === domCache.container) {
+              ignoreOutsideClick = true;
+            }
+          };
+        };
+      };
+
+      var handleContainerMousedown = function handleContainerMousedown(domCache) {
+        domCache.container.onmousedown = function () {
+          domCache.popup.onmouseup = function (e) {
+            domCache.popup.onmouseup = undefined; // We also need to check if the mouseup target is a child of the popup
+
+            if (e.target === domCache.popup || domCache.popup.contains(e.target)) {
+              ignoreOutsideClick = true;
+            }
+          };
+        };
+      };
+
+      var handleModalClick = function handleModalClick(instance, domCache, dismissWith) {
+        domCache.container.onclick = function (e) {
+          var innerParams = privateProps.innerParams.get(instance);
+
+          if (ignoreOutsideClick) {
+            ignoreOutsideClick = false;
+            return;
+          }
+
+          if (e.target === domCache.container && callIfFunction(innerParams.allowOutsideClick)) {
+            dismissWith(DismissReason.backdrop);
+          }
+        };
+      };
+
+      function _main(userParams) {
+        showWarningsForParams(userParams);
+
+        if (globalState.currentInstance) {
+          globalState.currentInstance._destroy();
+        }
+
+        globalState.currentInstance = this;
+        var innerParams = prepareParams(userParams);
+        setParameters(innerParams);
+        Object.freeze(innerParams); // clear the previous timer
+
+        if (globalState.timeout) {
+          globalState.timeout.stop();
+          delete globalState.timeout;
+        } // clear the restore focus timeout
+
+
+        clearTimeout(globalState.restoreFocusTimeout);
+        var domCache = populateDomCache(this);
+        render(this, innerParams);
+        privateProps.innerParams.set(this, innerParams);
+        return swalPromise(this, domCache, innerParams);
+      }
+
+      var prepareParams = function prepareParams(userParams) {
+        var showClass = _extends({}, defaultParams.showClass, userParams.showClass);
+
+        var hideClass = _extends({}, defaultParams.hideClass, userParams.hideClass);
+
+        var params = _extends({}, defaultParams, userParams);
+
+        params.showClass = showClass;
+        params.hideClass = hideClass; // @deprecated
+
+        if (userParams.animation === false) {
+          params.showClass = {
+            popup: '',
+            backdrop: 'swal2-backdrop-show swal2-noanimation'
+          };
+          params.hideClass = {};
+        }
+
+        return params;
+      };
+
+      var swalPromise = function swalPromise(instance, domCache, innerParams) {
+        return new Promise(function (resolve) {
+          // functions to handle all closings/dismissals
+          var dismissWith = function dismissWith(dismiss) {
+            instance.closePopup({
+              dismiss: dismiss
+            });
+          };
+
+          privateMethods.swalPromiseResolve.set(instance, resolve);
+
+          domCache.confirmButton.onclick = function () {
+            return handleConfirmButtonClick(instance, innerParams);
+          };
+
+          domCache.cancelButton.onclick = function () {
+            return handleCancelButtonClick(instance, dismissWith);
+          };
+
+          domCache.closeButton.onclick = function () {
+            return dismissWith(DismissReason.close);
+          };
+
+          handlePopupClick(instance, domCache, dismissWith);
+          addKeydownHandler(instance, globalState, innerParams, dismissWith);
+
+          if (innerParams.toast && (innerParams.input || innerParams.footer || innerParams.showCloseButton)) {
+            addClass(document.body, swalClasses['toast-column']);
+          } else {
+            removeClass(document.body, swalClasses['toast-column']);
+          }
+
+          handleInputOptionsAndValue(instance, innerParams);
+          openPopup(innerParams);
+          setupTimer(globalState, innerParams, dismissWith);
+          initFocus(domCache, innerParams); // Scroll container to top on open (#1247)
+
+          domCache.container.scrollTop = 0;
+        });
+      };
+
+      var populateDomCache = function populateDomCache(instance) {
+        var domCache = {
+          popup: getPopup(),
+          container: getContainer(),
+          content: getContent(),
+          actions: getActions(),
+          confirmButton: getConfirmButton(),
+          cancelButton: getCancelButton(),
+          closeButton: getCloseButton(),
+          validationMessage: getValidationMessage(),
+          progressSteps: getProgressSteps()
+        };
+        privateProps.domCache.set(instance, domCache);
+        return domCache;
+      };
+
+      var setupTimer = function setupTimer(globalState$$1, innerParams, dismissWith) {
+        var timerProgressBar = getTimerProgressBar();
+        hide(timerProgressBar);
+
+        if (innerParams.timer) {
+          globalState$$1.timeout = new Timer(function () {
+            dismissWith('timer');
+            delete globalState$$1.timeout;
+          }, innerParams.timer);
+
+          if (innerParams.timerProgressBar) {
+            show(timerProgressBar);
+            setTimeout(function () {
+              if (globalState$$1.timeout.running) {
+                // timer can be already stopped at this point
+                animateTimerProgressBar(innerParams.timer);
+              }
+            });
+          }
+        }
+      };
+
+      var initFocus = function initFocus(domCache, innerParams) {
+        if (innerParams.toast) {
+          return;
+        }
+
+        if (!callIfFunction(innerParams.allowEnterKey)) {
+          return blurActiveElement();
+        }
+
+        if (innerParams.focusCancel && isVisible(domCache.cancelButton)) {
+          return domCache.cancelButton.focus();
+        }
+
+        if (innerParams.focusConfirm && isVisible(domCache.confirmButton)) {
+          return domCache.confirmButton.focus();
+        }
+
+        setFocus(innerParams, -1, 1);
+      };
+
+      var blurActiveElement = function blurActiveElement() {
+        if (document.activeElement && typeof document.activeElement.blur === 'function') {
+          document.activeElement.blur();
+        }
+      };
+      /**
+       * Updates popup parameters.
+       */
+
+
+      function update(params) {
+        var popup = getPopup();
+        var innerParams = privateProps.innerParams.get(this);
+
+        if (!popup || hasClass(popup, innerParams.hideClass.popup)) {
+          return warn("You're trying to update the closed or closing popup, that won't work. Use the update() method in preConfirm parameter or show a new popup.");
+        }
+
+        var validUpdatableParams = {}; // assign valid params from `params` to `defaults`
+
+        Object.keys(params).forEach(function (param) {
+          if (Swal.isUpdatableParameter(param)) {
+            validUpdatableParams[param] = params[param];
+          } else {
+            warn("Invalid parameter to update: \"".concat(param, "\". Updatable params are listed here: https://github.com/sweetalert2/sweetalert2/blob/master/src/utils/params.js"));
+          }
+        });
+
+        var updatedParams = _extends({}, innerParams, validUpdatableParams);
+
+        render(this, updatedParams);
+        privateProps.innerParams.set(this, updatedParams);
+        Object.defineProperties(this, {
+          params: {
+            value: _extends({}, this.params, params),
+            writable: false,
+            enumerable: true
+          }
+        });
+      }
+
+      function _destroy() {
+        var domCache = privateProps.domCache.get(this);
+        var innerParams = privateProps.innerParams.get(this);
+
+        if (!innerParams) {
+          return; // This instance has already been destroyed
+        } // Check if there is another Swal closing
+
+
+        if (domCache.popup && globalState.swalCloseEventFinishedCallback) {
+          globalState.swalCloseEventFinishedCallback();
+          delete globalState.swalCloseEventFinishedCallback;
+        } // Check if there is a swal disposal defer timer
+
+
+        if (globalState.deferDisposalTimer) {
+          clearTimeout(globalState.deferDisposalTimer);
+          delete globalState.deferDisposalTimer;
+        }
+
+        if (typeof innerParams.onDestroy === 'function') {
+          innerParams.onDestroy();
+        }
+
+        disposeSwal(this);
+      }
+
+      var disposeSwal = function disposeSwal(instance) {
+        // Unset this.params so GC will dispose it (#1569)
+        delete instance.params; // Unset globalState props so GC will dispose globalState (#1569)
+
+        delete globalState.keydownHandler;
+        delete globalState.keydownTarget; // Unset WeakMaps so GC will be able to dispose them (#1569)
+
+        unsetWeakMaps(privateProps);
+        unsetWeakMaps(privateMethods);
+      };
+
+      var unsetWeakMaps = function unsetWeakMaps(obj) {
+        for (var i in obj) {
+          obj[i] = new WeakMap();
+        }
+      };
+
+      var instanceMethods = /*#__PURE__*/Object.freeze({
+        hideLoading: hideLoading,
+        disableLoading: hideLoading,
+        getInput: getInput$1,
+        close: close,
+        closePopup: close,
+        closeModal: close,
+        closeToast: close,
+        enableButtons: enableButtons,
+        disableButtons: disableButtons,
+        enableInput: enableInput,
+        disableInput: disableInput,
+        showValidationMessage: showValidationMessage,
+        resetValidationMessage: resetValidationMessage$1,
+        getProgressSteps: getProgressSteps$1,
+        _main: _main,
+        update: update,
+        _destroy: _destroy
+      });
+      var currentInstance; // SweetAlert constructor
+
+      function SweetAlert() {
+        // Prevent run in Node env
+
+        /* istanbul ignore if */
+        if (typeof window === 'undefined') {
+          return;
+        } // Check for the existence of Promise
+
+        /* istanbul ignore if */
+
+
+        if (typeof Promise === 'undefined') {
+          error('This package requires a Promise library, please include a shim to enable it in this browser (See: https://github.com/sweetalert2/sweetalert2/wiki/Migration-from-SweetAlert-to-SweetAlert2#1-ie-support)');
+        }
+
+        currentInstance = this;
+
+        for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+          args[_key] = arguments[_key];
+        }
+
+        var outerParams = Object.freeze(this.constructor.argsToParams(args));
+        Object.defineProperties(this, {
+          params: {
+            value: outerParams,
+            writable: false,
+            enumerable: true,
+            configurable: true
+          }
+        });
+
+        var promise = this._main(this.params);
+
+        privateProps.promise.set(this, promise);
+      } // `catch` cannot be the name of a module export, so we define our thenable methods here instead
+
+
+      SweetAlert.prototype.then = function (onFulfilled) {
+        var promise = privateProps.promise.get(this);
+        return promise.then(onFulfilled);
+      };
+
+      SweetAlert.prototype["finally"] = function (onFinally) {
+        var promise = privateProps.promise.get(this);
+        return promise["finally"](onFinally);
+      }; // Assign instance methods from src/instanceMethods/*.js to prototype
+
+
+      _extends(SweetAlert.prototype, instanceMethods); // Assign static methods from src/staticMethods/*.js to constructor
+
+
+      _extends(SweetAlert, staticMethods); // Proxy to instance methods to constructor, for now, for backwards compatibility
+
+
+      Object.keys(instanceMethods).forEach(function (key) {
+        SweetAlert[key] = function () {
+          if (currentInstance) {
+            var _currentInstance;
+
+            return (_currentInstance = currentInstance)[key].apply(_currentInstance, arguments);
+          }
+        };
+      });
+      SweetAlert.DismissReason = DismissReason;
+      SweetAlert.version = '9.10.2';
+      var Swal = SweetAlert;
+      Swal["default"] = Swal;
+      return Swal;
+    });
+
+    if (typeof this !== 'undefined' && this.Sweetalert2) {
+      this.swal = this.sweetAlert = this.Swal = this.SweetAlert = this.Sweetalert2;
+    }
+
+    "undefined" != typeof document && function (e, t) {
+      var n = e.createElement("style");
+      if (e.getElementsByTagName("head")[0].appendChild(n), n.styleSheet) n.styleSheet.disabled || (n.styleSheet.cssText = t);else try {
+        n.innerHTML = t;
+      } catch (e) {
+        n.innerText = t;
+      }
+    }(document, ".swal2-popup.swal2-toast{flex-direction:row;align-items:center;width:auto;padding:.625em;overflow-y:hidden;background:#fff;box-shadow:0 0 .625em #d9d9d9}.swal2-popup.swal2-toast .swal2-header{flex-direction:row}.swal2-popup.swal2-toast .swal2-title{flex-grow:1;justify-content:flex-start;margin:0 .6em;font-size:1em}.swal2-popup.swal2-toast .swal2-footer{margin:.5em 0 0;padding:.5em 0 0;font-size:.8em}.swal2-popup.swal2-toast .swal2-close{position:static;width:.8em;height:.8em;line-height:.8}.swal2-popup.swal2-toast .swal2-content{justify-content:flex-start;font-size:1em}.swal2-popup.swal2-toast .swal2-icon{width:2em;min-width:2em;height:2em;margin:0}.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:1.8em;font-weight:700}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{font-size:.25em}}.swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line]{top:.875em;width:1.375em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:.3125em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:.3125em}.swal2-popup.swal2-toast .swal2-actions{flex-basis:auto!important;width:auto;height:auto;margin:0 .3125em}.swal2-popup.swal2-toast .swal2-styled{margin:0 .3125em;padding:.3125em .625em;font-size:1em}.swal2-popup.swal2-toast .swal2-styled:focus{box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(50,100,150,.4)}.swal2-popup.swal2-toast .swal2-success{border-color:#a5dc86}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line]{position:absolute;width:1.6em;height:3em;transform:rotate(45deg);border-radius:50%}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.8em;left:-.5em;transform:rotate(-45deg);transform-origin:2em 2em;border-radius:4em 0 0 4em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.25em;left:.9375em;transform-origin:0 1.5em;border-radius:0 4em 4em 0}.swal2-popup.swal2-toast .swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-success .swal2-success-fix{top:0;left:.4375em;width:.4375em;height:2.6875em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line]{height:.3125em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=tip]{top:1.125em;left:.1875em;width:.75em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=long]{top:.9375em;right:.1875em;width:1.375em}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-tip{-webkit-animation:swal2-toast-animate-success-line-tip .75s;animation:swal2-toast-animate-success-line-tip .75s}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-long{-webkit-animation:swal2-toast-animate-success-line-long .75s;animation:swal2-toast-animate-success-line-long .75s}.swal2-popup.swal2-toast.swal2-show{-webkit-animation:swal2-toast-show .5s;animation:swal2-toast-show .5s}.swal2-popup.swal2-toast.swal2-hide{-webkit-animation:swal2-toast-hide .1s forwards;animation:swal2-toast-hide .1s forwards}.swal2-container{display:flex;position:fixed;z-index:1060;top:0;right:0;bottom:0;left:0;flex-direction:row;align-items:center;justify-content:center;padding:.625em;overflow-x:hidden;transition:background-color .1s;-webkit-overflow-scrolling:touch}.swal2-container.swal2-backdrop-show{background:rgba(0,0,0,.4)}.swal2-container.swal2-backdrop-hide{background:0 0!important}.swal2-container.swal2-top{align-items:flex-start}.swal2-container.swal2-top-left,.swal2-container.swal2-top-start{align-items:flex-start;justify-content:flex-start}.swal2-container.swal2-top-end,.swal2-container.swal2-top-right{align-items:flex-start;justify-content:flex-end}.swal2-container.swal2-center{align-items:center}.swal2-container.swal2-center-left,.swal2-container.swal2-center-start{align-items:center;justify-content:flex-start}.swal2-container.swal2-center-end,.swal2-container.swal2-center-right{align-items:center;justify-content:flex-end}.swal2-container.swal2-bottom{align-items:flex-end}.swal2-container.swal2-bottom-left,.swal2-container.swal2-bottom-start{align-items:flex-end;justify-content:flex-start}.swal2-container.swal2-bottom-end,.swal2-container.swal2-bottom-right{align-items:flex-end;justify-content:flex-end}.swal2-container.swal2-bottom-end>:first-child,.swal2-container.swal2-bottom-left>:first-child,.swal2-container.swal2-bottom-right>:first-child,.swal2-container.swal2-bottom-start>:first-child,.swal2-container.swal2-bottom>:first-child{margin-top:auto}.swal2-container.swal2-grow-fullscreen>.swal2-modal{display:flex!important;flex:1;align-self:stretch;justify-content:center}.swal2-container.swal2-grow-row>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-grow-column{flex:1;flex-direction:column}.swal2-container.swal2-grow-column.swal2-bottom,.swal2-container.swal2-grow-column.swal2-center,.swal2-container.swal2-grow-column.swal2-top{align-items:center}.swal2-container.swal2-grow-column.swal2-bottom-left,.swal2-container.swal2-grow-column.swal2-bottom-start,.swal2-container.swal2-grow-column.swal2-center-left,.swal2-container.swal2-grow-column.swal2-center-start,.swal2-container.swal2-grow-column.swal2-top-left,.swal2-container.swal2-grow-column.swal2-top-start{align-items:flex-start}.swal2-container.swal2-grow-column.swal2-bottom-end,.swal2-container.swal2-grow-column.swal2-bottom-right,.swal2-container.swal2-grow-column.swal2-center-end,.swal2-container.swal2-grow-column.swal2-center-right,.swal2-container.swal2-grow-column.swal2-top-end,.swal2-container.swal2-grow-column.swal2-top-right{align-items:flex-end}.swal2-container.swal2-grow-column>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-no-transition{transition:none!important}.swal2-container:not(.swal2-top):not(.swal2-top-start):not(.swal2-top-end):not(.swal2-top-left):not(.swal2-top-right):not(.swal2-center-start):not(.swal2-center-end):not(.swal2-center-left):not(.swal2-center-right):not(.swal2-bottom):not(.swal2-bottom-start):not(.swal2-bottom-end):not(.swal2-bottom-left):not(.swal2-bottom-right):not(.swal2-grow-fullscreen)>.swal2-modal{margin:auto}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-container .swal2-modal{margin:0!important}}.swal2-popup{display:none;position:relative;box-sizing:border-box;flex-direction:column;justify-content:center;width:32em;max-width:100%;padding:1.25em;border:none;border-radius:.3125em;background:#fff;font-family:inherit;font-size:1rem}.swal2-popup:focus{outline:0}.swal2-popup.swal2-loading{overflow-y:hidden}.swal2-header{display:flex;flex-direction:column;align-items:center}.swal2-title{position:relative;max-width:100%;margin:0 0 .4em;padding:0;color:#595959;font-size:1.875em;font-weight:600;text-align:center;text-transform:none;word-wrap:break-word}.swal2-actions{display:flex;z-index:1;flex-wrap:wrap;align-items:center;justify-content:center;width:100%;margin:1.25em auto 0}.swal2-actions:not(.swal2-loading) .swal2-styled[disabled]{opacity:.4}.swal2-actions:not(.swal2-loading) .swal2-styled:hover{background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1))}.swal2-actions:not(.swal2-loading) .swal2-styled:active{background-image:linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2))}.swal2-actions.swal2-loading .swal2-styled.swal2-confirm{box-sizing:border-box;width:2.5em;height:2.5em;margin:.46875em;padding:0;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border:.25em solid transparent;border-radius:100%;border-color:transparent;background-color:transparent!important;color:transparent;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-actions.swal2-loading .swal2-styled.swal2-cancel{margin-right:30px;margin-left:30px}.swal2-actions.swal2-loading :not(.swal2-styled).swal2-confirm::after{content:\"\";display:inline-block;width:15px;height:15px;margin-left:5px;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border:3px solid #999;border-radius:50%;border-right-color:transparent;box-shadow:1px 1px 1px #fff}.swal2-styled{margin:.3125em;padding:.625em 2em;box-shadow:none;font-weight:500}.swal2-styled:not([disabled]){cursor:pointer}.swal2-styled.swal2-confirm{border:0;border-radius:.25em;background:initial;background-color:#3085d6;color:#fff;font-size:1.0625em}.swal2-styled.swal2-cancel{border:0;border-radius:.25em;background:initial;background-color:#aaa;color:#fff;font-size:1.0625em}.swal2-styled:focus{outline:0;box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(50,100,150,.4)}.swal2-styled::-moz-focus-inner{border:0}.swal2-footer{justify-content:center;margin:1.25em 0 0;padding:1em 0 0;border-top:1px solid #eee;color:#545454;font-size:1em}.swal2-timer-progress-bar-container{position:absolute;right:0;bottom:0;left:0;height:.25em;overflow:hidden;border-bottom-right-radius:.3125em;border-bottom-left-radius:.3125em}.swal2-timer-progress-bar{width:100%;height:.25em;background:rgba(0,0,0,.2)}.swal2-image{max-width:100%;margin:1.25em auto}.swal2-close{position:absolute;z-index:2;top:0;right:0;align-items:center;justify-content:center;width:1.2em;height:1.2em;padding:0;overflow:hidden;transition:color .1s ease-out;border:none;border-radius:0;outline:initial;background:0 0;color:#ccc;font-family:serif;font-size:2.5em;line-height:1.2;cursor:pointer}.swal2-close:hover{transform:none;background:0 0;color:#f27474}.swal2-close::-moz-focus-inner{border:0}.swal2-content{z-index:1;justify-content:center;margin:0;padding:0;color:#545454;font-size:1.125em;font-weight:400;line-height:normal;text-align:center;word-wrap:break-word}.swal2-checkbox,.swal2-file,.swal2-input,.swal2-radio,.swal2-select,.swal2-textarea{margin:1em auto}.swal2-file,.swal2-input,.swal2-textarea{box-sizing:border-box;width:100%;transition:border-color .3s,box-shadow .3s;border:1px solid #d9d9d9;border-radius:.1875em;background:inherit;box-shadow:inset 0 1px 1px rgba(0,0,0,.06);color:inherit;font-size:1.125em}.swal2-file.swal2-inputerror,.swal2-input.swal2-inputerror,.swal2-textarea.swal2-inputerror{border-color:#f27474!important;box-shadow:0 0 2px #f27474!important}.swal2-file:focus,.swal2-input:focus,.swal2-textarea:focus{border:1px solid #b4dbed;outline:0;box-shadow:0 0 3px #c4e6f5}.swal2-file::-webkit-input-placeholder,.swal2-input::-webkit-input-placeholder,.swal2-textarea::-webkit-input-placeholder{color:#ccc}.swal2-file::-moz-placeholder,.swal2-input::-moz-placeholder,.swal2-textarea::-moz-placeholder{color:#ccc}.swal2-file:-ms-input-placeholder,.swal2-input:-ms-input-placeholder,.swal2-textarea:-ms-input-placeholder{color:#ccc}.swal2-file::-ms-input-placeholder,.swal2-input::-ms-input-placeholder,.swal2-textarea::-ms-input-placeholder{color:#ccc}.swal2-file::placeholder,.swal2-input::placeholder,.swal2-textarea::placeholder{color:#ccc}.swal2-range{margin:1em auto;background:#fff}.swal2-range input{width:80%}.swal2-range output{width:20%;color:inherit;font-weight:600;text-align:center}.swal2-range input,.swal2-range output{height:2.625em;padding:0;font-size:1.125em;line-height:2.625em}.swal2-input{height:2.625em;padding:0 .75em}.swal2-input[type=number]{max-width:10em}.swal2-file{background:inherit;font-size:1.125em}.swal2-textarea{height:6.75em;padding:.75em}.swal2-select{min-width:50%;max-width:100%;padding:.375em .625em;background:inherit;color:inherit;font-size:1.125em}.swal2-checkbox,.swal2-radio{align-items:center;justify-content:center;background:#fff;color:inherit}.swal2-checkbox label,.swal2-radio label{margin:0 .6em;font-size:1.125em}.swal2-checkbox input,.swal2-radio input{margin:0 .4em}.swal2-validation-message{display:none;align-items:center;justify-content:center;padding:.625em;overflow:hidden;background:#f0f0f0;color:#666;font-size:1em;font-weight:300}.swal2-validation-message::before{content:\"!\";display:inline-block;width:1.5em;min-width:1.5em;height:1.5em;margin:0 .625em;border-radius:50%;background-color:#f27474;color:#fff;font-weight:600;line-height:1.5em;text-align:center}.swal2-icon{position:relative;box-sizing:content-box;justify-content:center;width:5em;height:5em;margin:1.25em auto 1.875em;border:.25em solid transparent;border-radius:50%;font-family:inherit;line-height:5em;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:3.75em}.swal2-icon.swal2-error{border-color:#f27474;color:#f27474}.swal2-icon.swal2-error .swal2-x-mark{position:relative;flex-grow:1}.swal2-icon.swal2-error [class^=swal2-x-mark-line]{display:block;position:absolute;top:2.3125em;width:2.9375em;height:.3125em;border-radius:.125em;background-color:#f27474}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:1.0625em;transform:rotate(45deg)}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:1em;transform:rotate(-45deg)}.swal2-icon.swal2-error.swal2-icon-show{-webkit-animation:swal2-animate-error-icon .5s;animation:swal2-animate-error-icon .5s}.swal2-icon.swal2-error.swal2-icon-show .swal2-x-mark{-webkit-animation:swal2-animate-error-x-mark .5s;animation:swal2-animate-error-x-mark .5s}.swal2-icon.swal2-warning{border-color:#facea8;color:#f8bb86}.swal2-icon.swal2-info{border-color:#9de0f6;color:#3fc3ee}.swal2-icon.swal2-question{border-color:#c9dae1;color:#87adbd}.swal2-icon.swal2-success{border-color:#a5dc86;color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-circular-line]{position:absolute;width:3.75em;height:7.5em;transform:rotate(45deg);border-radius:50%}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.4375em;left:-2.0635em;transform:rotate(-45deg);transform-origin:3.75em 3.75em;border-radius:7.5em 0 0 7.5em}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.6875em;left:1.875em;transform:rotate(-45deg);transform-origin:0 3.75em;border-radius:0 7.5em 7.5em 0}.swal2-icon.swal2-success .swal2-success-ring{position:absolute;z-index:2;top:-.25em;left:-.25em;box-sizing:content-box;width:100%;height:100%;border:.25em solid rgba(165,220,134,.3);border-radius:50%}.swal2-icon.swal2-success .swal2-success-fix{position:absolute;z-index:1;top:.5em;left:1.625em;width:.4375em;height:5.625em;transform:rotate(-45deg)}.swal2-icon.swal2-success [class^=swal2-success-line]{display:block;position:absolute;z-index:2;height:.3125em;border-radius:.125em;background-color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-line][class$=tip]{top:2.875em;left:.8125em;width:1.5625em;transform:rotate(45deg)}.swal2-icon.swal2-success [class^=swal2-success-line][class$=long]{top:2.375em;right:.5em;width:2.9375em;transform:rotate(-45deg)}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-tip{-webkit-animation:swal2-animate-success-line-tip .75s;animation:swal2-animate-success-line-tip .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-long{-webkit-animation:swal2-animate-success-line-long .75s;animation:swal2-animate-success-line-long .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-circular-line-right{-webkit-animation:swal2-rotate-success-circular-line 4.25s ease-in;animation:swal2-rotate-success-circular-line 4.25s ease-in}.swal2-progress-steps{align-items:center;margin:0 0 1.25em;padding:0;background:inherit;font-weight:600}.swal2-progress-steps li{display:inline-block;position:relative}.swal2-progress-steps .swal2-progress-step{z-index:20;width:2em;height:2em;border-radius:2em;background:#3085d6;color:#fff;line-height:2em;text-align:center}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step{background:#3085d6}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step{background:#add8e6;color:#fff}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step-line{background:#add8e6}.swal2-progress-steps .swal2-progress-step-line{z-index:10;width:2.5em;height:.4em;margin:0 -1px;background:#3085d6}[class^=swal2]{-webkit-tap-highlight-color:transparent}.swal2-show{-webkit-animation:swal2-show .3s;animation:swal2-show .3s}.swal2-hide{-webkit-animation:swal2-hide .15s forwards;animation:swal2-hide .15s forwards}.swal2-noanimation{transition:none}.swal2-scrollbar-measure{position:absolute;top:-9999px;width:50px;height:50px;overflow:scroll}.swal2-rtl .swal2-close{right:auto;left:0}.swal2-rtl .swal2-timer-progress-bar{right:0;left:auto}@supports (-ms-accelerator:true){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@-moz-document url-prefix(){.swal2-close:focus{outline:2px solid rgba(50,100,150,.4)}}@-webkit-keyframes swal2-toast-show{0%{transform:translateY(-.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0)}}@keyframes swal2-toast-show{0%{transform:translateY(-.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0)}}@-webkit-keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@-webkit-keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@-webkit-keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@-webkit-keyframes swal2-show{0%{transform:scale(.7)}45%{transform:scale(1.05)}80%{transform:scale(.95)}100%{transform:scale(1)}}@keyframes swal2-show{0%{transform:scale(.7)}45%{transform:scale(1.05)}80%{transform:scale(.95)}100%{transform:scale(1)}}@-webkit-keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(.5);opacity:0}}@keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(.5);opacity:0}}@-webkit-keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@-webkit-keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@-webkit-keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@-webkit-keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(.4);opacity:0}50%{margin-top:1.625em;transform:scale(.4);opacity:0}80%{margin-top:-.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(.4);opacity:0}50%{margin-top:1.625em;transform:scale(.4);opacity:0}80%{margin-top:-.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@-webkit-keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0);opacity:1}}@keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0);opacity:1}}@-webkit-keyframes swal2-rotate-loading{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}@keyframes swal2-rotate-loading{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow:hidden}body.swal2-height-auto{height:auto!important}body.swal2-no-backdrop .swal2-container{top:auto;right:auto;bottom:auto;left:auto;max-width:calc(100% - .625em * 2);background-color:transparent!important}body.swal2-no-backdrop .swal2-container>.swal2-modal{box-shadow:0 0 10px rgba(0,0,0,.4)}body.swal2-no-backdrop .swal2-container.swal2-top{top:0;left:50%;transform:translateX(-50%)}body.swal2-no-backdrop .swal2-container.swal2-top-left,body.swal2-no-backdrop .swal2-container.swal2-top-start{top:0;left:0}body.swal2-no-backdrop .swal2-container.swal2-top-end,body.swal2-no-backdrop .swal2-container.swal2-top-right{top:0;right:0}body.swal2-no-backdrop .swal2-container.swal2-center{top:50%;left:50%;transform:translate(-50%,-50%)}body.swal2-no-backdrop .swal2-container.swal2-center-left,body.swal2-no-backdrop .swal2-container.swal2-center-start{top:50%;left:0;transform:translateY(-50%)}body.swal2-no-backdrop .swal2-container.swal2-center-end,body.swal2-no-backdrop .swal2-container.swal2-center-right{top:50%;right:0;transform:translateY(-50%)}body.swal2-no-backdrop .swal2-container.swal2-bottom{bottom:0;left:50%;transform:translateX(-50%)}body.swal2-no-backdrop .swal2-container.swal2-bottom-left,body.swal2-no-backdrop .swal2-container.swal2-bottom-start{bottom:0;left:0}body.swal2-no-backdrop .swal2-container.swal2-bottom-end,body.swal2-no-backdrop .swal2-container.swal2-bottom-right{right:0;bottom:0}@media print{body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow-y:scroll!important}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown)>[aria-hidden=true]{display:none}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) .swal2-container{position:static!important}}body.swal2-toast-shown .swal2-container{background-color:transparent}body.swal2-toast-shown .swal2-container.swal2-top{top:0;right:auto;bottom:auto;left:50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-top-end,body.swal2-toast-shown .swal2-container.swal2-top-right{top:0;right:0;bottom:auto;left:auto}body.swal2-toast-shown .swal2-container.swal2-top-left,body.swal2-toast-shown .swal2-container.swal2-top-start{top:0;right:auto;bottom:auto;left:0}body.swal2-toast-shown .swal2-container.swal2-center-left,body.swal2-toast-shown .swal2-container.swal2-center-start{top:50%;right:auto;bottom:auto;left:0;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-center{top:50%;right:auto;bottom:auto;left:50%;transform:translate(-50%,-50%)}body.swal2-toast-shown .swal2-container.swal2-center-end,body.swal2-toast-shown .swal2-container.swal2-center-right{top:50%;right:0;bottom:auto;left:auto;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-left,body.swal2-toast-shown .swal2-container.swal2-bottom-start{top:auto;right:auto;bottom:0;left:0}body.swal2-toast-shown .swal2-container.swal2-bottom{top:auto;right:auto;bottom:0;left:50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-end,body.swal2-toast-shown .swal2-container.swal2-bottom-right{top:auto;right:0;bottom:0;left:auto}body.swal2-toast-column .swal2-toast{flex-direction:column;align-items:stretch}body.swal2-toast-column .swal2-toast .swal2-actions{flex:1;align-self:stretch;height:2.2em;margin-top:.3125em}body.swal2-toast-column .swal2-toast .swal2-loading{justify-content:center}body.swal2-toast-column .swal2-toast .swal2-input{height:2em;margin:.3125em auto;font-size:1em}body.swal2-toast-column .swal2-toast .swal2-validation-message{font-size:1em}");
     /***/
   },
 
@@ -81040,7 +84316,7 @@
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = ".modal-dialog {\n  display: -webkit-box;\n  display: flex;\n  -webkit-box-align: center;\n          align-items: center;\n  -webkit-box-pack: center;\n          justify-content: center;\n  height: 100%;\n  margin: 0 auto;\n}\n\n.modal-title {\n  color: #000;\n  font-weight: bold;\n}\n\n.modal-body {\n  color: #3c3c3c;\n  font-weight: 400;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaWRlYWx6L2NvbXBvbmVudHMvaGVhZGVyL0Q6XFxBcHB0dW5peFxcd2luaWRlYWx6L3NyY1xcYXBwXFxpZGVhbHpcXGNvbXBvbmVudHNcXGhlYWRlclxcaGVhZGVyLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9pZGVhbHovY29tcG9uZW50cy9oZWFkZXIvaGVhZGVyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksb0JBQUE7RUFBQSxhQUFBO0VBQ0EseUJBQUE7VUFBQSxtQkFBQTtFQUNBLHdCQUFBO1VBQUEsdUJBQUE7RUFDQSxZQUFBO0VBQ0EsY0FBQTtBQ0NKOztBRENFO0VBQ0UsV0FBQTtFQUNBLGlCQUFBO0FDRUo7O0FEQUE7RUFDSSxjQUFBO0VBQ0EsZ0JBQUE7QUNHSiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9jb21wb25lbnRzL2hlYWRlci9oZWFkZXIuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIubW9kYWwtZGlhbG9nIHtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgICBoZWlnaHQ6IDEwMCU7XHJcbiAgICBtYXJnaW46IDAgYXV0bztcclxuICB9XHJcbiAgLm1vZGFsLXRpdGxlIHtcclxuICAgIGNvbG9yOiAjMDAwO1xyXG4gICAgZm9udC13ZWlnaHQ6IGJvbGQ7XHJcbn1cclxuLm1vZGFsLWJvZHkge1xyXG4gICAgY29sb3I6ICMzYzNjM2M7XHJcbiAgICBmb250LXdlaWdodDogNDAwO1xyXG59IiwiLm1vZGFsLWRpYWxvZyB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBoZWlnaHQ6IDEwMCU7XG4gIG1hcmdpbjogMCBhdXRvO1xufVxuXG4ubW9kYWwtdGl0bGUge1xuICBjb2xvcjogIzAwMDtcbiAgZm9udC13ZWlnaHQ6IGJvbGQ7XG59XG5cbi5tb2RhbC1ib2R5IHtcbiAgY29sb3I6ICMzYzNjM2M7XG4gIGZvbnQtd2VpZ2h0OiA0MDA7XG59Il19 */";
+    __webpack_exports__["default"] = ".modal-dialog {\n  display: -webkit-box;\n  display: flex;\n  -webkit-box-align: center;\n          align-items: center;\n  -webkit-box-pack: center;\n          justify-content: center;\n  height: 100%;\n  margin: 0 auto;\n}\n\n.modal-title {\n  color: #000;\n  font-weight: bold;\n}\n\n.modal-body {\n  color: #3c3c3c;\n  font-weight: 400;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaWRlYWx6L2NvbXBvbmVudHMvaGVhZGVyL0Q6XFxBcHB0dW5peFxcY2xlYXQtc3RyZWV0LWFkbWluL3NyY1xcYXBwXFxpZGVhbHpcXGNvbXBvbmVudHNcXGhlYWRlclxcaGVhZGVyLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9pZGVhbHovY29tcG9uZW50cy9oZWFkZXIvaGVhZGVyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksb0JBQUE7RUFBQSxhQUFBO0VBQ0EseUJBQUE7VUFBQSxtQkFBQTtFQUNBLHdCQUFBO1VBQUEsdUJBQUE7RUFDQSxZQUFBO0VBQ0EsY0FBQTtBQ0NKOztBRENFO0VBQ0UsV0FBQTtFQUNBLGlCQUFBO0FDRUo7O0FEQUE7RUFDSSxjQUFBO0VBQ0EsZ0JBQUE7QUNHSiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9jb21wb25lbnRzL2hlYWRlci9oZWFkZXIuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIubW9kYWwtZGlhbG9nIHtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgICBoZWlnaHQ6IDEwMCU7XHJcbiAgICBtYXJnaW46IDAgYXV0bztcclxuICB9XHJcbiAgLm1vZGFsLXRpdGxlIHtcclxuICAgIGNvbG9yOiAjMDAwO1xyXG4gICAgZm9udC13ZWlnaHQ6IGJvbGQ7XHJcbn1cclxuLm1vZGFsLWJvZHkge1xyXG4gICAgY29sb3I6ICMzYzNjM2M7XHJcbiAgICBmb250LXdlaWdodDogNDAwO1xyXG59IiwiLm1vZGFsLWRpYWxvZyB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBoZWlnaHQ6IDEwMCU7XG4gIG1hcmdpbjogMCBhdXRvO1xufVxuXG4ubW9kYWwtdGl0bGUge1xuICBjb2xvcjogIzAwMDtcbiAgZm9udC13ZWlnaHQ6IGJvbGQ7XG59XG5cbi5tb2RhbC1ib2R5IHtcbiAgY29sb3I6ICMzYzNjM2M7XG4gIGZvbnQtd2VpZ2h0OiA0MDA7XG59Il19 */";
     /***/
   },
 
@@ -81112,8 +84388,7 @@
 
       logout() {
         this._apiService.singOut().subscribe(res => {
-          console.log("logout", res);
-          this.toastr.successToastr(res.uiMessage, '', {
+          this.toastr.successToastr(res.message, '', {
             maxShown: 1
           });
           this.router.navigateByUrl("/login");
@@ -81121,7 +84396,7 @@
 
         this.localStorage.clear();
         localStorage.clear();
-        document.getElementById('closeLogoutModal').click(); // this.router.navigateByUrl('/login');
+        document.getElementById('closeLogoutModal').click();
       }
 
     };
@@ -81164,7 +84439,7 @@
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = ".bg-gradient-primary {\n  background-color: #000;\n  height: 100% !important;\n  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #000), to(#224abe));\n  background-image: linear-gradient(180deg, #000 10%, #224abe 100%);\n  background-size: cover;\n}\n\nul.navbar-nav.bg-gradient-primary.sidebar.sidebar-dark.accordion.toggled .nav-item a span {\n  opacity: 0;\n  display: none;\n}\n\n.sidebar-brand-icon img {\n  width: auto;\n}\n\n.sidebar-brand-text img {\n  width: auto;\n}\n\n.navbar-nav.bg-gradient-primary.sidebar.sidebar-dark.accordion .sidebar-brand-icon {\n  display: none;\n}\n\n.navbar-nav.bg-gradient-primary.sidebar.sidebar-dark.accordion.toggled .sidebar-brand-icon {\n  display: block;\n}\n\n.sidebar .sidebar-brand {\n  height: auto !important;\n  text-align: left !important;\n  -webkit-box-align: start !important;\n          align-items: flex-start !important;\n  -webkit-box-pack: start !important;\n          justify-content: flex-start !important;\n  padding: 10px 0;\n}\n\nfigure {\n  margin-bottom: 0 !important;\n}\n\n.navbar-nav.sidebar.sidebar-dark.accordion.toggled a.sidebar-brand {\n  -webkit-box-align: center !important;\n          align-items: center !important;\n  -webkit-box-pack: center !important;\n          justify-content: center !important;\n}\n\n.logo-bold {\n  font-size: 26px;\n}\n\n.navbar-nav.bg-gradient-primary.sidebar.sidebar-dark.accordion.toggled .sidebar-brand-icon img {\n  width: 90px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaWRlYWx6L2NvbXBvbmVudHMvc2lkZWJhci9EOlxcQXBwdHVuaXhcXHdpbmlkZWFsei9zcmNcXGFwcFxcaWRlYWx6XFxjb21wb25lbnRzXFxzaWRlYmFyXFxzaWRlYmFyLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9pZGVhbHovY29tcG9uZW50cy9zaWRlYmFyL3NpZGViYXIuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxzQkFBQTtFQUNBLHVCQUFBO0VBRUEscUdBQUE7RUFBQSxpRUFBQTtFQUNBLHNCQUFBO0FDQ0o7O0FEQ0U7RUFDRSxVQUFBO0VBQVcsYUFBQTtBQ0dmOztBRERBO0VBQ0UsV0FBQTtBQ0lGOztBREZBO0VBQ0UsV0FBQTtBQ0tGOztBREhBO0VBQ0UsYUFBQTtBQ01GOztBREpBO0VBQ0UsY0FBQTtBQ09GOztBRExBO0VBQ0UsdUJBQUE7RUFDQSwyQkFBQTtFQUNBLG1DQUFBO1VBQUEsa0NBQUE7RUFDQSxrQ0FBQTtVQUFBLHNDQUFBO0VBQTJDLGVBQUE7QUNTN0M7O0FEUEE7RUFBTywyQkFBQTtBQ1dQOztBRFZBO0VBQ0Usb0NBQUE7VUFBQSw4QkFBQTtFQUNBLG1DQUFBO1VBQUEsa0NBQUE7QUNhRjs7QURYQTtFQUNFLGVBQUE7QUNjRjs7QURiQztFQUNHLFdBQUE7QUNnQkoiLCJmaWxlIjoic3JjL2FwcC9pZGVhbHovY29tcG9uZW50cy9zaWRlYmFyL3NpZGViYXIuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYmctZ3JhZGllbnQtcHJpbWFyeSB7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDAwO1xyXG4gICAgaGVpZ2h0OiAxMDAlICFpbXBvcnRhbnQ7XHJcbiAgICBiYWNrZ3JvdW5kLWltYWdlOiAtd2Via2l0LWdyYWRpZW50KGxpbmVhcixsZWZ0IHRvcCwgbGVmdCBib3R0b20sY29sb3Itc3RvcCgxMCUsICMwMDApLHRvKCMyMjRhYmUpKTtcclxuICAgIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCgxODBkZWcsIzAwMCAxMCUsIzIyNGFiZSAxMDAlKTtcclxuICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XHJcbiAgfVxyXG4gIHVsLm5hdmJhci1uYXYuYmctZ3JhZGllbnQtcHJpbWFyeS5zaWRlYmFyLnNpZGViYXItZGFyay5hY2NvcmRpb24udG9nZ2xlZCAubmF2LWl0ZW0gYSBzcGFuIHtcclxuICAgIG9wYWNpdHk6IDA7ZGlzcGxheTogbm9uZTtcclxufVxyXG4uc2lkZWJhci1icmFuZC1pY29uIGltZyB7XHJcbiAgd2lkdGg6IGF1dG87XHJcbn1cclxuLnNpZGViYXItYnJhbmQtdGV4dCBpbWcge1xyXG4gIHdpZHRoOiBhdXRvO1xyXG59XHJcbi5uYXZiYXItbmF2LmJnLWdyYWRpZW50LXByaW1hcnkuc2lkZWJhci5zaWRlYmFyLWRhcmsuYWNjb3JkaW9uIC5zaWRlYmFyLWJyYW5kLWljb24ge1xyXG4gIGRpc3BsYXk6IG5vbmU7XHJcbn1cclxuLm5hdmJhci1uYXYuYmctZ3JhZGllbnQtcHJpbWFyeS5zaWRlYmFyLnNpZGViYXItZGFyay5hY2NvcmRpb24udG9nZ2xlZCAuc2lkZWJhci1icmFuZC1pY29uIHtcclxuICBkaXNwbGF5OiBibG9jaztcclxufVxyXG4uc2lkZWJhciAuc2lkZWJhci1icmFuZCB7XHJcbiAgaGVpZ2h0OiBhdXRvICFpbXBvcnRhbnQ7XHJcbiAgdGV4dC1hbGlnbjogbGVmdCAhaW1wb3J0YW50O1xyXG4gIGFsaWduLWl0ZW1zOiBmbGV4LXN0YXJ0ICFpbXBvcnRhbnQ7XHJcbiAganVzdGlmeS1jb250ZW50OiBmbGV4LXN0YXJ0ICFpbXBvcnRhbnQ7ICAgIHBhZGRpbmc6IDEwcHggMDtcclxufVxyXG5maWd1cmV7bWFyZ2luLWJvdHRvbTowICFpbXBvcnRhbnQ7fVxyXG4ubmF2YmFyLW5hdi5zaWRlYmFyLnNpZGViYXItZGFyay5hY2NvcmRpb24udG9nZ2xlZCBhLnNpZGViYXItYnJhbmQge1xyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXIgIWltcG9ydGFudDtcclxuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlciAhaW1wb3J0YW50O1xyXG59XHJcbi5sb2dvLWJvbGR7XHJcbiAgZm9udC1zaXplOiAyNnB4O1xyXG59Lm5hdmJhci1uYXYuYmctZ3JhZGllbnQtcHJpbWFyeS5zaWRlYmFyLnNpZGViYXItZGFyay5hY2NvcmRpb24udG9nZ2xlZCAuc2lkZWJhci1icmFuZC1pY29uIGltZyB7XHJcbiAgICB3aWR0aDogOTBweDtcclxufSIsIi5iZy1ncmFkaWVudC1wcmltYXJ5IHtcbiAgYmFja2dyb3VuZC1jb2xvcjogIzAwMDtcbiAgaGVpZ2h0OiAxMDAlICFpbXBvcnRhbnQ7XG4gIGJhY2tncm91bmQtaW1hZ2U6IC13ZWJraXQtZ3JhZGllbnQobGluZWFyLCBsZWZ0IHRvcCwgbGVmdCBib3R0b20sIGNvbG9yLXN0b3AoMTAlLCAjMDAwKSwgdG8oIzIyNGFiZSkpO1xuICBiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQoMTgwZGVnLCAjMDAwIDEwJSwgIzIyNGFiZSAxMDAlKTtcbiAgYmFja2dyb3VuZC1zaXplOiBjb3Zlcjtcbn1cblxudWwubmF2YmFyLW5hdi5iZy1ncmFkaWVudC1wcmltYXJ5LnNpZGViYXIuc2lkZWJhci1kYXJrLmFjY29yZGlvbi50b2dnbGVkIC5uYXYtaXRlbSBhIHNwYW4ge1xuICBvcGFjaXR5OiAwO1xuICBkaXNwbGF5OiBub25lO1xufVxuXG4uc2lkZWJhci1icmFuZC1pY29uIGltZyB7XG4gIHdpZHRoOiBhdXRvO1xufVxuXG4uc2lkZWJhci1icmFuZC10ZXh0IGltZyB7XG4gIHdpZHRoOiBhdXRvO1xufVxuXG4ubmF2YmFyLW5hdi5iZy1ncmFkaWVudC1wcmltYXJ5LnNpZGViYXIuc2lkZWJhci1kYXJrLmFjY29yZGlvbiAuc2lkZWJhci1icmFuZC1pY29uIHtcbiAgZGlzcGxheTogbm9uZTtcbn1cblxuLm5hdmJhci1uYXYuYmctZ3JhZGllbnQtcHJpbWFyeS5zaWRlYmFyLnNpZGViYXItZGFyay5hY2NvcmRpb24udG9nZ2xlZCAuc2lkZWJhci1icmFuZC1pY29uIHtcbiAgZGlzcGxheTogYmxvY2s7XG59XG5cbi5zaWRlYmFyIC5zaWRlYmFyLWJyYW5kIHtcbiAgaGVpZ2h0OiBhdXRvICFpbXBvcnRhbnQ7XG4gIHRleHQtYWxpZ246IGxlZnQgIWltcG9ydGFudDtcbiAgYWxpZ24taXRlbXM6IGZsZXgtc3RhcnQgIWltcG9ydGFudDtcbiAganVzdGlmeS1jb250ZW50OiBmbGV4LXN0YXJ0ICFpbXBvcnRhbnQ7XG4gIHBhZGRpbmc6IDEwcHggMDtcbn1cblxuZmlndXJlIHtcbiAgbWFyZ2luLWJvdHRvbTogMCAhaW1wb3J0YW50O1xufVxuXG4ubmF2YmFyLW5hdi5zaWRlYmFyLnNpZGViYXItZGFyay5hY2NvcmRpb24udG9nZ2xlZCBhLnNpZGViYXItYnJhbmQge1xuICBhbGlnbi1pdGVtczogY2VudGVyICFpbXBvcnRhbnQ7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyICFpbXBvcnRhbnQ7XG59XG5cbi5sb2dvLWJvbGQge1xuICBmb250LXNpemU6IDI2cHg7XG59XG5cbi5uYXZiYXItbmF2LmJnLWdyYWRpZW50LXByaW1hcnkuc2lkZWJhci5zaWRlYmFyLWRhcmsuYWNjb3JkaW9uLnRvZ2dsZWQgLnNpZGViYXItYnJhbmQtaWNvbiBpbWcge1xuICB3aWR0aDogOTBweDtcbn0iXX0= */";
+    __webpack_exports__["default"] = ".bg-gradient-primary {\n  background-color: #1c75bc;\n  height: 100% !important;\n  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #1c75bc), to(#224abe));\n  background-image: linear-gradient(180deg, #1c75bc 10%, #224abe 100%);\n  background-size: cover;\n}\n\nul.navbar-nav.bg-gradient-primary.sidebar.sidebar-dark.accordion.toggled .nav-item a span {\n  opacity: 0;\n  display: none;\n}\n\n.sidebar-brand-icon img {\n  width: auto;\n}\n\n.sidebar-brand-text img {\n  width: 100px;\n}\n\n.navbar-nav.bg-gradient-primary.sidebar.sidebar-dark.accordion .sidebar-brand-icon {\n  display: none;\n}\n\n.navbar-nav.bg-gradient-primary.sidebar.sidebar-dark.accordion.toggled .sidebar-brand-icon {\n  display: block;\n}\n\n.sidebar .sidebar-brand {\n  height: auto !important;\n  text-align: left !important;\n  -webkit-box-align: start !important;\n          align-items: flex-start !important;\n  -webkit-box-pack: start !important;\n          justify-content: flex-start !important;\n  padding: 10px 0;\n}\n\nfigure {\n  margin-bottom: 0 !important;\n}\n\n.navbar-nav.sidebar.sidebar-dark.accordion.toggled a.sidebar-brand {\n  -webkit-box-align: center !important;\n          align-items: center !important;\n  -webkit-box-pack: center !important;\n          justify-content: center !important;\n}\n\n.logo-bold {\n  font-size: 26px;\n}\n\n.navbar-nav.bg-gradient-primary.sidebar.sidebar-dark.accordion.toggled .sidebar-brand-icon img {\n  width: 90px;\n}\n\n.sidebar-brand-text.text-center {\n  width: 100%;\n  display: inline-block;\n  vertical-align: middle;\n}\n\n.sidebar-brand-text.text-center img {\n  max-width: 90px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaWRlYWx6L2NvbXBvbmVudHMvc2lkZWJhci9EOlxcQXBwdHVuaXhcXGNsZWF0LXN0cmVldC1hZG1pbi9zcmNcXGFwcFxcaWRlYWx6XFxjb21wb25lbnRzXFxzaWRlYmFyXFxzaWRlYmFyLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9pZGVhbHovY29tcG9uZW50cy9zaWRlYmFyL3NpZGViYXIuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSx5QkFBQTtFQUNBLHVCQUFBO0VBRUEsd0dBQUE7RUFBQSxvRUFBQTtFQUNBLHNCQUFBO0FDQ0o7O0FEQ0U7RUFDRSxVQUFBO0VBQVcsYUFBQTtBQ0dmOztBRERBO0VBQ0UsV0FBQTtBQ0lGOztBREZBO0VBQ0UsWUFBQTtBQ0tGOztBREhBO0VBQ0UsYUFBQTtBQ01GOztBREpBO0VBQ0UsY0FBQTtBQ09GOztBRExBO0VBQ0UsdUJBQUE7RUFDQSwyQkFBQTtFQUNBLG1DQUFBO1VBQUEsa0NBQUE7RUFDQSxrQ0FBQTtVQUFBLHNDQUFBO0VBQTJDLGVBQUE7QUNTN0M7O0FEUEE7RUFBTywyQkFBQTtBQ1dQOztBRFZBO0VBQ0Usb0NBQUE7VUFBQSw4QkFBQTtFQUNBLG1DQUFBO1VBQUEsa0NBQUE7QUNhRjs7QURYQTtFQUNFLGVBQUE7QUNjRjs7QURiQztFQUNHLFdBQUE7QUNnQko7O0FEZEE7RUFDRSxXQUFBO0VBQ0EscUJBQUE7RUFDQSxzQkFBQTtBQ2lCRjs7QURmQTtFQUNFLGVBQUE7QUNrQkYiLCJmaWxlIjoic3JjL2FwcC9pZGVhbHovY29tcG9uZW50cy9zaWRlYmFyL3NpZGViYXIuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYmctZ3JhZGllbnQtcHJpbWFyeSB7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMWM3NWJjO1xyXG4gICAgaGVpZ2h0OiAxMDAlICFpbXBvcnRhbnQ7XHJcbiAgICBiYWNrZ3JvdW5kLWltYWdlOiAtd2Via2l0LWdyYWRpZW50KGxpbmVhcixsZWZ0IHRvcCwgbGVmdCBib3R0b20sY29sb3Itc3RvcCgxMCUsICMwMDApLHRvKCMyMjRhYmUpKTtcclxuICAgIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCgxODBkZWcsIzFjNzViYyAxMCUsIzIyNGFiZSAxMDAlKTtcclxuICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XHJcbiAgfVxyXG4gIHVsLm5hdmJhci1uYXYuYmctZ3JhZGllbnQtcHJpbWFyeS5zaWRlYmFyLnNpZGViYXItZGFyay5hY2NvcmRpb24udG9nZ2xlZCAubmF2LWl0ZW0gYSBzcGFuIHtcclxuICAgIG9wYWNpdHk6IDA7ZGlzcGxheTogbm9uZTtcclxufVxyXG4uc2lkZWJhci1icmFuZC1pY29uIGltZyB7XHJcbiAgd2lkdGg6IGF1dG87XHJcbn1cclxuLnNpZGViYXItYnJhbmQtdGV4dCBpbWcge1xyXG4gIHdpZHRoOiAxMDBweDtcclxufVxyXG4ubmF2YmFyLW5hdi5iZy1ncmFkaWVudC1wcmltYXJ5LnNpZGViYXIuc2lkZWJhci1kYXJrLmFjY29yZGlvbiAuc2lkZWJhci1icmFuZC1pY29uIHtcclxuICBkaXNwbGF5OiBub25lO1xyXG59XHJcbi5uYXZiYXItbmF2LmJnLWdyYWRpZW50LXByaW1hcnkuc2lkZWJhci5zaWRlYmFyLWRhcmsuYWNjb3JkaW9uLnRvZ2dsZWQgLnNpZGViYXItYnJhbmQtaWNvbiB7XHJcbiAgZGlzcGxheTogYmxvY2s7XHJcbn1cclxuLnNpZGViYXIgLnNpZGViYXItYnJhbmQge1xyXG4gIGhlaWdodDogYXV0byAhaW1wb3J0YW50O1xyXG4gIHRleHQtYWxpZ246IGxlZnQgIWltcG9ydGFudDtcclxuICBhbGlnbi1pdGVtczogZmxleC1zdGFydCAhaW1wb3J0YW50O1xyXG4gIGp1c3RpZnktY29udGVudDogZmxleC1zdGFydCAhaW1wb3J0YW50OyAgICBwYWRkaW5nOiAxMHB4IDA7XHJcbn1cclxuZmlndXJle21hcmdpbi1ib3R0b206MCAhaW1wb3J0YW50O31cclxuLm5hdmJhci1uYXYuc2lkZWJhci5zaWRlYmFyLWRhcmsuYWNjb3JkaW9uLnRvZ2dsZWQgYS5zaWRlYmFyLWJyYW5kIHtcclxuICBhbGlnbi1pdGVtczogY2VudGVyICFpbXBvcnRhbnQ7XHJcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXIgIWltcG9ydGFudDtcclxufVxyXG4ubG9nby1ib2xke1xyXG4gIGZvbnQtc2l6ZTogMjZweDtcclxufS5uYXZiYXItbmF2LmJnLWdyYWRpZW50LXByaW1hcnkuc2lkZWJhci5zaWRlYmFyLWRhcmsuYWNjb3JkaW9uLnRvZ2dsZWQgLnNpZGViYXItYnJhbmQtaWNvbiBpbWcge1xyXG4gICAgd2lkdGg6IDkwcHg7XHJcbn1cclxuLnNpZGViYXItYnJhbmQtdGV4dC50ZXh0LWNlbnRlciB7XHJcbiAgd2lkdGg6IDEwMCU7XHJcbiAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXG4gIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7XHJcbn1cclxuLnNpZGViYXItYnJhbmQtdGV4dC50ZXh0LWNlbnRlciBpbWcge1xyXG4gIG1heC13aWR0aDogOTBweDtcclxufSIsIi5iZy1ncmFkaWVudC1wcmltYXJ5IHtcbiAgYmFja2dyb3VuZC1jb2xvcjogIzFjNzViYztcbiAgaGVpZ2h0OiAxMDAlICFpbXBvcnRhbnQ7XG4gIGJhY2tncm91bmQtaW1hZ2U6IC13ZWJraXQtZ3JhZGllbnQobGluZWFyLCBsZWZ0IHRvcCwgbGVmdCBib3R0b20sIGNvbG9yLXN0b3AoMTAlLCAjMDAwKSwgdG8oIzIyNGFiZSkpO1xuICBiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQoMTgwZGVnLCAjMWM3NWJjIDEwJSwgIzIyNGFiZSAxMDAlKTtcbiAgYmFja2dyb3VuZC1zaXplOiBjb3Zlcjtcbn1cblxudWwubmF2YmFyLW5hdi5iZy1ncmFkaWVudC1wcmltYXJ5LnNpZGViYXIuc2lkZWJhci1kYXJrLmFjY29yZGlvbi50b2dnbGVkIC5uYXYtaXRlbSBhIHNwYW4ge1xuICBvcGFjaXR5OiAwO1xuICBkaXNwbGF5OiBub25lO1xufVxuXG4uc2lkZWJhci1icmFuZC1pY29uIGltZyB7XG4gIHdpZHRoOiBhdXRvO1xufVxuXG4uc2lkZWJhci1icmFuZC10ZXh0IGltZyB7XG4gIHdpZHRoOiAxMDBweDtcbn1cblxuLm5hdmJhci1uYXYuYmctZ3JhZGllbnQtcHJpbWFyeS5zaWRlYmFyLnNpZGViYXItZGFyay5hY2NvcmRpb24gLnNpZGViYXItYnJhbmQtaWNvbiB7XG4gIGRpc3BsYXk6IG5vbmU7XG59XG5cbi5uYXZiYXItbmF2LmJnLWdyYWRpZW50LXByaW1hcnkuc2lkZWJhci5zaWRlYmFyLWRhcmsuYWNjb3JkaW9uLnRvZ2dsZWQgLnNpZGViYXItYnJhbmQtaWNvbiB7XG4gIGRpc3BsYXk6IGJsb2NrO1xufVxuXG4uc2lkZWJhciAuc2lkZWJhci1icmFuZCB7XG4gIGhlaWdodDogYXV0byAhaW1wb3J0YW50O1xuICB0ZXh0LWFsaWduOiBsZWZ0ICFpbXBvcnRhbnQ7XG4gIGFsaWduLWl0ZW1zOiBmbGV4LXN0YXJ0ICFpbXBvcnRhbnQ7XG4gIGp1c3RpZnktY29udGVudDogZmxleC1zdGFydCAhaW1wb3J0YW50O1xuICBwYWRkaW5nOiAxMHB4IDA7XG59XG5cbmZpZ3VyZSB7XG4gIG1hcmdpbi1ib3R0b206IDAgIWltcG9ydGFudDtcbn1cblxuLm5hdmJhci1uYXYuc2lkZWJhci5zaWRlYmFyLWRhcmsuYWNjb3JkaW9uLnRvZ2dsZWQgYS5zaWRlYmFyLWJyYW5kIHtcbiAgYWxpZ24taXRlbXM6IGNlbnRlciAhaW1wb3J0YW50O1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlciAhaW1wb3J0YW50O1xufVxuXG4ubG9nby1ib2xkIHtcbiAgZm9udC1zaXplOiAyNnB4O1xufVxuXG4ubmF2YmFyLW5hdi5iZy1ncmFkaWVudC1wcmltYXJ5LnNpZGViYXIuc2lkZWJhci1kYXJrLmFjY29yZGlvbi50b2dnbGVkIC5zaWRlYmFyLWJyYW5kLWljb24gaW1nIHtcbiAgd2lkdGg6IDkwcHg7XG59XG5cbi5zaWRlYmFyLWJyYW5kLXRleHQudGV4dC1jZW50ZXIge1xuICB3aWR0aDogMTAwJTtcbiAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlO1xufVxuXG4uc2lkZWJhci1icmFuZC10ZXh0LnRleHQtY2VudGVyIGltZyB7XG4gIG1heC13aWR0aDogOTBweDtcbn0iXX0= */";
     /***/
   },
 
@@ -81209,19 +84484,6 @@
     let SidebarComponent = class SidebarComponent {
       constructor() {
         this.menuItems = [];
-        this.dashboard = "assets/icon/dashboard.png", this.user = "assets/icon/user.png";
-        this.category = "assets/icon/category.png";
-        this.product = "assets/icon/product.png";
-        this.inventory = "assets/icon/inventory.png";
-        this.subcategory = "assets/icon/sub-category.png";
-        this.order = "assets/icon/order.png";
-        this.businessType = "assets/icon/business.png";
-        this.setting = "assets/icon/gear.png";
-        this.location = "assets/icon/location.png";
-        this.subadmin = "assets/icon/driver.png";
-        this.driver = "assets/icon/driver-icon.png";
-        this.banner = "assets/icon/banner.png";
-        this.merchant = "assets/icon/admin-icon.png";
       }
 
       ngOnInit() {
@@ -81230,54 +84492,33 @@
         this.menuItems = [{
           path: "/dashboard",
           title: "Dashboard",
-          icon: "assets/icon/dashboard.png",
+          icon: "assets/icon/ui.png",
           class: "sub",
           id: 1
         }, {
-          path: "/user/user",
-          title: "Users",
-          icon: "assets/icon/user.png",
-          class: "sub"
+          path: "/Enthusiasts",
+          title: "Enthusiasts",
+          icon: "assets/icon/Enthusiast.png",
+          class: "sub",
+          id: 2
         }, {
-          path: "/user-report/user-report",
-          title: "User Report",
-          icon: "assets/icon/user-report.png",
-          class: "sub"
+          path: "/Analysts",
+          title: "Analysts",
+          icon: "assets/icon/Analysts.png",
+          class: "sub",
+          id: 3
         }, {
-          path: "/product/product",
-          title: "Product",
-          icon: "assets/icon/inventory.png",
-          class: "sub"
+          path: "/Algorithms",
+          title: "Algorithms",
+          icon: "assets/icon/Algorithms.png",
+          class: "sub",
+          id: 4
         }, {
-          path: "/prize/prize",
-          title: "Prize",
-          icon: "assets/icon/prize.png",
-          class: "sub"
-        }, {
-          path: "/campaign/campaign",
-          title: "Campaign",
-          icon: "assets/icon/cart.png",
-          class: "sub"
-        }, {
-          path: "/main/order",
-          title: "Order",
-          icon: "assets/icon/order.png",
-          class: "sub"
-        }, {
-          path: "/loyalty/loyalty",
-          title: "Loyalty  Monetisation",
-          icon: "assets/icon/loyality.png",
-          class: "sub"
-        }, {
-          path: "/coupon/coupon",
-          title: "Discount & Coupon",
-          icon: "assets/icon/coupon.png",
-          class: "sub"
-        }, {
-          path: "/charity/charity",
-          title: "Charity",
-          icon: "assets/icon/charity.png",
-          class: "sub"
+          path: "/notifications",
+          title: "Notification",
+          icon: "assets/icon/notification.png",
+          class: "sub",
+          id: 5
         }];
 
         if (JSON.stringify(localStorage.getItem("role"))) {
@@ -81348,7 +84589,44 @@
     var _pages_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! ./pages/dashboard/dashboard.component */
     "./src/app/idealz/pages/dashboard/dashboard.component.ts");
+    /* harmony import */
 
+
+    var _pages_algorithms_algorithms_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
+    /*! ./pages/algorithms/algorithms.component */
+    "./src/app/idealz/pages/algorithms/algorithms.component.ts");
+    /* harmony import */
+
+
+    var _pages_analysts_analysts_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
+    /*! ./pages/analysts/analysts.component */
+    "./src/app/idealz/pages/analysts/analysts.component.ts");
+    /* harmony import */
+
+
+    var _pages_notification_notification_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
+    /*! ./pages/notification/notification.component */
+    "./src/app/idealz/pages/notification/notification.component.ts");
+    /* harmony import */
+
+
+    var _pages_enthusiasts_enthusiasts_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(
+    /*! ./pages/enthusiasts/enthusiasts.component */
+    "./src/app/idealz/pages/enthusiasts/enthusiasts.component.ts");
+    /* harmony import */
+
+
+    var _pages_changepassword_changepassword_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(
+    /*! ./pages/changepassword/changepassword.component */
+    "./src/app/idealz/pages/changepassword/changepassword.component.ts");
+    /* harmony import */
+
+
+    var _pages_onboard_analyst_onboard_analyst_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(
+    /*! ./pages/onboard-analyst/onboard-analyst.component */
+    "./src/app/idealz/pages/onboard-analyst/onboard-analyst.component.ts");
+
+    const newLocal = "/Enthusiasts.module";
     const routes = [{
       path: "",
       component: _idealz_component__WEBPACK_IMPORTED_MODULE_3__["IdealzComponent"],
@@ -81356,68 +84634,23 @@
         path: "dashboard",
         component: _pages_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_4__["DashboardComponent"]
       }, {
-        path: "main",
-        loadChildren: () => Promise.all(
-        /*! import() | pages-main-main-module */
-        [__webpack_require__.e("default~pages-Compaign-Compaign-module~pages-charity-charity-module~pages-coupon-coupon-module~pages~a5173ed3"), __webpack_require__.e("default~pages-coupon-coupon-module~pages-main-main-module~pages-user-user-module"), __webpack_require__.e("pages-main-main-module")]).then(__webpack_require__.bind(null,
-        /*! ./pages/main/main.module */
-        "./src/app/idealz/pages/main/main.module.ts")).then(m => m.MainModule)
+        path: 'Algorithms',
+        component: _pages_algorithms_algorithms_component__WEBPACK_IMPORTED_MODULE_5__["AlgorithmsComponent"]
       }, {
-        path: "user",
-        loadChildren: () => Promise.all(
-        /*! import() | pages-user-user-module */
-        [__webpack_require__.e("default~pages-coupon-coupon-module~pages-main-main-module~pages-user-user-module"), __webpack_require__.e("pages-user-user-module")]).then(__webpack_require__.bind(null,
-        /*! ./pages/user/user.module */
-        "./src/app/idealz/pages/user/user.module.ts")).then(m => m.UserModule)
+        path: 'Analysts',
+        component: _pages_analysts_analysts_component__WEBPACK_IMPORTED_MODULE_6__["AnalystsComponent"]
       }, {
-        path: "product",
-        loadChildren: () => Promise.all(
-        /*! import() | pages-inventory-inventory-module */
-        [__webpack_require__.e("default~pages-Compaign-Compaign-module~pages-charity-charity-module~pages-coupon-coupon-module~pages~a5173ed3"), __webpack_require__.e("pages-inventory-inventory-module")]).then(__webpack_require__.bind(null,
-        /*! ./pages/inventory/inventory.module */
-        "./src/app/idealz/pages/inventory/inventory.module.ts")).then(m => m.InventoryModule)
+        path: 'notifications',
+        component: _pages_notification_notification_component__WEBPACK_IMPORTED_MODULE_7__["NotificationComponent"]
       }, {
-        path: "coupon",
-        loadChildren: () => Promise.all(
-        /*! import() | pages-coupon-coupon-module */
-        [__webpack_require__.e("default~pages-Compaign-Compaign-module~pages-charity-charity-module~pages-coupon-coupon-module~pages~a5173ed3"), __webpack_require__.e("default~pages-coupon-coupon-module~pages-main-main-module~pages-user-user-module"), __webpack_require__.e("pages-coupon-coupon-module")]).then(__webpack_require__.bind(null,
-        /*! ./pages/coupon/coupon.module */
-        "./src/app/idealz/pages/coupon/coupon.module.ts")).then(m => m.CouponModule)
+        path: 'Enthusiasts',
+        component: _pages_enthusiasts_enthusiasts_component__WEBPACK_IMPORTED_MODULE_8__["EnthusiastsComponent"]
       }, {
-        path: "user-report",
-        loadChildren: () => __webpack_require__.e(
-        /*! import() | pages-user-report-user-report-module */
-        "pages-user-report-user-report-module").then(__webpack_require__.bind(null,
-        /*! ./pages/user-report/user-report.module */
-        "./src/app/idealz/pages/user-report/user-report.module.ts")).then(m => m.UserReportModule)
+        path: 'changepassword',
+        component: _pages_changepassword_changepassword_component__WEBPACK_IMPORTED_MODULE_9__["ChangepasswordComponent"]
       }, {
-        path: "loyalty",
-        loadChildren: () => Promise.all(
-        /*! import() | pages-loyality-loyality-module */
-        [__webpack_require__.e("default~pages-Compaign-Compaign-module~pages-charity-charity-module~pages-coupon-coupon-module~pages~a5173ed3"), __webpack_require__.e("pages-loyality-loyality-module")]).then(__webpack_require__.bind(null,
-        /*! ./pages/loyality/loyality.module */
-        "./src/app/idealz/pages/loyality/loyality.module.ts")).then(m => m.LoyalityModule)
-      }, {
-        path: "campaign",
-        loadChildren: () => Promise.all(
-        /*! import() | pages-Compaign-Compaign-module */
-        [__webpack_require__.e("default~pages-Compaign-Compaign-module~pages-charity-charity-module~pages-coupon-coupon-module~pages~a5173ed3"), __webpack_require__.e("pages-Compaign-Compaign-module")]).then(__webpack_require__.bind(null,
-        /*! ./pages/Compaign/Compaign.module */
-        "./src/app/idealz/pages/Compaign/Compaign.module.ts")).then(m => m.CompaignModule)
-      }, {
-        path: "charity",
-        loadChildren: () => Promise.all(
-        /*! import() | pages-charity-charity-module */
-        [__webpack_require__.e("default~pages-Compaign-Compaign-module~pages-charity-charity-module~pages-coupon-coupon-module~pages~a5173ed3"), __webpack_require__.e("pages-charity-charity-module")]).then(__webpack_require__.bind(null,
-        /*! ./pages/charity/charity.module */
-        "./src/app/idealz/pages/charity/charity.module.ts")).then(m => m.CharityModule)
-      }, {
-        path: "prize",
-        loadChildren: () => __webpack_require__.e(
-        /*! import() | pages-prize-prize-module */
-        "pages-prize-prize-module").then(__webpack_require__.bind(null,
-        /*! ./pages/prize/prize.module */
-        "./src/app/idealz/pages/prize/prize.module.ts")).then(m => m.PrizeModule)
+        path: 'onboardanalyst',
+        component: _pages_onboard_analyst_onboard_analyst_component__WEBPACK_IMPORTED_MODULE_10__["OnboardAnalystComponent"]
       }]
     }];
     let IdealzRoutingModule = class IdealzRoutingModule {};
@@ -81634,16 +84867,421 @@
     /* harmony import */
 
 
-    var fusioncharts_fusioncharts_timeseries__WEBPACK_IMPORTED_MODULE_16___default = /*#__PURE__*/__webpack_require__.n(fusioncharts_fusioncharts_timeseries__WEBPACK_IMPORTED_MODULE_16__); // Import timeseries
+    var fusioncharts_fusioncharts_timeseries__WEBPACK_IMPORTED_MODULE_16___default = /*#__PURE__*/__webpack_require__.n(fusioncharts_fusioncharts_timeseries__WEBPACK_IMPORTED_MODULE_16__);
+    /* harmony import */
+
+
+    var _pages_enthusiasts_enthusiasts_component__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(
+    /*! ./pages/enthusiasts/enthusiasts.component */
+    "./src/app/idealz/pages/enthusiasts/enthusiasts.component.ts");
+    /* harmony import */
+
+
+    var _pages_analysts_analysts_component__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(
+    /*! ./pages/analysts/analysts.component */
+    "./src/app/idealz/pages/analysts/analysts.component.ts");
+    /* harmony import */
+
+
+    var _pages_algorithms_algorithms_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(
+    /*! ./pages/algorithms/algorithms.component */
+    "./src/app/idealz/pages/algorithms/algorithms.component.ts");
+    /* harmony import */
+
+
+    var _pages_notification_notification_component__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(
+    /*! ./pages/notification/notification.component */
+    "./src/app/idealz/pages/notification/notification.component.ts");
+    /* harmony import */
+
+
+    var _pages_changepassword_changepassword_component__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(
+    /*! ./pages/changepassword/changepassword.component */
+    "./src/app/idealz/pages/changepassword/changepassword.component.ts");
+    /* harmony import */
+
+
+    var _pages_onboardanalyst_onboardanalyst_component__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(
+    /*! ./pages/onboardanalyst/onboardanalyst.component */
+    "./src/app/idealz/pages/onboardanalyst/onboardanalyst.component.ts");
+    /* harmony import */
+
+
+    var _pages_onboard_analyst_onboard_analyst_component__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(
+    /*! ./pages/onboard-analyst/onboard-analyst.component */
+    "./src/app/idealz/pages/onboard-analyst/onboard-analyst.component.ts"); // Import timeseries
 
 
     angular_fusioncharts__WEBPACK_IMPORTED_MODULE_12__["FusionChartsModule"].fcRoot(fusioncharts__WEBPACK_IMPORTED_MODULE_13__, fusioncharts_fusioncharts_charts__WEBPACK_IMPORTED_MODULE_14__, fusioncharts_themes_fusioncharts_theme_fusion__WEBPACK_IMPORTED_MODULE_15__, fusioncharts_fusioncharts_timeseries__WEBPACK_IMPORTED_MODULE_16__);
     let IdealzModule = class IdealzModule {};
     IdealzModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["NgModule"])({
-      declarations: [_idealz_component__WEBPACK_IMPORTED_MODULE_4__["IdealzComponent"], _components_footer_footer_component__WEBPACK_IMPORTED_MODULE_5__["FooterComponent"], _components_full_full_component__WEBPACK_IMPORTED_MODULE_6__["FullComponent"], _components_header_header_component__WEBPACK_IMPORTED_MODULE_7__["HeaderComponent"], _components_sidebar_sidebar_component__WEBPACK_IMPORTED_MODULE_8__["SidebarComponent"], _pages_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_10__["DashboardComponent"]],
+      declarations: [_idealz_component__WEBPACK_IMPORTED_MODULE_4__["IdealzComponent"], _components_footer_footer_component__WEBPACK_IMPORTED_MODULE_5__["FooterComponent"], _components_full_full_component__WEBPACK_IMPORTED_MODULE_6__["FullComponent"], _components_header_header_component__WEBPACK_IMPORTED_MODULE_7__["HeaderComponent"], _components_sidebar_sidebar_component__WEBPACK_IMPORTED_MODULE_8__["SidebarComponent"], _pages_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_10__["DashboardComponent"], _pages_enthusiasts_enthusiasts_component__WEBPACK_IMPORTED_MODULE_17__["EnthusiastsComponent"], _pages_analysts_analysts_component__WEBPACK_IMPORTED_MODULE_18__["AnalystsComponent"], _pages_algorithms_algorithms_component__WEBPACK_IMPORTED_MODULE_19__["AlgorithmsComponent"], _pages_notification_notification_component__WEBPACK_IMPORTED_MODULE_20__["NotificationComponent"], _pages_changepassword_changepassword_component__WEBPACK_IMPORTED_MODULE_21__["ChangepasswordComponent"], _pages_onboardanalyst_onboardanalyst_component__WEBPACK_IMPORTED_MODULE_22__["OnboardanalystComponent"], _pages_onboard_analyst_onboard_analyst_component__WEBPACK_IMPORTED_MODULE_23__["OnboardAnalystComponent"]],
       exports: [],
       imports: [_angular_common__WEBPACK_IMPORTED_MODULE_2__["CommonModule"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["FormsModule"], _idealz_routing_module__WEBPACK_IMPORTED_MODULE_3__["IdealzRoutingModule"], _pages_material_material_module__WEBPACK_IMPORTED_MODULE_11__["MaterialModule"], _angular_forms__WEBPACK_IMPORTED_MODULE_9__["ReactiveFormsModule"], angular_fusioncharts__WEBPACK_IMPORTED_MODULE_12__["FusionChartsModule"]]
     })], IdealzModule);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/algorithms/algorithms.component.scss":
+  /*!*******************************************************************!*\
+    !*** ./src/app/idealz/pages/algorithms/algorithms.component.scss ***!
+    \*******************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppIdealzPagesAlgorithmsAlgorithmsComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9wYWdlcy9hbGdvcml0aG1zL2FsZ29yaXRobXMuY29tcG9uZW50LnNjc3MifQ== */";
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/algorithms/algorithms.component.ts":
+  /*!*****************************************************************!*\
+    !*** ./src/app/idealz/pages/algorithms/algorithms.component.ts ***!
+    \*****************************************************************/
+
+  /*! exports provided: AlgorithmsComponent */
+
+  /***/
+  function srcAppIdealzPagesAlgorithmsAlgorithmsComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "AlgorithmsComponent", function () {
+      return AlgorithmsComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var _services_algorithm_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../../services/algorithm.service */
+    "./src/app/idealz/services/algorithm.service.ts");
+    /* harmony import */
+
+
+    var ng6_toastr_notifications__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! ng6-toastr-notifications */
+    "./node_modules/ng6-toastr-notifications/fesm2015/ng6-toastr-notifications.js");
+    /* harmony import */
+
+
+    var sweetalert2__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! sweetalert2 */
+    "./node_modules/sweetalert2/dist/sweetalert2.all.js");
+    /* harmony import */
+
+
+    var sweetalert2__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(sweetalert2__WEBPACK_IMPORTED_MODULE_4__);
+
+    let AlgorithmsComponent = class AlgorithmsComponent {
+      constructor(algorithmService, toastr) {
+        this.algorithmService = algorithmService;
+        this.toastr = toastr;
+        this.algorithmService.getAllAlgorithm().subscribe(res => {
+          this.algorithmList = res.data.algorithemData;
+        });
+      }
+
+      ngOnInit() {}
+
+      deleteAlgorithm(id) {
+        sweetalert2__WEBPACK_IMPORTED_MODULE_4___default.a.fire({
+          title: "Are you sure?",
+          text: "Once deleted, you will not be able to recover this Algorithm!",
+          icon: "warning",
+          showCancelButton: true,
+          confirmButtonColor: "#3085D6",
+          cancelButtonColor: "#d33",
+          confirmButtonText: "Yes",
+          allowOutsideClick: false
+        }).then(result => {
+          if (result.value) {
+            this.algorithmService.deleteAlgorithem(id).subscribe(res => {
+              this.algorithmService.getAllAlgorithm().subscribe(res => {
+                this.algorithmList = res.data.algorithemData;
+              });
+              this.toastr.successToastr(res.message, '', {
+                maxShown: 1
+              });
+            });
+          }
+        });
+      }
+
+    };
+
+    AlgorithmsComponent.ctorParameters = () => [{
+      type: _services_algorithm_service__WEBPACK_IMPORTED_MODULE_2__["AlgorithmService"]
+    }, {
+      type: ng6_toastr_notifications__WEBPACK_IMPORTED_MODULE_3__["ToastrManager"]
+    }];
+
+    AlgorithmsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-algorithms',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./algorithms.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/algorithms/algorithms.component.html")).default,
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./algorithms.component.scss */
+      "./src/app/idealz/pages/algorithms/algorithms.component.scss")).default]
+    })], AlgorithmsComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/analysts/analysts.component.scss":
+  /*!***************************************************************!*\
+    !*** ./src/app/idealz/pages/analysts/analysts.component.scss ***!
+    \***************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppIdealzPagesAnalystsAnalystsComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9wYWdlcy9hbmFseXN0cy9hbmFseXN0cy5jb21wb25lbnQuc2NzcyJ9 */";
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/analysts/analysts.component.ts":
+  /*!*************************************************************!*\
+    !*** ./src/app/idealz/pages/analysts/analysts.component.ts ***!
+    \*************************************************************/
+
+  /*! exports provided: AnalystsComponent */
+
+  /***/
+  function srcAppIdealzPagesAnalystsAnalystsComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "AnalystsComponent", function () {
+      return AnalystsComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var _services_analysts_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../../services/analysts.service */
+    "./src/app/idealz/services/analysts.service.ts");
+    /* harmony import */
+
+
+    var ng6_toastr_notifications__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! ng6-toastr-notifications */
+    "./node_modules/ng6-toastr-notifications/fesm2015/ng6-toastr-notifications.js");
+    /* harmony import */
+
+
+    var sweetalert2__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! sweetalert2 */
+    "./node_modules/sweetalert2/dist/sweetalert2.all.js");
+    /* harmony import */
+
+
+    var sweetalert2__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(sweetalert2__WEBPACK_IMPORTED_MODULE_4__);
+
+    let AnalystsComponent = class AnalystsComponent {
+      constructor(analystsService, toastr) {
+        this.analystsService = analystsService;
+        this.toastr = toastr;
+        this.analystsService.getAllAnalysts().subscribe(res => {
+          this.analystsList = res.data.userData;
+        });
+      }
+
+      ngOnInit() {}
+
+      deleteAnalyst(id) {
+        sweetalert2__WEBPACK_IMPORTED_MODULE_4___default.a.fire({
+          title: "Are you sure?",
+          text: "Once deleted, you will not be able to recover this Analyst!",
+          icon: "warning",
+          showCancelButton: true,
+          confirmButtonColor: "#3085D6",
+          cancelButtonColor: "#d33",
+          confirmButtonText: "Yes",
+          allowOutsideClick: false
+        }).then(result => {
+          if (result.value) {
+            this.analystsService.deleteAnalyst(id).subscribe(res => {
+              this.toastr.successToastr(res.message, '', {
+                maxShown: 1
+              });
+              this.analystsService.getAllAnalysts().subscribe(res => {
+                this.analystsList = res.data.userData;
+              });
+            });
+          }
+        });
+      }
+
+      blockAnalyst(id) {
+        sweetalert2__WEBPACK_IMPORTED_MODULE_4___default.a.fire({
+          title: "Are you sure?",
+          //text: "Once deleted, you will not be able to recover this Analyst!",
+          icon: "warning",
+          showCancelButton: true,
+          confirmButtonColor: "#3085D6",
+          cancelButtonColor: "#d33",
+          confirmButtonText: "Yes",
+          allowOutsideClick: false
+        }).then(result => {
+          if (result.value) {
+            this.analystsService.blockAnalyst(id).subscribe(res => {
+              this.toastr.successToastr(res.message, '', {
+                maxShown: 1
+              });
+              this.analystsService.getAllAnalysts().subscribe(res => {
+                this.analystsList = res.data.userData;
+              });
+            });
+          }
+        });
+      }
+
+      unBlockAnalyst(id) {
+        this.analystsService.unBlockAnalyst(id).subscribe(res => {
+          this.toastr.successToastr(res.message, '', {
+            maxShown: 1
+          });
+          this.analystsService.getAllAnalysts().subscribe(res => {
+            this.analystsList = res.data.userData;
+          });
+        });
+      }
+
+    };
+
+    AnalystsComponent.ctorParameters = () => [{
+      type: _services_analysts_service__WEBPACK_IMPORTED_MODULE_2__["AnalystsService"]
+    }, {
+      type: ng6_toastr_notifications__WEBPACK_IMPORTED_MODULE_3__["ToastrManager"]
+    }];
+
+    AnalystsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-analysts',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./analysts.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/analysts/analysts.component.html")).default,
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./analysts.component.scss */
+      "./src/app/idealz/pages/analysts/analysts.component.scss")).default]
+    })], AnalystsComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/changepassword/changepassword.component.scss":
+  /*!***************************************************************************!*\
+    !*** ./src/app/idealz/pages/changepassword/changepassword.component.scss ***!
+    \***************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppIdealzPagesChangepasswordChangepasswordComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9wYWdlcy9jaGFuZ2VwYXNzd29yZC9jaGFuZ2VwYXNzd29yZC5jb21wb25lbnQuc2NzcyJ9 */";
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/changepassword/changepassword.component.ts":
+  /*!*************************************************************************!*\
+    !*** ./src/app/idealz/pages/changepassword/changepassword.component.ts ***!
+    \*************************************************************************/
+
+  /*! exports provided: ChangepasswordComponent */
+
+  /***/
+  function srcAppIdealzPagesChangepasswordChangepasswordComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "ChangepasswordComponent", function () {
+      return ChangepasswordComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    let ChangepasswordComponent = class ChangepasswordComponent {
+      constructor() {}
+
+      ngOnInit() {}
+
+    };
+    ChangepasswordComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-changepassword',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./changepassword.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/changepassword/changepassword.component.html")).default,
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./changepassword.component.scss */
+      "./src/app/idealz/pages/changepassword/changepassword.component.scss")).default]
+    })], ChangepasswordComponent);
     /***/
   },
 
@@ -81663,7 +85301,7 @@
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9wYWdlcy9kYXNoYm9hcmQvZGFzaGJvYXJkLmNvbXBvbmVudC5zY3NzIn0= */";
+    __webpack_exports__["default"] = ".text-xs {\n  font-size: 14px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaWRlYWx6L3BhZ2VzL2Rhc2hib2FyZC9EOlxcQXBwdHVuaXhcXGNsZWF0LXN0cmVldC1hZG1pbi9zcmNcXGFwcFxcaWRlYWx6XFxwYWdlc1xcZGFzaGJvYXJkXFxkYXNoYm9hcmQuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2lkZWFsei9wYWdlcy9kYXNoYm9hcmQvZGFzaGJvYXJkLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksZUFBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvaWRlYWx6L3BhZ2VzL2Rhc2hib2FyZC9kYXNoYm9hcmQuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIudGV4dC14cyB7XHJcbiAgICBmb250LXNpemU6IDE0cHg7XHJcbn0iLCIudGV4dC14cyB7XG4gIGZvbnQtc2l6ZTogMTRweDtcbn0iXX0= */";
     /***/
   },
 
@@ -81746,13 +85384,13 @@
           },
           yAxis: [{
             plot: {
-              value: 'Grocery Sales Value',
+              value: 'Enthusiast',
               type: 'line'
             },
             format: {
               prefix: '$'
             },
-            title: 'Sale Value'
+            title: 'Enthusiast'
           }]
         };
         this.fetchData();
@@ -81806,6 +85444,688 @@
       /*! ./dashboard.component.scss */
       "./src/app/idealz/pages/dashboard/dashboard.component.scss")).default]
     })], DashboardComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/enthusiasts/enthusiasts.component.scss":
+  /*!*********************************************************************!*\
+    !*** ./src/app/idealz/pages/enthusiasts/enthusiasts.component.scss ***!
+    \*********************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppIdealzPagesEnthusiastsEnthusiastsComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9wYWdlcy9lbnRodXNpYXN0cy9lbnRodXNpYXN0cy5jb21wb25lbnQuc2NzcyJ9 */";
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/enthusiasts/enthusiasts.component.ts":
+  /*!*******************************************************************!*\
+    !*** ./src/app/idealz/pages/enthusiasts/enthusiasts.component.ts ***!
+    \*******************************************************************/
+
+  /*! exports provided: EnthusiastsComponent */
+
+  /***/
+  function srcAppIdealzPagesEnthusiastsEnthusiastsComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "EnthusiastsComponent", function () {
+      return EnthusiastsComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    let EnthusiastsComponent = class EnthusiastsComponent {
+      constructor() {
+        this.enthusiastsList = [{
+          userName: "Kiaaa",
+          email: "kia@yopmail.com",
+          bankRoll: "$7"
+        }, {
+          userName: "seltos",
+          email: "seltos@gmail.com",
+          bankRoll: "$10"
+        }, {
+          userName: "Kiaaa_seltos",
+          email: "kia@yopmail123.com",
+          bankRoll: "$12"
+        }, {
+          userName: "testuser",
+          email: "testuser@yopmail.com",
+          bankRoll: "$6"
+        }, {
+          userName: "testuser",
+          email: "testuser@yopmail.com",
+          bankRoll: "$6"
+        }];
+      }
+
+      ngOnInit() {}
+
+      applyFilter(filterValue) {
+        debugger; //this.enthusiastsList.filter = filterValue.trim().toLowerCase();
+        //  const result=  this.enthusiastsList.filter(s => s.includes(filterValue));
+        //  debugger
+        //this.enthusiastsList=result;
+        // if (this.dataSource.paginator) {
+        //   this.dataSource.paginator.firstPage();
+        // }
+      }
+
+    };
+    EnthusiastsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-enthusiasts',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./enthusiasts.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/enthusiasts/enthusiasts.component.html")).default,
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./enthusiasts.component.scss */
+      "./src/app/idealz/pages/enthusiasts/enthusiasts.component.scss")).default]
+    })], EnthusiastsComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/notification/notification.component.scss":
+  /*!***********************************************************************!*\
+    !*** ./src/app/idealz/pages/notification/notification.component.scss ***!
+    \***********************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppIdealzPagesNotificationNotificationComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = ".radio_box_outer {\n  width: 100%;\n  display: -webkit-box;\n  display: flex;\n  -webkit-box-align: center;\n          align-items: center;\n  padding: 15px 0 0px;\n  margin: 0 auto;\n  -webkit-box-pack: start;\n          justify-content: start;\n}\n\n.radio_box_outer label.radio_check {\n  width: 100%;\n  display: -webkit-box;\n  display: flex;\n  -webkit-box-align: center;\n          align-items: center;\n  margin-right: 35px;\n}\n\n.radio_box_outer p {\n  margin: 0;\n}\n\n.radio_box_outer .label_name {\n  font-size: 1rem;\n  font-weight: 400;\n  line-height: 1.5;\n  color: #858796;\n}\n\n.radio_check {\n  padding-left: 17px;\n}\n\n.checkmark_radio {\n  border: 1px solid #4e73df;\n}\n\n.radio_check .checkmark_radio:after {\n  background: #4e73df;\n}\n\n.uk-form-row button.uk-button {\n  width: 200px;\n  margin: 0 auto;\n  padding: 7px 0;\n  background: #4e73df;\n  color: #fff;\n  text-shadow: none;\n  font-size: 15px;\n}\n\n.comman_detail_outer.last_type_outer {\n  border: none;\n}\n\n@media (max-width: 1300px) {\n  .radio_box_outer label.radio_check {\n    margin-right: 15px;\n  }\n\n  .comman_detail_outer {\n    padding: 20px 20px;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaWRlYWx6L3BhZ2VzL25vdGlmaWNhdGlvbi9EOlxcQXBwdHVuaXhcXGNsZWF0LXN0cmVldC1hZG1pbi9zcmNcXGFwcFxcaWRlYWx6XFxwYWdlc1xcbm90aWZpY2F0aW9uXFxub3RpZmljYXRpb24uY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2lkZWFsei9wYWdlcy9ub3RpZmljYXRpb24vbm90aWZpY2F0aW9uLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQWlCLFdBQUE7RUFDYixvQkFBQTtFQUFBLGFBQUE7RUFBYyx5QkFBQTtVQUFBLG1CQUFBO0VBQW9CLG1CQUFBO0VBQW9CLGNBQUE7RUFDdEQsdUJBQUE7VUFBQSxzQkFBQTtBQ0tKOztBREpJO0VBQW1DLFdBQUE7RUFDbkMsb0JBQUE7RUFBQSxhQUFBO0VBQWMseUJBQUE7VUFBQSxtQkFBQTtFQUFvQixrQkFBQTtBQ1V0Qzs7QURSQTtFQUFtQixTQUFBO0FDWW5COztBRFZJO0VBQ0ksZUFBQTtFQUNBLGdCQUFBO0VBQ0EsZ0JBQUE7RUFDQSxjQUFBO0FDYVI7O0FEWEk7RUFFSSxrQkFBQTtBQ2FSOztBRFhRO0VBQ0kseUJBQUE7QUNjWjs7QURaUTtFQUVJLG1CQUFBO0FDY1o7O0FEWFE7RUFDSSxZQUFBO0VBQ0EsY0FBQTtFQUNBLGNBQUE7RUFDSSxtQkFBQTtFQUNaLFdBQUE7RUFDQSxpQkFBQTtFQUNBLGVBQUE7QUNjSjs7QURaUTtFQUFxQyxZQUFBO0FDZ0I3Qzs7QURiUTtFQUNSO0lBRUksa0JBQUE7RUNlRjs7RURiRjtJQUNJLGtCQUFBO0VDZ0JGO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9pZGVhbHovcGFnZXMvbm90aWZpY2F0aW9uL25vdGlmaWNhdGlvbi5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5yYWRpb19ib3hfb3V0ZXJ7d2lkdGg6IDEwMCU7XHJcbiAgICBkaXNwbGF5OiBmbGV4O2FsaWduLWl0ZW1zOiBjZW50ZXI7cGFkZGluZzogMTVweCAwIDBweDttYXJnaW46IDAgYXV0bztcclxuICAgIGp1c3RpZnktY29udGVudDogc3RhcnQ7fVxyXG4gICAgLnJhZGlvX2JveF9vdXRlciBsYWJlbC5yYWRpb19jaGVja3t3aWR0aDogMTAwJTtcclxuICAgIGRpc3BsYXk6IGZsZXg7YWxpZ24taXRlbXM6IGNlbnRlcjttYXJnaW4tcmlnaHQ6IDM1cHg7fVxyXG4gICAgXHJcbi5yYWRpb19ib3hfb3V0ZXIgcHttYXJnaW46IDA7fVxyXG4gXHJcbiAgICAucmFkaW9fYm94X291dGVyIC5sYWJlbF9uYW1lIHtcclxuICAgICAgICBmb250LXNpemU6IDFyZW07XHJcbiAgICAgICAgZm9udC13ZWlnaHQ6IDQwMDtcclxuICAgICAgICBsaW5lLWhlaWdodDogMS41O1xyXG4gICAgICAgIGNvbG9yOiAjODU4Nzk2O1xyXG4gICAgfVxyXG4gICAgLnJhZGlvX2NoZWNrIHtcclxuICAgICAgXHJcbiAgICAgICAgcGFkZGluZy1sZWZ0OiAxN3B4O31cclxuXHJcbiAgICAgICAgLmNoZWNrbWFya19yYWRpbyB7XHJcbiAgICAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICM0ZTczZGY7XHJcbiAgICAgICAgfVxyXG4gICAgICAgIC5yYWRpb19jaGVjayAuY2hlY2ttYXJrX3JhZGlvOmFmdGVyIHtcclxuICAgICAgICAgICBcclxuICAgICAgICAgICAgYmFja2dyb3VuZDogIzRlNzNkZjtcclxuICAgICAgICB9XHJcblxyXG4gICAgICAgIC51ay1mb3JtLXJvdyBidXR0b24udWstYnV0dG9uIHtcclxuICAgICAgICAgICAgd2lkdGg6IDIwMHB4O1xyXG4gICAgICAgICAgICBtYXJnaW46IDAgYXV0bztcclxuICAgICAgICAgICAgcGFkZGluZzogN3B4IDA7XHJcbiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAjNGU3M2RmO1xyXG4gICAgY29sb3I6ICNmZmY7XHJcbiAgICB0ZXh0LXNoYWRvdzogbm9uZTtcclxuICAgIGZvbnQtc2l6ZTogMTVweDtcclxuICAgICAgICB9XHJcbiAgICAgICAgLmNvbW1hbl9kZXRhaWxfb3V0ZXIubGFzdF90eXBlX291dGVye2JvcmRlcjogbm9uZTt9XHJcbiAgICAgICBcclxuXHJcbiAgICAgICAgQG1lZGlhIChtYXgtd2lkdGg6IDEzMDBweCl7XHJcbi5yYWRpb19ib3hfb3V0ZXIgbGFiZWwucmFkaW9fY2hlY2sge1xyXG5cclxuICAgIG1hcmdpbi1yaWdodDogMTVweDtcclxufVxyXG4uY29tbWFuX2RldGFpbF9vdXRlciB7XHJcbiAgICBwYWRkaW5nOiAyMHB4IDIwcHg7XHJcblxyXG59XHJcblxyXG5cclxufVxyXG4iLCIucmFkaW9fYm94X291dGVyIHtcbiAgd2lkdGg6IDEwMCU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIHBhZGRpbmc6IDE1cHggMCAwcHg7XG4gIG1hcmdpbjogMCBhdXRvO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IHN0YXJ0O1xufVxuXG4ucmFkaW9fYm94X291dGVyIGxhYmVsLnJhZGlvX2NoZWNrIHtcbiAgd2lkdGg6IDEwMCU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIG1hcmdpbi1yaWdodDogMzVweDtcbn1cblxuLnJhZGlvX2JveF9vdXRlciBwIHtcbiAgbWFyZ2luOiAwO1xufVxuXG4ucmFkaW9fYm94X291dGVyIC5sYWJlbF9uYW1lIHtcbiAgZm9udC1zaXplOiAxcmVtO1xuICBmb250LXdlaWdodDogNDAwO1xuICBsaW5lLWhlaWdodDogMS41O1xuICBjb2xvcjogIzg1ODc5Njtcbn1cblxuLnJhZGlvX2NoZWNrIHtcbiAgcGFkZGluZy1sZWZ0OiAxN3B4O1xufVxuXG4uY2hlY2ttYXJrX3JhZGlvIHtcbiAgYm9yZGVyOiAxcHggc29saWQgIzRlNzNkZjtcbn1cblxuLnJhZGlvX2NoZWNrIC5jaGVja21hcmtfcmFkaW86YWZ0ZXIge1xuICBiYWNrZ3JvdW5kOiAjNGU3M2RmO1xufVxuXG4udWstZm9ybS1yb3cgYnV0dG9uLnVrLWJ1dHRvbiB7XG4gIHdpZHRoOiAyMDBweDtcbiAgbWFyZ2luOiAwIGF1dG87XG4gIHBhZGRpbmc6IDdweCAwO1xuICBiYWNrZ3JvdW5kOiAjNGU3M2RmO1xuICBjb2xvcjogI2ZmZjtcbiAgdGV4dC1zaGFkb3c6IG5vbmU7XG4gIGZvbnQtc2l6ZTogMTVweDtcbn1cblxuLmNvbW1hbl9kZXRhaWxfb3V0ZXIubGFzdF90eXBlX291dGVyIHtcbiAgYm9yZGVyOiBub25lO1xufVxuXG5AbWVkaWEgKG1heC13aWR0aDogMTMwMHB4KSB7XG4gIC5yYWRpb19ib3hfb3V0ZXIgbGFiZWwucmFkaW9fY2hlY2sge1xuICAgIG1hcmdpbi1yaWdodDogMTVweDtcbiAgfVxuXG4gIC5jb21tYW5fZGV0YWlsX291dGVyIHtcbiAgICBwYWRkaW5nOiAyMHB4IDIwcHg7XG4gIH1cbn0iXX0= */";
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/notification/notification.component.ts":
+  /*!*********************************************************************!*\
+    !*** ./src/app/idealz/pages/notification/notification.component.ts ***!
+    \*********************************************************************/
+
+  /*! exports provided: NotificationComponent */
+
+  /***/
+  function srcAppIdealzPagesNotificationNotificationComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "NotificationComponent", function () {
+      return NotificationComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    let NotificationComponent = class NotificationComponent {
+      constructor() {}
+
+      ngOnInit() {}
+
+    };
+    NotificationComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-notification',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./notification.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/notification/notification.component.html")).default,
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./notification.component.scss */
+      "./src/app/idealz/pages/notification/notification.component.scss")).default]
+    })], NotificationComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/onboard-analyst/onboard-analyst.component.scss":
+  /*!*****************************************************************************!*\
+    !*** ./src/app/idealz/pages/onboard-analyst/onboard-analyst.component.scss ***!
+    \*****************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppIdealzPagesOnboardAnalystOnboardAnalystComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = ".input-group textarea {\n  height: 38px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaWRlYWx6L3BhZ2VzL29uYm9hcmQtYW5hbHlzdC9EOlxcQXBwdHVuaXhcXGNsZWF0LXN0cmVldC1hZG1pbi9zcmNcXGFwcFxcaWRlYWx6XFxwYWdlc1xcb25ib2FyZC1hbmFseXN0XFxvbmJvYXJkLWFuYWx5c3QuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2lkZWFsei9wYWdlcy9vbmJvYXJkLWFuYWx5c3Qvb25ib2FyZC1hbmFseXN0LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksWUFBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvaWRlYWx6L3BhZ2VzL29uYm9hcmQtYW5hbHlzdC9vbmJvYXJkLWFuYWx5c3QuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaW5wdXQtZ3JvdXAgdGV4dGFyZWEge1xyXG4gICAgaGVpZ2h0OiAzOHB4O1xyXG59IiwiLmlucHV0LWdyb3VwIHRleHRhcmVhIHtcbiAgaGVpZ2h0OiAzOHB4O1xufSJdfQ== */";
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/onboard-analyst/onboard-analyst.component.ts":
+  /*!***************************************************************************!*\
+    !*** ./src/app/idealz/pages/onboard-analyst/onboard-analyst.component.ts ***!
+    \***************************************************************************/
+
+  /*! exports provided: OnboardAnalystComponent */
+
+  /***/
+  function srcAppIdealzPagesOnboardAnalystOnboardAnalystComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "OnboardAnalystComponent", function () {
+      return OnboardAnalystComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var _angular_forms__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! @angular/forms */
+    "./node_modules/@angular/forms/fesm2015/forms.js");
+    /* harmony import */
+
+
+    var ng6_toastr_notifications__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! ng6-toastr-notifications */
+    "./node_modules/ng6-toastr-notifications/fesm2015/ng6-toastr-notifications.js");
+    /* harmony import */
+
+
+    var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! @angular/router */
+    "./node_modules/@angular/router/fesm2015/router.js");
+    /* harmony import */
+
+
+    var _services_analysts_service__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
+    /*! ../../services/analysts.service */
+    "./src/app/idealz/services/analysts.service.ts");
+
+    let OnboardAnalystComponent = class OnboardAnalystComponent {
+      constructor(formBuilder, toastr, router, analystService) {
+        this.formBuilder = formBuilder;
+        this.toastr = toastr;
+        this.router = router;
+        this.analystService = analystService;
+        this.submitted = false;
+      }
+
+      ngOnInit() {
+        this.analystForm = this.formBuilder.group({
+          userName: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].pattern(".*\\S.*[a-zA-z0-9 ]")]),
+          email: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].pattern("[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$")]),
+          description: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].maxLength(250)]),
+          bankRoll: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required])
+        });
+      }
+
+      onSubmit() {
+        this.submitted = true;
+
+        if (this.submitted && this.analystForm.valid) {
+          var data = this.analystForm.value;
+          this.analystService.addAnalyst(data).subscribe(res => {
+            console.log("add", res);
+            this.toastr.successToastr(res.message, '', {
+              maxShown: 1
+            });
+            this.router.navigate(['/Analysts']);
+          });
+        }
+      }
+
+    };
+
+    OnboardAnalystComponent.ctorParameters = () => [{
+      type: _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormBuilder"]
+    }, {
+      type: ng6_toastr_notifications__WEBPACK_IMPORTED_MODULE_3__["ToastrManager"]
+    }, {
+      type: _angular_router__WEBPACK_IMPORTED_MODULE_4__["Router"]
+    }, {
+      type: _services_analysts_service__WEBPACK_IMPORTED_MODULE_5__["AnalystsService"]
+    }];
+
+    OnboardAnalystComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-onboard-analyst',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./onboard-analyst.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/onboard-analyst/onboard-analyst.component.html")).default,
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./onboard-analyst.component.scss */
+      "./src/app/idealz/pages/onboard-analyst/onboard-analyst.component.scss")).default]
+    })], OnboardAnalystComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/onboardanalyst/onboardanalyst.component.scss":
+  /*!***************************************************************************!*\
+    !*** ./src/app/idealz/pages/onboardanalyst/onboardanalyst.component.scss ***!
+    \***************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppIdealzPagesOnboardanalystOnboardanalystComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9wYWdlcy9vbmJvYXJkYW5hbHlzdC9vbmJvYXJkYW5hbHlzdC5jb21wb25lbnQuc2NzcyJ9 */";
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/pages/onboardanalyst/onboardanalyst.component.ts":
+  /*!*************************************************************************!*\
+    !*** ./src/app/idealz/pages/onboardanalyst/onboardanalyst.component.ts ***!
+    \*************************************************************************/
+
+  /*! exports provided: OnboardanalystComponent */
+
+  /***/
+  function srcAppIdealzPagesOnboardanalystOnboardanalystComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "OnboardanalystComponent", function () {
+      return OnboardanalystComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    let OnboardanalystComponent = class OnboardanalystComponent {
+      constructor() {}
+
+      ngOnInit() {}
+
+    };
+    OnboardanalystComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-onboardanalyst',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./onboardanalyst.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/onboardanalyst/onboardanalyst.component.html")).default,
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./onboardanalyst.component.scss */
+      "./src/app/idealz/pages/onboardanalyst/onboardanalyst.component.scss")).default]
+    })], OnboardanalystComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/services/algorithm.service.ts":
+  /*!******************************************************!*\
+    !*** ./src/app/idealz/services/algorithm.service.ts ***!
+    \******************************************************/
+
+  /*! exports provided: AlgorithmService */
+
+  /***/
+  function srcAppIdealzServicesAlgorithmServiceTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "AlgorithmService", function () {
+      return AlgorithmService;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var _common_common_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ./common/common.service */
+    "./src/app/idealz/services/common/common.service.ts");
+    /* harmony import */
+
+
+    var _url_url_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! ./url/url.service */
+    "./src/app/idealz/services/url/url.service.ts");
+    /* harmony import */
+
+
+    var _angular_common_http__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! @angular/common/http */
+    "./node_modules/@angular/common/fesm2015/http.js");
+    /* harmony import */
+
+
+    var rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
+    /*! rxjs/internal/operators */
+    "./node_modules/rxjs/internal/operators/index.js");
+    /* harmony import */
+
+
+    var rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__);
+    /* harmony import */
+
+
+    var _api_api_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
+    /*! ./api/api.service */
+    "./src/app/idealz/services/api/api.service.ts");
+
+    let AlgorithmService = class AlgorithmService {
+      constructor(comm, url, http, api) {
+        this.comm = comm;
+        this.url = url;
+        this.http = http;
+        this.api = api;
+        this.BASE_URL = this.url.SERVER_URL;
+        {
+          this.apiEndPoints = {
+            //Algorithems
+            getAllAlgorithem: 'admin/getAllAlgorithem',
+            deleteAlgorithem: 'admin/deleteAlgorithem'
+          };
+
+          for (let key in this.apiEndPoints) {
+            this.apiEndPoints[key] = this.BASE_URL + this.apiEndPoints[key];
+          }
+        }
+      }
+
+      getHeaders() {
+        return {
+          headers: new _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpHeaders"]({
+            'Content-Type': 'application/json',
+            'Authorization': this.api.getToken()
+          })
+        };
+      }
+
+      getAllAlgorithm() {
+        const data = {
+          "pageNo": 1
+        };
+        return this.http.post(this.apiEndPoints.getAllAlgorithem, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('All Algorithm')));
+      }
+
+      deleteAlgorithem(id) {
+        const data = {
+          "algorithemId": id
+        };
+        return this.http.post(this.apiEndPoints.deleteAlgorithem, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Delete Algorithm')));
+      }
+
+      handleError(operation = 'operation', result) {
+        return error => {
+          // TODO: send the error to remote logging infrastructure
+          console.error(error); // log to console instead
+
+          return;
+        };
+      }
+
+    };
+
+    AlgorithmService.ctorParameters = () => [{
+      type: _common_common_service__WEBPACK_IMPORTED_MODULE_2__["CommonService"]
+    }, {
+      type: _url_url_service__WEBPACK_IMPORTED_MODULE_3__["UrlService"]
+    }, {
+      type: _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpClient"]
+    }, {
+      type: _api_api_service__WEBPACK_IMPORTED_MODULE_6__["ApiService"]
+    }];
+
+    AlgorithmService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
+      providedIn: "root"
+    })], AlgorithmService);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/services/analysts.service.ts":
+  /*!*****************************************************!*\
+    !*** ./src/app/idealz/services/analysts.service.ts ***!
+    \*****************************************************/
+
+  /*! exports provided: AnalystsService */
+
+  /***/
+  function srcAppIdealzServicesAnalystsServiceTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "AnalystsService", function () {
+      return AnalystsService;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var _common_common_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ./common/common.service */
+    "./src/app/idealz/services/common/common.service.ts");
+    /* harmony import */
+
+
+    var _url_url_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! ./url/url.service */
+    "./src/app/idealz/services/url/url.service.ts");
+    /* harmony import */
+
+
+    var _angular_common_http__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! @angular/common/http */
+    "./node_modules/@angular/common/fesm2015/http.js");
+    /* harmony import */
+
+
+    var rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
+    /*! rxjs/internal/operators */
+    "./node_modules/rxjs/internal/operators/index.js");
+    /* harmony import */
+
+
+    var rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__);
+    /* harmony import */
+
+
+    var _api_api_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
+    /*! ./api/api.service */
+    "./src/app/idealz/services/api/api.service.ts");
+
+    let AnalystsService = class AnalystsService {
+      constructor(comm, url, http, api) {
+        this.comm = comm;
+        this.url = url;
+        this.http = http;
+        this.api = api;
+        this.BASE_URL = this.url.SERVER_URL;
+        {
+          this.apiEndPoints = {
+            //Analysts
+            getAllUserProfile: 'admin/getAllUserProfile',
+            addAnalyst: 'admin/addUser',
+            deleteBlockUnBlockDeactivateUserProfile: 'admin/deleteBlockUnBlockDeactivateUserProfile'
+          };
+
+          for (let key in this.apiEndPoints) {
+            this.apiEndPoints[key] = this.BASE_URL + this.apiEndPoints[key];
+          }
+        }
+      }
+
+      getHeaders() {
+        return {
+          headers: new _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpHeaders"]({
+            'Content-Type': 'application/json',
+            'Authorization': this.api.getToken()
+          })
+        };
+      }
+
+      getAllAnalysts() {
+        const data = {
+          "pageNo": 1,
+          "userType": "ANALYST"
+        }; //usertype--->'ANALYST','ENTHUSIAST'"
+
+        return this.http.post(this.apiEndPoints.getAllUserProfile, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('All ANALYSTS')));
+      }
+
+      addAnalyst(analyst) {
+        // const data:FormData=new FormData();
+        // data.append('email',analyst.email);
+        // data.append('userName',analyst.userName);
+        // data.append('password',"12345678");
+        // data.append('userType',"ANALYST");
+        const data = {
+          'email': analyst.email,
+          'userName': analyst.userName,
+          'password': "12345678",
+          'userType': "ANALYST"
+        };
+        return this.http.post(this.apiEndPoints.addAnalyst, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('ADD ANALYST')));
+      }
+
+      deleteAnalyst(id) {
+        const data = {
+          "userId": id,
+          "isDeleted": true
+        };
+        return this.http.post(this.apiEndPoints.deleteBlockUnBlockDeactivateUserProfile, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Delete Analyst')));
+      }
+
+      blockAnalyst(id) {
+        const data = {
+          "userId": id,
+          "isBlocked": true
+        };
+        return this.http.post(this.apiEndPoints.deleteBlockUnBlockDeactivateUserProfile, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Block Analyst')));
+      }
+
+      unBlockAnalyst(id) {
+        const data = {
+          "userId": id,
+          "isBlocked": false
+        };
+        return this.http.post(this.apiEndPoints.deleteBlockUnBlockDeactivateUserProfile, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('UnBlock Analyst')));
+      }
+
+      handleError(operation = 'operation', result) {
+        return error => {
+          // TODO: send the error to remote logging infrastructure
+          console.error(error); // log to console instead
+
+          return;
+        };
+      }
+
+    };
+
+    AnalystsService.ctorParameters = () => [{
+      type: _common_common_service__WEBPACK_IMPORTED_MODULE_2__["CommonService"]
+    }, {
+      type: _url_url_service__WEBPACK_IMPORTED_MODULE_3__["UrlService"]
+    }, {
+      type: _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpClient"]
+    }, {
+      type: _api_api_service__WEBPACK_IMPORTED_MODULE_6__["ApiService"]
+    }];
+
+    AnalystsService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
+      providedIn: "root"
+    })], AnalystsService);
     /***/
   },
 

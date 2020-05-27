@@ -23,292 +23,6 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 /***/ }),
 
-/***/ "./node_modules/moment/locale sync recursive ^\\.\\/.*$":
-/*!**************************************************!*\
-  !*** ./node_modules/moment/locale sync ^\.\/.*$ ***!
-  \**************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-var map = {
-	"./af": "./node_modules/moment/locale/af.js",
-	"./af.js": "./node_modules/moment/locale/af.js",
-	"./ar": "./node_modules/moment/locale/ar.js",
-	"./ar-dz": "./node_modules/moment/locale/ar-dz.js",
-	"./ar-dz.js": "./node_modules/moment/locale/ar-dz.js",
-	"./ar-kw": "./node_modules/moment/locale/ar-kw.js",
-	"./ar-kw.js": "./node_modules/moment/locale/ar-kw.js",
-	"./ar-ly": "./node_modules/moment/locale/ar-ly.js",
-	"./ar-ly.js": "./node_modules/moment/locale/ar-ly.js",
-	"./ar-ma": "./node_modules/moment/locale/ar-ma.js",
-	"./ar-ma.js": "./node_modules/moment/locale/ar-ma.js",
-	"./ar-sa": "./node_modules/moment/locale/ar-sa.js",
-	"./ar-sa.js": "./node_modules/moment/locale/ar-sa.js",
-	"./ar-tn": "./node_modules/moment/locale/ar-tn.js",
-	"./ar-tn.js": "./node_modules/moment/locale/ar-tn.js",
-	"./ar.js": "./node_modules/moment/locale/ar.js",
-	"./az": "./node_modules/moment/locale/az.js",
-	"./az.js": "./node_modules/moment/locale/az.js",
-	"./be": "./node_modules/moment/locale/be.js",
-	"./be.js": "./node_modules/moment/locale/be.js",
-	"./bg": "./node_modules/moment/locale/bg.js",
-	"./bg.js": "./node_modules/moment/locale/bg.js",
-	"./bm": "./node_modules/moment/locale/bm.js",
-	"./bm.js": "./node_modules/moment/locale/bm.js",
-	"./bn": "./node_modules/moment/locale/bn.js",
-	"./bn.js": "./node_modules/moment/locale/bn.js",
-	"./bo": "./node_modules/moment/locale/bo.js",
-	"./bo.js": "./node_modules/moment/locale/bo.js",
-	"./br": "./node_modules/moment/locale/br.js",
-	"./br.js": "./node_modules/moment/locale/br.js",
-	"./bs": "./node_modules/moment/locale/bs.js",
-	"./bs.js": "./node_modules/moment/locale/bs.js",
-	"./ca": "./node_modules/moment/locale/ca.js",
-	"./ca.js": "./node_modules/moment/locale/ca.js",
-	"./cs": "./node_modules/moment/locale/cs.js",
-	"./cs.js": "./node_modules/moment/locale/cs.js",
-	"./cv": "./node_modules/moment/locale/cv.js",
-	"./cv.js": "./node_modules/moment/locale/cv.js",
-	"./cy": "./node_modules/moment/locale/cy.js",
-	"./cy.js": "./node_modules/moment/locale/cy.js",
-	"./da": "./node_modules/moment/locale/da.js",
-	"./da.js": "./node_modules/moment/locale/da.js",
-	"./de": "./node_modules/moment/locale/de.js",
-	"./de-at": "./node_modules/moment/locale/de-at.js",
-	"./de-at.js": "./node_modules/moment/locale/de-at.js",
-	"./de-ch": "./node_modules/moment/locale/de-ch.js",
-	"./de-ch.js": "./node_modules/moment/locale/de-ch.js",
-	"./de.js": "./node_modules/moment/locale/de.js",
-	"./dv": "./node_modules/moment/locale/dv.js",
-	"./dv.js": "./node_modules/moment/locale/dv.js",
-	"./el": "./node_modules/moment/locale/el.js",
-	"./el.js": "./node_modules/moment/locale/el.js",
-	"./en-SG": "./node_modules/moment/locale/en-SG.js",
-	"./en-SG.js": "./node_modules/moment/locale/en-SG.js",
-	"./en-au": "./node_modules/moment/locale/en-au.js",
-	"./en-au.js": "./node_modules/moment/locale/en-au.js",
-	"./en-ca": "./node_modules/moment/locale/en-ca.js",
-	"./en-ca.js": "./node_modules/moment/locale/en-ca.js",
-	"./en-gb": "./node_modules/moment/locale/en-gb.js",
-	"./en-gb.js": "./node_modules/moment/locale/en-gb.js",
-	"./en-ie": "./node_modules/moment/locale/en-ie.js",
-	"./en-ie.js": "./node_modules/moment/locale/en-ie.js",
-	"./en-il": "./node_modules/moment/locale/en-il.js",
-	"./en-il.js": "./node_modules/moment/locale/en-il.js",
-	"./en-nz": "./node_modules/moment/locale/en-nz.js",
-	"./en-nz.js": "./node_modules/moment/locale/en-nz.js",
-	"./eo": "./node_modules/moment/locale/eo.js",
-	"./eo.js": "./node_modules/moment/locale/eo.js",
-	"./es": "./node_modules/moment/locale/es.js",
-	"./es-do": "./node_modules/moment/locale/es-do.js",
-	"./es-do.js": "./node_modules/moment/locale/es-do.js",
-	"./es-us": "./node_modules/moment/locale/es-us.js",
-	"./es-us.js": "./node_modules/moment/locale/es-us.js",
-	"./es.js": "./node_modules/moment/locale/es.js",
-	"./et": "./node_modules/moment/locale/et.js",
-	"./et.js": "./node_modules/moment/locale/et.js",
-	"./eu": "./node_modules/moment/locale/eu.js",
-	"./eu.js": "./node_modules/moment/locale/eu.js",
-	"./fa": "./node_modules/moment/locale/fa.js",
-	"./fa.js": "./node_modules/moment/locale/fa.js",
-	"./fi": "./node_modules/moment/locale/fi.js",
-	"./fi.js": "./node_modules/moment/locale/fi.js",
-	"./fo": "./node_modules/moment/locale/fo.js",
-	"./fo.js": "./node_modules/moment/locale/fo.js",
-	"./fr": "./node_modules/moment/locale/fr.js",
-	"./fr-ca": "./node_modules/moment/locale/fr-ca.js",
-	"./fr-ca.js": "./node_modules/moment/locale/fr-ca.js",
-	"./fr-ch": "./node_modules/moment/locale/fr-ch.js",
-	"./fr-ch.js": "./node_modules/moment/locale/fr-ch.js",
-	"./fr.js": "./node_modules/moment/locale/fr.js",
-	"./fy": "./node_modules/moment/locale/fy.js",
-	"./fy.js": "./node_modules/moment/locale/fy.js",
-	"./ga": "./node_modules/moment/locale/ga.js",
-	"./ga.js": "./node_modules/moment/locale/ga.js",
-	"./gd": "./node_modules/moment/locale/gd.js",
-	"./gd.js": "./node_modules/moment/locale/gd.js",
-	"./gl": "./node_modules/moment/locale/gl.js",
-	"./gl.js": "./node_modules/moment/locale/gl.js",
-	"./gom-latn": "./node_modules/moment/locale/gom-latn.js",
-	"./gom-latn.js": "./node_modules/moment/locale/gom-latn.js",
-	"./gu": "./node_modules/moment/locale/gu.js",
-	"./gu.js": "./node_modules/moment/locale/gu.js",
-	"./he": "./node_modules/moment/locale/he.js",
-	"./he.js": "./node_modules/moment/locale/he.js",
-	"./hi": "./node_modules/moment/locale/hi.js",
-	"./hi.js": "./node_modules/moment/locale/hi.js",
-	"./hr": "./node_modules/moment/locale/hr.js",
-	"./hr.js": "./node_modules/moment/locale/hr.js",
-	"./hu": "./node_modules/moment/locale/hu.js",
-	"./hu.js": "./node_modules/moment/locale/hu.js",
-	"./hy-am": "./node_modules/moment/locale/hy-am.js",
-	"./hy-am.js": "./node_modules/moment/locale/hy-am.js",
-	"./id": "./node_modules/moment/locale/id.js",
-	"./id.js": "./node_modules/moment/locale/id.js",
-	"./is": "./node_modules/moment/locale/is.js",
-	"./is.js": "./node_modules/moment/locale/is.js",
-	"./it": "./node_modules/moment/locale/it.js",
-	"./it-ch": "./node_modules/moment/locale/it-ch.js",
-	"./it-ch.js": "./node_modules/moment/locale/it-ch.js",
-	"./it.js": "./node_modules/moment/locale/it.js",
-	"./ja": "./node_modules/moment/locale/ja.js",
-	"./ja.js": "./node_modules/moment/locale/ja.js",
-	"./jv": "./node_modules/moment/locale/jv.js",
-	"./jv.js": "./node_modules/moment/locale/jv.js",
-	"./ka": "./node_modules/moment/locale/ka.js",
-	"./ka.js": "./node_modules/moment/locale/ka.js",
-	"./kk": "./node_modules/moment/locale/kk.js",
-	"./kk.js": "./node_modules/moment/locale/kk.js",
-	"./km": "./node_modules/moment/locale/km.js",
-	"./km.js": "./node_modules/moment/locale/km.js",
-	"./kn": "./node_modules/moment/locale/kn.js",
-	"./kn.js": "./node_modules/moment/locale/kn.js",
-	"./ko": "./node_modules/moment/locale/ko.js",
-	"./ko.js": "./node_modules/moment/locale/ko.js",
-	"./ku": "./node_modules/moment/locale/ku.js",
-	"./ku.js": "./node_modules/moment/locale/ku.js",
-	"./ky": "./node_modules/moment/locale/ky.js",
-	"./ky.js": "./node_modules/moment/locale/ky.js",
-	"./lb": "./node_modules/moment/locale/lb.js",
-	"./lb.js": "./node_modules/moment/locale/lb.js",
-	"./lo": "./node_modules/moment/locale/lo.js",
-	"./lo.js": "./node_modules/moment/locale/lo.js",
-	"./lt": "./node_modules/moment/locale/lt.js",
-	"./lt.js": "./node_modules/moment/locale/lt.js",
-	"./lv": "./node_modules/moment/locale/lv.js",
-	"./lv.js": "./node_modules/moment/locale/lv.js",
-	"./me": "./node_modules/moment/locale/me.js",
-	"./me.js": "./node_modules/moment/locale/me.js",
-	"./mi": "./node_modules/moment/locale/mi.js",
-	"./mi.js": "./node_modules/moment/locale/mi.js",
-	"./mk": "./node_modules/moment/locale/mk.js",
-	"./mk.js": "./node_modules/moment/locale/mk.js",
-	"./ml": "./node_modules/moment/locale/ml.js",
-	"./ml.js": "./node_modules/moment/locale/ml.js",
-	"./mn": "./node_modules/moment/locale/mn.js",
-	"./mn.js": "./node_modules/moment/locale/mn.js",
-	"./mr": "./node_modules/moment/locale/mr.js",
-	"./mr.js": "./node_modules/moment/locale/mr.js",
-	"./ms": "./node_modules/moment/locale/ms.js",
-	"./ms-my": "./node_modules/moment/locale/ms-my.js",
-	"./ms-my.js": "./node_modules/moment/locale/ms-my.js",
-	"./ms.js": "./node_modules/moment/locale/ms.js",
-	"./mt": "./node_modules/moment/locale/mt.js",
-	"./mt.js": "./node_modules/moment/locale/mt.js",
-	"./my": "./node_modules/moment/locale/my.js",
-	"./my.js": "./node_modules/moment/locale/my.js",
-	"./nb": "./node_modules/moment/locale/nb.js",
-	"./nb.js": "./node_modules/moment/locale/nb.js",
-	"./ne": "./node_modules/moment/locale/ne.js",
-	"./ne.js": "./node_modules/moment/locale/ne.js",
-	"./nl": "./node_modules/moment/locale/nl.js",
-	"./nl-be": "./node_modules/moment/locale/nl-be.js",
-	"./nl-be.js": "./node_modules/moment/locale/nl-be.js",
-	"./nl.js": "./node_modules/moment/locale/nl.js",
-	"./nn": "./node_modules/moment/locale/nn.js",
-	"./nn.js": "./node_modules/moment/locale/nn.js",
-	"./pa-in": "./node_modules/moment/locale/pa-in.js",
-	"./pa-in.js": "./node_modules/moment/locale/pa-in.js",
-	"./pl": "./node_modules/moment/locale/pl.js",
-	"./pl.js": "./node_modules/moment/locale/pl.js",
-	"./pt": "./node_modules/moment/locale/pt.js",
-	"./pt-br": "./node_modules/moment/locale/pt-br.js",
-	"./pt-br.js": "./node_modules/moment/locale/pt-br.js",
-	"./pt.js": "./node_modules/moment/locale/pt.js",
-	"./ro": "./node_modules/moment/locale/ro.js",
-	"./ro.js": "./node_modules/moment/locale/ro.js",
-	"./ru": "./node_modules/moment/locale/ru.js",
-	"./ru.js": "./node_modules/moment/locale/ru.js",
-	"./sd": "./node_modules/moment/locale/sd.js",
-	"./sd.js": "./node_modules/moment/locale/sd.js",
-	"./se": "./node_modules/moment/locale/se.js",
-	"./se.js": "./node_modules/moment/locale/se.js",
-	"./si": "./node_modules/moment/locale/si.js",
-	"./si.js": "./node_modules/moment/locale/si.js",
-	"./sk": "./node_modules/moment/locale/sk.js",
-	"./sk.js": "./node_modules/moment/locale/sk.js",
-	"./sl": "./node_modules/moment/locale/sl.js",
-	"./sl.js": "./node_modules/moment/locale/sl.js",
-	"./sq": "./node_modules/moment/locale/sq.js",
-	"./sq.js": "./node_modules/moment/locale/sq.js",
-	"./sr": "./node_modules/moment/locale/sr.js",
-	"./sr-cyrl": "./node_modules/moment/locale/sr-cyrl.js",
-	"./sr-cyrl.js": "./node_modules/moment/locale/sr-cyrl.js",
-	"./sr.js": "./node_modules/moment/locale/sr.js",
-	"./ss": "./node_modules/moment/locale/ss.js",
-	"./ss.js": "./node_modules/moment/locale/ss.js",
-	"./sv": "./node_modules/moment/locale/sv.js",
-	"./sv.js": "./node_modules/moment/locale/sv.js",
-	"./sw": "./node_modules/moment/locale/sw.js",
-	"./sw.js": "./node_modules/moment/locale/sw.js",
-	"./ta": "./node_modules/moment/locale/ta.js",
-	"./ta.js": "./node_modules/moment/locale/ta.js",
-	"./te": "./node_modules/moment/locale/te.js",
-	"./te.js": "./node_modules/moment/locale/te.js",
-	"./tet": "./node_modules/moment/locale/tet.js",
-	"./tet.js": "./node_modules/moment/locale/tet.js",
-	"./tg": "./node_modules/moment/locale/tg.js",
-	"./tg.js": "./node_modules/moment/locale/tg.js",
-	"./th": "./node_modules/moment/locale/th.js",
-	"./th.js": "./node_modules/moment/locale/th.js",
-	"./tl-ph": "./node_modules/moment/locale/tl-ph.js",
-	"./tl-ph.js": "./node_modules/moment/locale/tl-ph.js",
-	"./tlh": "./node_modules/moment/locale/tlh.js",
-	"./tlh.js": "./node_modules/moment/locale/tlh.js",
-	"./tr": "./node_modules/moment/locale/tr.js",
-	"./tr.js": "./node_modules/moment/locale/tr.js",
-	"./tzl": "./node_modules/moment/locale/tzl.js",
-	"./tzl.js": "./node_modules/moment/locale/tzl.js",
-	"./tzm": "./node_modules/moment/locale/tzm.js",
-	"./tzm-latn": "./node_modules/moment/locale/tzm-latn.js",
-	"./tzm-latn.js": "./node_modules/moment/locale/tzm-latn.js",
-	"./tzm.js": "./node_modules/moment/locale/tzm.js",
-	"./ug-cn": "./node_modules/moment/locale/ug-cn.js",
-	"./ug-cn.js": "./node_modules/moment/locale/ug-cn.js",
-	"./uk": "./node_modules/moment/locale/uk.js",
-	"./uk.js": "./node_modules/moment/locale/uk.js",
-	"./ur": "./node_modules/moment/locale/ur.js",
-	"./ur.js": "./node_modules/moment/locale/ur.js",
-	"./uz": "./node_modules/moment/locale/uz.js",
-	"./uz-latn": "./node_modules/moment/locale/uz-latn.js",
-	"./uz-latn.js": "./node_modules/moment/locale/uz-latn.js",
-	"./uz.js": "./node_modules/moment/locale/uz.js",
-	"./vi": "./node_modules/moment/locale/vi.js",
-	"./vi.js": "./node_modules/moment/locale/vi.js",
-	"./x-pseudo": "./node_modules/moment/locale/x-pseudo.js",
-	"./x-pseudo.js": "./node_modules/moment/locale/x-pseudo.js",
-	"./yo": "./node_modules/moment/locale/yo.js",
-	"./yo.js": "./node_modules/moment/locale/yo.js",
-	"./zh-cn": "./node_modules/moment/locale/zh-cn.js",
-	"./zh-cn.js": "./node_modules/moment/locale/zh-cn.js",
-	"./zh-hk": "./node_modules/moment/locale/zh-hk.js",
-	"./zh-hk.js": "./node_modules/moment/locale/zh-hk.js",
-	"./zh-tw": "./node_modules/moment/locale/zh-tw.js",
-	"./zh-tw.js": "./node_modules/moment/locale/zh-tw.js"
-};
-
-
-function webpackContext(req) {
-	var id = webpackContextResolve(req);
-	return __webpack_require__(id);
-}
-function webpackContextResolve(req) {
-	if(!__webpack_require__.o(map, req)) {
-		var e = new Error("Cannot find module '" + req + "'");
-		e.code = 'MODULE_NOT_FOUND';
-		throw e;
-	}
-	return map[req];
-}
-webpackContext.keys = function webpackContextKeys() {
-	return Object.keys(map);
-};
-webpackContext.resolve = webpackContextResolve;
-module.exports = webpackContext;
-webpackContext.id = "./node_modules/moment/locale sync recursive ^\\.\\/.*$";
-
-/***/ }),
-
 /***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html":
 /*!**************************************************************************!*\
   !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html ***!
@@ -319,84 +33,6 @@ webpackContext.id = "./node_modules/moment/locale sync recursive ^\\.\\/.*$";
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ("<router-outlet></router-outlet>\r\n");
-
-/***/ }),
-
-/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/charity/add-edit-charity/add-edit-charity.component.html":
-/*!*****************************************************************************************************************************!*\
-  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/charity/add-edit-charity/add-edit-charity.component.html ***!
-  \*****************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<h2 mat-dialog-title>Add Charity\n</h2>\n<mat-dialog-content>\n    <form [formGroup]=\"productForm\">\n        <div class=\"usr_profile_inrmain\">\n            <div class=\"row\">\n                <div class=\"form-group col-12\">\n                    <div class=\"usr_profile_biodata\">\n                        <label>Name</label>\n                        <div class=\"input-group\">\n                            <input class=\"form-control\" type=\"text\" name=\"name\" formControlName=\"name\" />\n                        </div>\n                        <div *ngIf=\"submitted && productForm.controls.name.errors\" class=\"invalid-feedback\">\n                            <div *ngIf=\"productForm.controls.name.errors.required\">\n                                Name is required.\n                            </div>\n                            <div *ngIf=\"productForm.controls.name.errors.pattern\">\n                                Name is not valid.\n                            </div>\n                            <div *ngIf=\"productForm.controls.name.errors.maxlength\">\n                                Name can be max 20 characters long.\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n                <div class=\"row\">\n                <div class=\"form-group col-12\">\n                    <div class=\"usr_profile_biodata\">\n                        <label>Description</label>\n                        <div class=\"input-group\">\n                            <textarea class=\"form-control\" type=\"text\" name=\"name\" formControlName=\"description\">\n                            </textarea>\n                        </div>\n                        <div *ngIf=\"submitted && productForm.controls.description.errors\" class=\"invalid-feedback\">\n                            <div *ngIf=\"productForm.controls.description.errors.required\">\n                                Description is required.\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"row\">\n                <div class=\"form-group col-md-6\">\n                    <div class=\"usr_profile_img\">\n                        <div class=\"usr_profile_imgbx\">\n                            <label>Image</label>\n                            <div class=\"user_img\">\n                                <figure *ngIf=\"productImage\">\n                                    <img style=\"height: 50px;width: 50px\" [src]=\"productImage\" />\n                                </figure>\n                            </div>\n                        </div>\n                        <div class=\"user_profile_edit\">\n                            <input type=\"file\" accept=\"image/*\" (change)=\"profilePic($event)\" />\n                        </div>\n                        <div *ngIf=\"submitted && !productImage\" class=\"invalid-feedback\">\n                            Image is required.\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </form>\n</mat-dialog-content>\n<mat-dialog-actions>\n    <button class=\"mat-raised-button mat-primary mr-3\" (click)=\"onSubmit()\">\n        Add Charity\n    </button>\n    <button class=\"mat-raised-button mat-warn\" (click)=\"close()\">Close</button>\n</mat-dialog-actions>");
-
-/***/ }),
-
-/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/coupon/add-edit-coupon/add-edit-coupon.component.html":
-/*!**************************************************************************************************************************!*\
-  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/coupon/add-edit-coupon/add-edit-coupon.component.html ***!
-  \**************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<h2 mat-dialog-title>Add Coupon\n</h2>\n<mat-dialog-content>\n    <form [formGroup]=\"couponForm\">\n        <div class=\"row\">\n            <div class=\"form-group col-md-6\">\n                <label for=\"title\">Name</label>\n                <div class=\"input-group\">\n                    <input type=\"text\" id=\"name\" class=\"form-control\" formControlName=\"name\" placeholder=\"\" />\n                </div>\n                <div *ngIf=\"submitted && couponForm.controls.name.errors\" class=\"invalid-feedback\">\n                    <div *ngIf=\"couponForm.controls.name.errors.required\">\n                        Name is required\n                    </div>\n                    <div *ngIf=\"couponForm.controls.name.errors.maxlength\">\n                        Name can be max 15 characters long.\n                    </div>\n                </div>\n            </div>\n            <div class=\" form-group col-md-6\">\n                <label for=\"title\">Code</label>\n                <div class=\"input-group\">\n                    <input type=\"text\" id=\"name\" class=\"form-control\" formControlName=\"code\" placeholder=\"\" />\n                </div>\n                <div *ngIf=\"submitted && couponForm.controls.code.errors\" class=\"invalid-feedback\">\n                    <div *ngIf=\"couponForm.controls.code.errors.required\">\n                        Code is required\n                    </div>\n                    <div *ngIf=\"couponForm.controls.code.errors.maxlength\">\n                        Code can be max 15 characters long.\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"row\">\n            <div class=\"form-group col-md-12\">\n                <label for=\"body\">Description</label>\n                <div class=\"input-group\">\n                    <textarea type=\"text\" row=\"3\" id=\"body\" class=\"form-control\" formControlName=\"description\"\n                        placeholder=\"\"></textarea>\n                    <div *ngIf=\"submitted && couponForm.controls.description.errors\" class=\"invalid-feedback\">\n                        <div *ngIf=\"couponForm.controls.description.errors.required\">\n                            Description is required\n                        </div>\n                        <div *ngIf=\"couponForm.controls.description.errors.maxlength\">\n                            Description can be max 250 characters long.\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"row\">\n            <div class=\"form-group col-md-6\">\n                <label for=\"title\">Start Date</label>\n                <div class=\"input-group\">\n                    <input (dateTimeInput)=\"emitValue($event)\" class=\"form-control\" readonly\n                        [min]=\"startMinDate\" formControlName=\"startDate\" [owlDateTime]=\"dt1\" placeholder=\"Date\">\n                    <div class=\"input-group-append\">\n                        <span class=\"input-group-text trigger\" pickerType=\"calendar\"\n                            [owlDateTimeTrigger]=\"dt1\"><i class=\"fa fa-calendar\"></i></span>\n                    </div>\n                    <owl-date-time #dt1 [pickerType]=\"'calendar'\"></owl-date-time>\n                </div>\n                <div *ngIf=\"submitted && couponForm.controls.startDate.errors\" class=\"invalid-feedback\">\n                    <div *ngIf=\"couponForm.controls.startDate.errors.required\">\n                        Start Date is required\n                    </div>\n                </div>\n            </div>\n            <div class=\"form-group col-md-6\">\n                <label for=\"title\">End Date</label>\n                <div class=\"input-group\">\n                    <input class=\"form-control\" readonly [min]=\"endMinDate\" formControlName=\"endDate\"\n                        [owlDateTime]=\"dt2\" placeholder=\"Date\">\n                    <div class=\"input-group-append\">\n                        <span class=\"input-group-text trigger\" pickerType=\"calendar\"\n                            [owlDateTimeTrigger]=\"dt2\"><i class=\"fa fa-calendar\"></i></span>\n                    </div>\n                    <owl-date-time #dt2 [pickerType]=\"'calendar'\"></owl-date-time>\n                </div>\n                <div *ngIf=\"submitted && couponForm.controls.endDate.errors\" class=\"invalid-feedback\">\n                    <div *ngIf=\"couponForm.controls.endDate.errors.required\">\n                        End Date is required\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"row\">\n            <div class=\"form-group col-md-6\">\n                <label for=\"price\">Discount (%)</label>\n                <div class=\"input-group\">\n                    <input type=\"number\" min=\"0\" appNumberOnly id=\"discount\" class=\"form-control\"\n                        formControlName=\"discount\" placeholder=\"\" />\n                    <div *ngIf=\"submitted && couponForm.controls.discount.errors\" class=\"invalid-feedback\">\n                        <div *ngIf=\"couponForm.controls.discount.errors.required\">\n                            Discount is required\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"form-group col-md-6\">\n                <label for=\"types\">Discount Type</label>\n                <div class=\"input-group\">\n                    <select class=\"form-control\" formControlName=\"type\" *ngIf=\"discountType\">\n                        <option value=\"\" selected disabled hidden>Choose here</option>\n                        <option *ngFor=\"let type of discountType\" [value]=\"type.value\">\n                            {{ type.name }}\n                        </option>\n                    </select>\n                    <div *ngIf=\"\n                    submitted && couponForm.controls.type.errors\n                \" class=\"invalid-feedback\">\n                        <div *ngIf=\"couponForm.controls.type.errors.required\">\n                            Discount Type is required\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </form>\n</mat-dialog-content>\n<mat-dialog-actions>\n    <div class=\"form-group form-actions\">\n        <button type=\"submit\" class=\"btn btn-sm mat-raised-button btn-success mr-3\" (click)=\"onSubmit()\">\n            Add\n        </button>\n        <button class=\"mat-raised-button mat-warn\" (click)=\"close()\">Close</button>\n    </div>\n</mat-dialog-actions>");
-
-/***/ }),
-
-/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/inventory/add-edit-inventory/add-edit-inventory.component.html":
-/*!***********************************************************************************************************************************!*\
-  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/inventory/add-edit-inventory/add-edit-inventory.component.html ***!
-  \***********************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<h2 mat-dialog-title>Add Product\n</h2>\n<mat-dialog-content>\n    <form [formGroup]=\"productForm\">\n        <div class=\"usr_profile_inrmain\">\n            <div class=\"row\">\n                <div class=\"form-group col-6\">\n                    <div class=\"usr_profile_biodata\">\n                        <label>Name</label>\n                        <div class=\"input-group\">\n                            <input class=\"form-control\" type=\"text\" name=\"name\" formControlName=\"name\" />\n                        </div>\n                        <div *ngIf=\"submitted && productForm.controls.name.errors\" class=\"invalid-feedback\">\n                            <div *ngIf=\"productForm.controls.name.errors.required\">\n                                Name is required.\n                            </div>\n                            <div *ngIf=\"productForm.controls.name.errors.pattern\">\n                                Name is not valid.\n                            </div>\n                            <div *ngIf=\"productForm.controls.name.errors.maxlength\">\n                                Name can be max 20 characters long.\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"form-group col-6\">\n                    <div class=\"usr_profile_biodata\">\n                        <label>اسم</label>\n                        <div class=\"input-group\">\n                            <input class=\"form-control\" type=\"text\" name=\"arabicName\" formControlName=\"arabicName\" />\n                        </div>\n                        <div *ngIf=\"submitted && productForm.controls.arabicName.errors\" class=\"invalid-feedback\">\n                            <div *ngIf=\"productForm.controls.arabicName.errors.required\">\n                                مطلوب اسم\n                            </div>\n                            <div *ngIf=\"productForm.controls.arabicName.errors.pattern\">\n                                الاسم غير صالح\n                            </div>\n                            <div *ngIf=\"productForm.controls.arabicName.errors.maxlength\">\n                                يمكن أن يبلغ الاسم 20 حرفًا كحد أقصى\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"row\">\n                <div class=\"form-group col-12\">\n                    <div class=\"usr_profile_biodata\">\n                        <label>Description</label>\n                        <div class=\"input-group\">\n                            <textarea class=\"form-control\" type=\"text\" name=\"description\" formControlName=\"description\">\n                            </textarea>\n                        </div>\n                        <div *ngIf=\"submitted && productForm.controls.description.errors\" class=\"invalid-feedback\">\n                            <div *ngIf=\"productForm.controls.description.errors.required\">\n                                Description is required.\n                            </div>\n                            <div *ngIf=\"productForm.controls.description.errors.maxlength\">\n                                Description can be max 250 characters long.\n                            </div>\n                        </div>\n                    </div>\n                </div>\n\n                <div class=\"form-group col-12\">\n                    <div class=\"usr_profile_biodata\">\n                        <label>وصف</label>\n                        <div class=\"input-group\">\n                            <textarea class=\"form-control\" type=\"text\" name=\"arabicDescription\" formControlName=\"arabicDescription\">\n                            </textarea>\n                        </div>\n                        <div *ngIf=\"submitted && productForm.controls.arabicDescription.errors\" class=\"invalid-feedback\">\n                            <div *ngIf=\"productForm.controls.arabicDescription.errors.required\">\n                                الوصف مطلوب\n                            </div>\n                            <div *ngIf=\"productForm.controls.arabicDescription.errors.maxlength\">\n                                يمكن أن يصل الوصف إلى 250 حرفًا كحد أقصى\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"row\">\n                <div class=\"form-group col-md-6\">\n                    <label for=\"fare\">Prize</label>\n                    <div class=\"input-group\">\n                        <input type=\"number\" min=\"0\" appNumberOnly id=\"discount\" class=\"form-control\"\n                            formControlName=\"prize\" placeholder=\"\" oninput=\"this.value = Math.abs(this.value)\"/>\n                        <div *ngIf=\"submitted && productForm.controls.prize.errors\" class=\"invalid-feedback\">\n                            <div *ngIf=\"productForm.controls.prize.errors.required\">\n                                Prize is required\n                            </div>\n                        </div>\n                    </div>\n                </div>\n           \n            </div>\n            <div class=\"row\">\n                <div class=\"form-group col-md-6\">\n                    <div class=\"usr_profile_img\">\n                        <div class=\"usr_profile_imgbx\">\n                            <label>Image</label>\n                            <div class=\"user_img\">\n                                <figure *ngIf=\"productImage\">\n                                    <img style=\"height: 50px;width: 50px\" [src]=\"productImage\" />\n                                </figure>\n                            </div>\n                        </div>\n                        <div class=\"user_profile_edit\">\n                            <input type=\"file\" accept=\"image/*\" (change)=\"profilePic($event)\" />\n                        </div>\n                        <div *ngIf=\"submitted && !productImage\" class=\"invalid-feedback\">\n                            Image is required.\n                        </div>\n                    </div>\n                </div>\n                <div class=\"form-group col-md-6\">\n                    <div class=\"usr_profile_img\">\n                        <div class=\"usr_profile_imgbx\">\n                            <label>Show in website</label>\n                            <div>\n                                <ui-switch labelOn=\"ON\" switchColor=\"#000\" id=\"status\" name=\"status\"\n                                formControlName=\"status\" labelOff=\"OFF\">\n                                </ui-switch>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </form>\n</mat-dialog-content>\n<mat-dialog-actions>\n    <button class=\"mat-raised-button mat-primary mr-3\" (click)=\"onSubmit()\">\n        Add Product\n    </button>\n    <button class=\"mat-raised-button mat-warn\" (click)=\"close()\">Close</button>\n</mat-dialog-actions>");
-
-/***/ }),
-
-/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/inventory/edit-inventory/edit-inventory.component.html":
-/*!***************************************************************************************************************************!*\
-  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/inventory/edit-inventory/edit-inventory.component.html ***!
-  \***************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<h2 mat-dialog-title>Edit Product\r\n</h2>\r\n<mat-dialog-content>\r\n    <form [formGroup]=\"productForm\">\r\n        <div class=\"usr_profile_inrmain\">\r\n            <div class=\"row\">\r\n                <div class=\"form-group col-6\">\r\n                    <div class=\"usr_profile_biodata\">\r\n                        <label>Name</label>\r\n                        <div class=\"input-group\">\r\n                            <input class=\"form-control\" type=\"text\" name=\"name\" formControlName=\"name\" />\r\n                        </div>\r\n                        <div *ngIf=\"submitted && productForm.controls.name.errors\" class=\"invalid-feedback\">\r\n                            <div *ngIf=\"productForm.controls.name.errors.required\">\r\n                                Name is required.\r\n                            </div>\r\n                            <div *ngIf=\"productForm.controls.name.errors.pattern\">\r\n                                Name is not valid.\r\n                            </div>\r\n                            <div *ngIf=\"productForm.controls.name.errors.maxlength\">\r\n                                Name can be max 20 characters long.\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n\r\n                <div class=\"form-group col-md-6\">\r\n                    <label for=\"fare\">Prize</label>\r\n                    <div class=\"input-group\">\r\n                        <input type=\"number\" min=\"0\" appNumberOnly id=\"discount\" class=\"form-control\"\r\n                            formControlName=\"prize\" placeholder=\"\" oninput=\"this.value = Math.abs(this.value)\"/>\r\n                        <div *ngIf=\"submitted && productForm.controls.prize.errors\" class=\"invalid-feedback\">\r\n                            <div *ngIf=\"productForm.controls.prize.errors.required\">\r\n                                Prize is required\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n            <div class=\"row\">\r\n                <div class=\"form-group col-12\">\r\n                    <div class=\"usr_profile_biodata\">\r\n                        <label>Description</label>\r\n                        <div class=\"input-group\">\r\n                            <textarea class=\"form-control\" type=\"text\" name=\"description\" formControlName=\"description\">\r\n                            </textarea>\r\n                        </div>\r\n                        <div *ngIf=\"submitted && productForm.controls.description.errors\" class=\"invalid-feedback\">\r\n                            <div *ngIf=\"productForm.controls.description.errors.required\">\r\n                                Description is required.\r\n                            </div>\r\n                            <div *ngIf=\"productForm.controls.description.errors.maxlength\">\r\n                                Description can be max 250 characters long.\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n            <div class=\"row\">\r\n                <div class=\"form-group col-md-6\">\r\n                    <div class=\"usr_profile_img\">\r\n                        <div class=\"usr_profile_imgbx\">\r\n                            <label>Image</label>\r\n                            <div class=\"user_img\">\r\n                                <figure *ngIf=\"productImage\">\r\n                                    <img style=\"height: 50px;width: 50px\" [src]=\"productImage\" />\r\n                                </figure>\r\n                            </div>\r\n                        </div>\r\n                        <div class=\"user_profile_edit\">\r\n                            <input type=\"file\" accept=\"image/*\" (change)=\"profilePic($event)\" />\r\n                        </div>\r\n                        <div *ngIf=\"submitted && !productImage\" class=\"invalid-feedback\">\r\n                            Image is required.\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n                <div class=\"form-group col-md-6\">\r\n                    <div class=\"usr_profile_img\">\r\n                        <div class=\"usr_profile_imgbx\">\r\n                            <label>Show in website</label>\r\n                            <div>\r\n                                <ui-switch labelOn=\"ON\" switchColor=\"#000\" id=\"status\" name=\"status\"\r\n                                formControlName=\"status\" labelOff=\"OFF\">\r\n                                </ui-switch>\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </form>\r\n</mat-dialog-content>\r\n<mat-dialog-actions>\r\n    <button class=\"mat-raised-button mat-primary mr-3\" (click)=\"onSubmit()\">\r\n        Edit Product\r\n    </button>\r\n    <button class=\"mat-raised-button mat-warn\" (click)=\"close()\">Close</button>\r\n</mat-dialog-actions>");
-
-/***/ }),
-
-/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/loyality/add-loyalty/add-loyalty.component.html":
-/*!********************************************************************************************************************!*\
-  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/loyality/add-loyalty/add-loyalty.component.html ***!
-  \********************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<h2 mat-dialog-title>Add Loyalty\n</h2>\n<mat-dialog-content>\n    <form>\n        <div class=\"row\">\n            <div class=\"form-group col-md-12\">\n                <label for=\"title\">Loyalty points per 100 purchase</label>\n                <div class=\"input-group\">\n                    <input type=\"text\" id=\"name\" class=\"form-control\"\n                        placeholder=\"\" />\n                </div>\n            </div>\n        </div>\n        <div class=\"row\">\n            <div class=\"form-group col-md-12\">\n                <label for=\"title\">1 Loyalty convert into currency</label>\n                <div class=\"input-group\">\n                    <input type=\"text\" id=\"name\" class=\"form-control\"\n                        placeholder=\"\" />\n                </div>\n            </div>\n        </div>\n    </form>\n</mat-dialog-content>\n<mat-dialog-actions>\n    <button class=\"mat-raised-button mat-primary mr-3\" (click)=\"close()\">\n        Add Loyalty\n    </button>\n    <button class=\"mat-raised-button mat-warn\" (click)=\"close()\">Close</button>\n</mat-dialog-actions>");
-
-/***/ }),
-
-/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/main/order/accept-modal/accept-modal.component.html":
-/*!************************************************************************************************************************!*\
-  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/main/order/accept-modal/accept-modal.component.html ***!
-  \************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<h2 mat-dialog-title>Estimate Order Time</h2>\r\n<mat-dialog-content>\r\n  <input type=\"text\" [(ngModel)]=\"time\" class=\"form-control\" />\r\n</mat-dialog-content>\r\n<mat-dialog-actions>\r\n  <button class=\"mat-raised-button mat-primary mr-3\" (click)=\"onSubmit()\">\r\n    Accept\r\n  </button>\r\n  <button class=\"mat-raised-button\" (click)=\"close()\">Reject</button>\r\n</mat-dialog-actions>");
 
 /***/ }),
 
@@ -670,7 +306,7 @@ const routes = [
     {
         path: "",
         redirectTo: "/login",
-        pathMatch: "full",
+        pathMatch: "full"
     },
     {
         path: "",
@@ -680,7 +316,7 @@ const routes = [
     {
         path: "login",
         loadChildren: () => __webpack_require__.e(/*! import() | login-login-module */ "login-login-module").then(__webpack_require__.bind(null, /*! ./login/login.module */ "./src/app/login/login.module.ts")).then(m => m.LoginModule)
-    }
+    },
 ];
 let AppRoutingModule = class AppRoutingModule {
 };
@@ -760,20 +396,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
 /* harmony import */ var ng6_toastr_notifications__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ng6-toastr-notifications */ "./node_modules/ng6-toastr-notifications/fesm2015/ng6-toastr-notifications.js");
 /* harmony import */ var angular_web_storage__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! angular-web-storage */ "./node_modules/angular-web-storage/fesm2015/angular-web-storage.js");
-/* harmony import */ var _idealz_pages_main_order_accept_modal_accept_modal_component__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./idealz/pages/main/order/accept-modal/accept-modal.component */ "./src/app/idealz/pages/main/order/accept-modal/accept-modal.component.ts");
-/* harmony import */ var _idealz_pages_inventory_add_edit_inventory_add_edit_inventory_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./idealz/pages/inventory/add-edit-inventory/add-edit-inventory.component */ "./src/app/idealz/pages/inventory/add-edit-inventory/add-edit-inventory.component.ts");
-/* harmony import */ var _idealz_pages_inventory_edit_inventory_edit_inventory_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./idealz/pages/inventory/edit-inventory/edit-inventory.component */ "./src/app/idealz/pages/inventory/edit-inventory/edit-inventory.component.ts");
-/* harmony import */ var _idealz_pages_coupon_add_edit_coupon_add_edit_coupon_component__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./idealz/pages/coupon/add-edit-coupon/add-edit-coupon.component */ "./src/app/idealz/pages/coupon/add-edit-coupon/add-edit-coupon.component.ts");
-/* harmony import */ var ng_pick_datetime__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ng-pick-datetime */ "./node_modules/ng-pick-datetime/picker.js");
-/* harmony import */ var ngx_ui_switch__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ngx-ui-switch */ "./node_modules/ngx-ui-switch/ui-switch.es2015.js");
-/* harmony import */ var _idealz_pages_charity_add_edit_charity_add_edit_charity_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./idealz/pages/charity/add-edit-charity/add-edit-charity.component */ "./src/app/idealz/pages/charity/add-edit-charity/add-edit-charity.component.ts");
-/* harmony import */ var _idealz_pages_loyality_add_loyalty_add_loyalty_component__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./idealz/pages/loyality/add-loyalty/add-loyalty.component */ "./src/app/idealz/pages/loyality/add-loyalty/add-loyalty.component.ts");
-
-
-
-
-
-
+/* harmony import */ var ng_pick_datetime__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ng-pick-datetime */ "./node_modules/ng-pick-datetime/picker.js");
+/* harmony import */ var ngx_ui_switch__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ngx-ui-switch */ "./node_modules/ngx-ui-switch/ui-switch.es2015.js");
 
 
 
@@ -795,12 +419,6 @@ AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_3__["NgModule"])({
         declarations: [
             _app_component__WEBPACK_IMPORTED_MODULE_10__["AppComponent"],
-            _idealz_pages_main_order_accept_modal_accept_modal_component__WEBPACK_IMPORTED_MODULE_13__["AcceptModalComponent"],
-            _idealz_pages_inventory_add_edit_inventory_add_edit_inventory_component__WEBPACK_IMPORTED_MODULE_14__["AddEditInventoryComponent"],
-            _idealz_pages_inventory_edit_inventory_edit_inventory_component__WEBPACK_IMPORTED_MODULE_15__["EditInventoryComponent"],
-            _idealz_pages_coupon_add_edit_coupon_add_edit_coupon_component__WEBPACK_IMPORTED_MODULE_16__["AddEditCouponComponent"],
-            _idealz_pages_charity_add_edit_charity_add_edit_charity_component__WEBPACK_IMPORTED_MODULE_19__["AddEditCharityComponent"],
-            _idealz_pages_loyality_add_loyalty_add_loyalty_component__WEBPACK_IMPORTED_MODULE_20__["AddLoyaltyComponent"]
         ],
         imports: [
             _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
@@ -814,20 +432,13 @@ AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
             _idealz_pages_material_material_module__WEBPACK_IMPORTED_MODULE_7__["MaterialModule"],
             _angular_forms__WEBPACK_IMPORTED_MODULE_8__["FormsModule"],
             _angular_forms__WEBPACK_IMPORTED_MODULE_8__["ReactiveFormsModule"],
-            ng_pick_datetime__WEBPACK_IMPORTED_MODULE_17__["OwlDateTimeModule"],
-            ng_pick_datetime__WEBPACK_IMPORTED_MODULE_17__["OwlNativeDateTimeModule"],
-            ngx_ui_switch__WEBPACK_IMPORTED_MODULE_18__["UiSwitchModule"]
+            ng_pick_datetime__WEBPACK_IMPORTED_MODULE_13__["OwlDateTimeModule"],
+            ng_pick_datetime__WEBPACK_IMPORTED_MODULE_13__["OwlNativeDateTimeModule"],
+            ngx_ui_switch__WEBPACK_IMPORTED_MODULE_14__["UiSwitchModule"]
         ],
         providers: [],
         bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_10__["AppComponent"]],
-        entryComponents: [
-            _idealz_pages_main_order_accept_modal_accept_modal_component__WEBPACK_IMPORTED_MODULE_13__["AcceptModalComponent"],
-            _idealz_pages_inventory_add_edit_inventory_add_edit_inventory_component__WEBPACK_IMPORTED_MODULE_14__["AddEditInventoryComponent"],
-            _idealz_pages_coupon_add_edit_coupon_add_edit_coupon_component__WEBPACK_IMPORTED_MODULE_16__["AddEditCouponComponent"],
-            _idealz_pages_inventory_edit_inventory_edit_inventory_component__WEBPACK_IMPORTED_MODULE_15__["EditInventoryComponent"],
-            _idealz_pages_charity_add_edit_charity_add_edit_charity_component__WEBPACK_IMPORTED_MODULE_19__["AddEditCharityComponent"],
-            _idealz_pages_loyality_add_loyalty_add_loyalty_component__WEBPACK_IMPORTED_MODULE_20__["AddLoyaltyComponent"]
-        ]
+        entryComponents: []
     })
 ], AppModule);
 
@@ -877,509 +488,6 @@ AuthGuard = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         providedIn: 'root'
     })
 ], AuthGuard);
-
-
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/charity/add-edit-charity/add-edit-charity.component.scss":
-/*!***************************************************************************************!*\
-  !*** ./src/app/idealz/pages/charity/add-edit-charity/add-edit-charity.component.scss ***!
-  \***************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (".invalid-feedback {\n  display: block;\n  width: 100%;\n  margin-top: 0.14rem;\n  margin-left: 0.6rem;\n  font-size: 95%;\n  color: #f55353;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaWRlYWx6L3BhZ2VzL2NoYXJpdHkvYWRkLWVkaXQtY2hhcml0eS9EOlxcQXBwdHVuaXhcXHdpbmlkZWFsei9zcmNcXGFwcFxcaWRlYWx6XFxwYWdlc1xcY2hhcml0eVxcYWRkLWVkaXQtY2hhcml0eVxcYWRkLWVkaXQtY2hhcml0eS5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvaWRlYWx6L3BhZ2VzL2NoYXJpdHkvYWRkLWVkaXQtY2hhcml0eS9hZGQtZWRpdC1jaGFyaXR5LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksY0FBQTtFQUNBLFdBQUE7RUFDQSxtQkFBQTtFQUNBLG1CQUFBO0VBQ0EsY0FBQTtFQUNBLGNBQUE7QUNDSiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9wYWdlcy9jaGFyaXR5L2FkZC1lZGl0LWNoYXJpdHkvYWRkLWVkaXQtY2hhcml0eS5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5pbnZhbGlkLWZlZWRiYWNrIHtcclxuICAgIGRpc3BsYXk6IGJsb2NrO1xyXG4gICAgd2lkdGg6IDEwMCU7XHJcbiAgICBtYXJnaW4tdG9wOiAwLjE0cmVtO1xyXG4gICAgbWFyZ2luLWxlZnQ6IDAuNnJlbTtcclxuICAgIGZvbnQtc2l6ZTogOTUlO1xyXG4gICAgY29sb3I6ICNmNTUzNTM7XHJcbiAgfVxyXG4gICIsIi5pbnZhbGlkLWZlZWRiYWNrIHtcbiAgZGlzcGxheTogYmxvY2s7XG4gIHdpZHRoOiAxMDAlO1xuICBtYXJnaW4tdG9wOiAwLjE0cmVtO1xuICBtYXJnaW4tbGVmdDogMC42cmVtO1xuICBmb250LXNpemU6IDk1JTtcbiAgY29sb3I6ICNmNTUzNTM7XG59Il19 */");
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/charity/add-edit-charity/add-edit-charity.component.ts":
-/*!*************************************************************************************!*\
-  !*** ./src/app/idealz/pages/charity/add-edit-charity/add-edit-charity.component.ts ***!
-  \*************************************************************************************/
-/*! exports provided: AddEditCharityComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddEditCharityComponent", function() { return AddEditCharityComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/dialog */ "./node_modules/@angular/material/esm2015/dialog.js");
-/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/forms */ "./node_modules/@angular/forms/fesm2015/forms.js");
-
-
-
-
-let AddEditCharityComponent = class AddEditCharityComponent {
-    constructor(formBuilder, dialog) {
-        this.formBuilder = formBuilder;
-        this.dialog = dialog;
-        this.submitted = false;
-    }
-    ngOnInit() {
-        this.productForm = this.formBuilder.group({
-            name: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].maxLength(20), _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].pattern(".*\\S.*[a-zA-z0-9 ]")]),
-            description: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required]),
-            image: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required])
-        });
-    }
-    profilePic(event) {
-        return tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"](this, void 0, void 0, function* () {
-            if (event.target.files && event.target.files[0]) {
-                var reader = new FileReader();
-                reader.readAsDataURL(event.target.files[0]);
-                reader.onload = (event) => {
-                    this.productImage = event.target.result;
-                    this.productForm.controls['image'].setValue(this.productImage);
-                };
-            }
-        });
-    }
-    onSubmit() {
-        this.submitted = true;
-        if (this.submitted && this.productForm.valid) {
-            var data = this.productForm.value;
-            this.dialog.close(data);
-        }
-    }
-    close() {
-        this.dialog.close();
-    }
-};
-AddEditCharityComponent.ctorParameters = () => [
-    { type: _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormBuilder"] },
-    { type: _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__["MatDialogRef"] }
-];
-AddEditCharityComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-add-edit-charity',
-        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./add-edit-charity.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/charity/add-edit-charity/add-edit-charity.component.html")).default,
-        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./add-edit-charity.component.scss */ "./src/app/idealz/pages/charity/add-edit-charity/add-edit-charity.component.scss")).default]
-    })
-], AddEditCharityComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/coupon/add-edit-coupon/add-edit-coupon.component.scss":
-/*!************************************************************************************!*\
-  !*** ./src/app/idealz/pages/coupon/add-edit-coupon/add-edit-coupon.component.scss ***!
-  \************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (".invalid-feedback {\n  display: block;\n  width: 100%;\n  margin-top: 0.14rem;\n  margin-left: 0.6rem;\n  font-size: 95%;\n  color: #f55353;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaWRlYWx6L3BhZ2VzL2NvdXBvbi9hZGQtZWRpdC1jb3Vwb24vRDpcXEFwcHR1bml4XFx3aW5pZGVhbHovc3JjXFxhcHBcXGlkZWFselxccGFnZXNcXGNvdXBvblxcYWRkLWVkaXQtY291cG9uXFxhZGQtZWRpdC1jb3Vwb24uY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2lkZWFsei9wYWdlcy9jb3Vwb24vYWRkLWVkaXQtY291cG9uL2FkZC1lZGl0LWNvdXBvbi5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGNBQUE7RUFDQSxXQUFBO0VBQ0EsbUJBQUE7RUFDQSxtQkFBQTtFQUNBLGNBQUE7RUFDQSxjQUFBO0FDQ0oiLCJmaWxlIjoic3JjL2FwcC9pZGVhbHovcGFnZXMvY291cG9uL2FkZC1lZGl0LWNvdXBvbi9hZGQtZWRpdC1jb3Vwb24uY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaW52YWxpZC1mZWVkYmFjayB7XHJcbiAgICBkaXNwbGF5OiBibG9jaztcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgbWFyZ2luLXRvcDogMC4xNHJlbTtcclxuICAgIG1hcmdpbi1sZWZ0OiAwLjZyZW07XHJcbiAgICBmb250LXNpemU6IDk1JTtcclxuICAgIGNvbG9yOiAjZjU1MzUzO1xyXG4gIH1cclxuICAiLCIuaW52YWxpZC1mZWVkYmFjayB7XG4gIGRpc3BsYXk6IGJsb2NrO1xuICB3aWR0aDogMTAwJTtcbiAgbWFyZ2luLXRvcDogMC4xNHJlbTtcbiAgbWFyZ2luLWxlZnQ6IDAuNnJlbTtcbiAgZm9udC1zaXplOiA5NSU7XG4gIGNvbG9yOiAjZjU1MzUzO1xufSJdfQ== */");
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/coupon/add-edit-coupon/add-edit-coupon.component.ts":
-/*!**********************************************************************************!*\
-  !*** ./src/app/idealz/pages/coupon/add-edit-coupon/add-edit-coupon.component.ts ***!
-  \**********************************************************************************/
-/*! exports provided: AddEditCouponComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddEditCouponComponent", function() { return AddEditCouponComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/dialog */ "./node_modules/@angular/material/esm2015/dialog.js");
-/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/forms */ "./node_modules/@angular/forms/fesm2015/forms.js");
-/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! moment */ "./node_modules/moment/moment.js");
-/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(moment__WEBPACK_IMPORTED_MODULE_4__);
-
-
-
-
-
-let AddEditCouponComponent = class AddEditCouponComponent {
-    constructor(formBuilder, dialog) {
-        this.formBuilder = formBuilder;
-        this.dialog = dialog;
-        this.history = window.history;
-        this.submitted = false;
-        this.startMinDate = moment__WEBPACK_IMPORTED_MODULE_4__(new Date()).subtract(1, 'd').format('YYYY-MM-DD');
-        this.endMinDate = moment__WEBPACK_IMPORTED_MODULE_4__(new Date()).subtract(1, 'd').format('YYYY-MM-DD');
-        this.discountType = [
-            {
-                name: "Percentage",
-                value: 0
-            },
-            {
-                name: "Flat",
-                value: 1
-            },
-            {
-                name: "Both",
-                value: 2
-            }
-        ];
-    }
-    ngOnInit() {
-        this.couponForm = this.formBuilder.group({
-            name: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].compose([_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].maxLength(15)])),
-            code: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].compose([_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].maxLength(15)])),
-            description: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].compose([_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].maxLength(250)])),
-            type: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].compose([_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required])),
-            discount: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].compose([_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required])),
-            startDate: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].compose([_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required])),
-            endDate: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].compose([_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required])),
-        });
-    }
-    onSubmit() {
-        this.submitted = true;
-        if (this.submitted && this.couponForm.valid) {
-            console.log(this.couponForm.value);
-            var data = this.couponForm.value;
-            data['endDate'] = new Date(data['endDate']).getTime();
-            data['startDate'] = new Date(data['startDate']).getTime();
-            this.dialog.close(data);
-        }
-    }
-    close() {
-        this.dialog.close();
-    }
-    afterPickerOpen() {
-        document.getElementsByTagName('html')[0].style.top = '';
-    }
-    emitValue(e) {
-        this.endMinDate = moment__WEBPACK_IMPORTED_MODULE_4__(e.value).subtract(1, 'd').format('YYYY-MM-DD');
-    }
-};
-AddEditCouponComponent.ctorParameters = () => [
-    { type: _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormBuilder"] },
-    { type: _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__["MatDialogRef"] }
-];
-AddEditCouponComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-add-edit-coupon',
-        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./add-edit-coupon.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/coupon/add-edit-coupon/add-edit-coupon.component.html")).default,
-        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./add-edit-coupon.component.scss */ "./src/app/idealz/pages/coupon/add-edit-coupon/add-edit-coupon.component.scss")).default]
-    })
-], AddEditCouponComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/inventory/add-edit-inventory/add-edit-inventory.component.scss":
-/*!*********************************************************************************************!*\
-  !*** ./src/app/idealz/pages/inventory/add-edit-inventory/add-edit-inventory.component.scss ***!
-  \*********************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (".invalid-feedback {\n  display: block;\n  width: 100%;\n  margin-top: 0.14rem;\n  margin-left: 0.6rem;\n  font-size: 95%;\n  color: #f55353;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaWRlYWx6L3BhZ2VzL2ludmVudG9yeS9hZGQtZWRpdC1pbnZlbnRvcnkvRDpcXEFwcHR1bml4XFx3aW5pZGVhbHovc3JjXFxhcHBcXGlkZWFselxccGFnZXNcXGludmVudG9yeVxcYWRkLWVkaXQtaW52ZW50b3J5XFxhZGQtZWRpdC1pbnZlbnRvcnkuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2lkZWFsei9wYWdlcy9pbnZlbnRvcnkvYWRkLWVkaXQtaW52ZW50b3J5L2FkZC1lZGl0LWludmVudG9yeS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGNBQUE7RUFDQSxXQUFBO0VBQ0EsbUJBQUE7RUFDQSxtQkFBQTtFQUNBLGNBQUE7RUFDQSxjQUFBO0FDQ0oiLCJmaWxlIjoic3JjL2FwcC9pZGVhbHovcGFnZXMvaW52ZW50b3J5L2FkZC1lZGl0LWludmVudG9yeS9hZGQtZWRpdC1pbnZlbnRvcnkuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaW52YWxpZC1mZWVkYmFjayB7XHJcbiAgICBkaXNwbGF5OiBibG9jaztcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgbWFyZ2luLXRvcDogMC4xNHJlbTtcclxuICAgIG1hcmdpbi1sZWZ0OiAwLjZyZW07XHJcbiAgICBmb250LXNpemU6IDk1JTtcclxuICAgIGNvbG9yOiAjZjU1MzUzO1xyXG4gIH1cclxuICAiLCIuaW52YWxpZC1mZWVkYmFjayB7XG4gIGRpc3BsYXk6IGJsb2NrO1xuICB3aWR0aDogMTAwJTtcbiAgbWFyZ2luLXRvcDogMC4xNHJlbTtcbiAgbWFyZ2luLWxlZnQ6IDAuNnJlbTtcbiAgZm9udC1zaXplOiA5NSU7XG4gIGNvbG9yOiAjZjU1MzUzO1xufSJdfQ== */");
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/inventory/add-edit-inventory/add-edit-inventory.component.ts":
-/*!*******************************************************************************************!*\
-  !*** ./src/app/idealz/pages/inventory/add-edit-inventory/add-edit-inventory.component.ts ***!
-  \*******************************************************************************************/
-/*! exports provided: AddEditInventoryComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddEditInventoryComponent", function() { return AddEditInventoryComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/dialog */ "./node_modules/@angular/material/esm2015/dialog.js");
-/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/forms */ "./node_modules/@angular/forms/fesm2015/forms.js");
-/* harmony import */ var src_app_idealz_services_product_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! src/app/idealz/services/product.service */ "./src/app/idealz/services/product.service.ts");
-
-
-
-
-
-let AddEditInventoryComponent = class AddEditInventoryComponent {
-    constructor(formBuilder, productService, dialog) {
-        this.formBuilder = formBuilder;
-        this.productService = productService;
-        this.dialog = dialog;
-        this.submitted = false;
-    }
-    ngOnInit() {
-        this.productForm = this.formBuilder.group({
-            name: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].maxLength(20), _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].pattern(".*\\S.*[a-zA-z0-9 ]")]),
-            arabicName: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"](""),
-            description: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].maxLength(250)]),
-            arabicDescription: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"](""),
-            image: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required]),
-            status: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"](),
-            prize: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required)
-        });
-    }
-    profilePic(event) {
-        return tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"](this, void 0, void 0, function* () {
-            if (event.target.files && event.target.files[0]) {
-                var reader = new FileReader();
-                reader.readAsDataURL(event.target.files[0]);
-                reader.onload = (event) => {
-                    this.productImage = event.target.result;
-                    this.productForm.controls['image'].setValue(this.productImage);
-                };
-            }
-        });
-    }
-    onSubmit() {
-        this.submitted = true;
-        if (this.submitted && this.productForm.valid) {
-            var data = this.productForm.value;
-            //data['id']="34143"
-            //data['id'] = Date.now() + Math.random().toString().slice(2);
-            this.productService.addProduct(data).subscribe(res => {
-            });
-            this.dialog.close(data);
-        }
-    }
-    close() {
-        this.dialog.close();
-    }
-};
-AddEditInventoryComponent.ctorParameters = () => [
-    { type: _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormBuilder"] },
-    { type: src_app_idealz_services_product_service__WEBPACK_IMPORTED_MODULE_4__["ProductService"] },
-    { type: _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__["MatDialogRef"] }
-];
-AddEditInventoryComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-add-edit-inventory',
-        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./add-edit-inventory.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/inventory/add-edit-inventory/add-edit-inventory.component.html")).default,
-        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./add-edit-inventory.component.scss */ "./src/app/idealz/pages/inventory/add-edit-inventory/add-edit-inventory.component.scss")).default]
-    })
-], AddEditInventoryComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/inventory/edit-inventory/edit-inventory.component.scss":
-/*!*************************************************************************************!*\
-  !*** ./src/app/idealz/pages/inventory/edit-inventory/edit-inventory.component.scss ***!
-  \*************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9wYWdlcy9pbnZlbnRvcnkvZWRpdC1pbnZlbnRvcnkvZWRpdC1pbnZlbnRvcnkuY29tcG9uZW50LnNjc3MifQ== */");
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/inventory/edit-inventory/edit-inventory.component.ts":
-/*!***********************************************************************************!*\
-  !*** ./src/app/idealz/pages/inventory/edit-inventory/edit-inventory.component.ts ***!
-  \***********************************************************************************/
-/*! exports provided: EditInventoryComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "EditInventoryComponent", function() { return EditInventoryComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/dialog */ "./node_modules/@angular/material/esm2015/dialog.js");
-/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/forms */ "./node_modules/@angular/forms/fesm2015/forms.js");
-/* harmony import */ var src_app_idealz_services_product_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! src/app/idealz/services/product.service */ "./src/app/idealz/services/product.service.ts");
-
-
-
-
-
-let EditInventoryComponent = class EditInventoryComponent {
-    constructor(formBuilder, productService, dialog) {
-        this.formBuilder = formBuilder;
-        this.productService = productService;
-        this.dialog = dialog;
-        this.submitted = false;
-        this.productId = localStorage.getItem("ProductId");
-        this.productForm = this.formBuilder.group({
-            name: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].maxLength(20), _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].pattern(".*\\S.*[a-zA-z0-9 ]")]),
-            description: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].maxLength(250)]),
-            image: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", [_angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required]),
-            status: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"](),
-            prize: new _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormControl"]("", _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required)
-        });
-    }
-    ngOnInit() {
-        this.productService.productListing().subscribe(res => {
-            this.product = res.data.filter(product => product.id == this.productId);
-            this.productForm.controls['name'].setValue(this.product[0].name);
-            this.productForm.controls['description'].setValue(this.product[0].description);
-            this.productForm.controls['status'].setValue(this.product[0].show_in_website);
-            this.productForm.controls['prize'].setValue(this.product[0].price);
-            this.productForm.controls['image'].setValue(this.product[0].image);
-            this.productImage = this.product[0].image;
-        });
-    }
-    profilePic(event) {
-        return tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"](this, void 0, void 0, function* () {
-            if (event.target.files && event.target.files[0]) {
-                var reader = new FileReader();
-                reader.readAsDataURL(event.target.files[0]);
-                reader.onload = (event) => {
-                    this.productImage = event.target.result;
-                    this.productForm.controls['image'].setValue(this.productImage);
-                };
-            }
-        });
-    }
-    onSubmit() {
-        this.submitted = true;
-        if (this.submitted && this.productForm.valid) {
-            var data = this.productForm.value;
-            data['id'] = this.productId;
-            //data['id'] = Date.now() + Math.random().toString().slice(2);
-            this.productService.editProduct(data).subscribe(res => {
-            });
-            this.dialog.close(data);
-        }
-    }
-    close() {
-        this.dialog.close();
-    }
-};
-EditInventoryComponent.ctorParameters = () => [
-    { type: _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormBuilder"] },
-    { type: src_app_idealz_services_product_service__WEBPACK_IMPORTED_MODULE_4__["ProductService"] },
-    { type: _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__["MatDialogRef"] }
-];
-EditInventoryComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-edit-inventory',
-        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./edit-inventory.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/inventory/edit-inventory/edit-inventory.component.html")).default,
-        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./edit-inventory.component.scss */ "./src/app/idealz/pages/inventory/edit-inventory/edit-inventory.component.scss")).default]
-    })
-], EditInventoryComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/loyality/add-loyalty/add-loyalty.component.scss":
-/*!******************************************************************************!*\
-  !*** ./src/app/idealz/pages/loyality/add-loyalty/add-loyalty.component.scss ***!
-  \******************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9wYWdlcy9sb3lhbGl0eS9hZGQtbG95YWx0eS9hZGQtbG95YWx0eS5jb21wb25lbnQuc2NzcyJ9 */");
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/loyality/add-loyalty/add-loyalty.component.ts":
-/*!****************************************************************************!*\
-  !*** ./src/app/idealz/pages/loyality/add-loyalty/add-loyalty.component.ts ***!
-  \****************************************************************************/
-/*! exports provided: AddLoyaltyComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddLoyaltyComponent", function() { return AddLoyaltyComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/dialog */ "./node_modules/@angular/material/esm2015/dialog.js");
-
-
-
-let AddLoyaltyComponent = class AddLoyaltyComponent {
-    constructor(dialog) {
-        this.dialog = dialog;
-    }
-    ngOnInit() {
-    }
-    close() {
-        this.dialog.close();
-    }
-};
-AddLoyaltyComponent.ctorParameters = () => [
-    { type: _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__["MatDialogRef"] }
-];
-AddLoyaltyComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: 'app-add-loyalty',
-        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./add-loyalty.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/loyality/add-loyalty/add-loyalty.component.html")).default,
-        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./add-loyalty.component.scss */ "./src/app/idealz/pages/loyality/add-loyalty/add-loyalty.component.scss")).default]
-    })
-], AddLoyaltyComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/main/order/accept-modal/accept-modal.component.scss":
-/*!**********************************************************************************!*\
-  !*** ./src/app/idealz/pages/main/order/accept-modal/accept-modal.component.scss ***!
-  \**********************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2lkZWFsei9wYWdlcy9tYWluL29yZGVyL2FjY2VwdC1tb2RhbC9hY2NlcHQtbW9kYWwuY29tcG9uZW50LnNjc3MifQ== */");
-
-/***/ }),
-
-/***/ "./src/app/idealz/pages/main/order/accept-modal/accept-modal.component.ts":
-/*!********************************************************************************!*\
-  !*** ./src/app/idealz/pages/main/order/accept-modal/accept-modal.component.ts ***!
-  \********************************************************************************/
-/*! exports provided: AcceptModalComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AcceptModalComponent", function() { return AcceptModalComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/dialog */ "./node_modules/@angular/material/esm2015/dialog.js");
-
-
-
-let AcceptModalComponent = class AcceptModalComponent {
-    constructor(dialog) {
-        this.dialog = dialog;
-    }
-    ngOnInit() { }
-    close() {
-        var data = {
-            response: "no",
-            time: this.time
-        };
-        this.dialog.close(data);
-    }
-    onSubmit() {
-        var data = {
-            response: "yes",
-            time: this.time
-        };
-        this.dialog.close(data);
-    }
-};
-AcceptModalComponent.ctorParameters = () => [
-    { type: _angular_material_dialog__WEBPACK_IMPORTED_MODULE_2__["MatDialogRef"] }
-];
-AcceptModalComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-        selector: "app-accept-modal",
-        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./accept-modal.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/idealz/pages/main/order/accept-modal/accept-modal.component.html")).default,
-        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./accept-modal.component.scss */ "./src/app/idealz/pages/main/order/accept-modal/accept-modal.component.scss")).default]
-    })
-], AcceptModalComponent);
 
 
 
@@ -1484,20 +592,14 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const httpOptions = {
-    headers: new _angular_common_http__WEBPACK_IMPORTED_MODULE_2__["HttpHeaders"]({
-    //'Authorization':this.getToken()
-    /// Authorization : 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzZiZTAxMThkNzIyNDJiMzY2YzMxYjA3YjFjMjJmYjA2NWE3YWRkYzlhZjRhMWIzYTc2ZGUzMDY5YjY1MjNmM2MzMDdjY2RkN2I3ZWQ1ODgiLCJpYXQiOjE1ODk4NjI3NjUsIm5iZiI6MTU4OTg2Mjc2NSwiZXhwIjoxNjIxMzk4NzY1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Z-uvnXJ-UTCHRuDnd4MVp8CSPtZTpTf02W_tjzt0ZcNiLFAFjRKe94BvSm8l99FLLPapORIPj2EGAY2XS3MN7A-OqpD8f86iS2U9fPcOwDy74f_qXVy4ck4LTJ0M7Q8Pm-2VEYquGXMZBpA95_mGa6Je0xzfn-Ppk4VBzzY5Th1PkO8u9Suw673eix3jl7veoS9k_bv-qBgQXereIlBs6BNbIB5z7uiC1l5d24MMUvsBohHC6Sq8bdeVtSVf36X-dqTrKs6WzIlhTJseMO3ur2SoF4sq4HHjDiVcQMotGXDNjCxQkXT7vtZM-ZxfVzHKXMBkyvqUAHVQJ7iE_lU6z2EHuiFrk-LeoQMKSuqcXmee53xnUuHI4URi1efgu6gnFNW3FHT9k08mYzVqLQrIR6kzORm5UhfTuCijJyPOk6oXSDIidr4cokDcvrMAhomYRdTcn5vKvMIoYLWH3SlHecZ0JnTqMm5lPrDn9Vh8ir4g-t7TgVPit2rBNHTJ6xSPnbiWQRAl9s2qOftia48LfY0g9RtY-5ZTJE21y5p4tQbBPuLH6RJlqL3fH590WgHjs22tiLp3kBOwkDjOJQ2Vt9C4Voy86sfPLYTCtCUdku1B9y86b71Q3Ru4rkPGhBWYkgJHL9xO5tLWRC9HBAR_oMSZ80O3J3YwJotjxkaQuc8'
-    })
-};
 let ApiService = class ApiService {
     constructor(http, url, comm) {
         this.http = http;
         this.url = url;
         this.comm = comm;
-        this.BASE_URL = this.url.SERVER_URL + '/api/';
+        this.BASE_URL = this.url.SERVER_URL;
         this.apiEndPoints = {
-            //Admin
+            //admin
             adminLogin: 'admin/login',
             adminLogout: 'admin/logout'
         };
@@ -1510,7 +612,7 @@ let ApiService = class ApiService {
         return {
             headers: new _angular_common_http__WEBPACK_IMPORTED_MODULE_2__["HttpHeaders"]({
                 'Accept': 'application/json',
-                'Authorization': 'Bearer ' + this.getToken()
+                'Authorization': this.getToken()
             })
         };
     }
@@ -1520,20 +622,14 @@ let ApiService = class ApiService {
             .pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["map"])(response => response));
     }
     singIn(body) {
-        const data = new FormData();
-        data.append('email', body.email);
-        data.append('password', body.password);
         return this.http
-            .post(this.apiEndPoints.adminLogin, data)
+            .post(this.apiEndPoints.adminLogin, body)
             .pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Login')));
     }
     singOut() {
         return this.http
             .post(this.apiEndPoints.adminLogout, {}, this.getHeaders())
             .pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Logout')));
-    }
-    setUser(user) {
-        localStorage.setItem("Rupee_Admin", user);
     }
     sendToken(token) {
         localStorage.setItem("token", token);
@@ -1560,7 +656,7 @@ ApiService.ctorParameters = () => [
 ];
 ApiService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
-        providedIn: "root",
+        providedIn: "root"
     })
 ], ApiService);
 
@@ -1651,130 +747,6 @@ CommonService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 
 /***/ }),
 
-/***/ "./src/app/idealz/services/product.service.ts":
-/*!****************************************************!*\
-  !*** ./src/app/idealz/services/product.service.ts ***!
-  \****************************************************/
-/*! exports provided: ProductService */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ProductService", function() { return ProductService; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _common_common_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./common/common.service */ "./src/app/idealz/services/common/common.service.ts");
-/* harmony import */ var _url_url_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./url/url.service */ "./src/app/idealz/services/url/url.service.ts");
-/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm2015/http.js");
-/* harmony import */ var rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! rxjs/internal/operators */ "./node_modules/rxjs/internal/operators/index.js");
-/* harmony import */ var rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _api_api_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./api/api.service */ "./src/app/idealz/services/api/api.service.ts");
-
-
-
-
-
-
-
-let ProductService = class ProductService {
-    constructor(comm, url, http, api) {
-        this.comm = comm;
-        this.url = url;
-        this.http = http;
-        this.api = api;
-        this.BASE_URL = this.url.SERVER_URL + '/api/';
-        {
-            this.apiEndPoints = {
-                //Products
-                addProduct: 'admin/addProduct',
-                editProduct: 'admin/editProduct',
-                productListing: 'admin/productListing',
-                deleteProduct: 'admin/deleteProduct'
-            };
-            for (let key in this.apiEndPoints) {
-                this.apiEndPoints[key] = this.BASE_URL + this.apiEndPoints[key];
-            }
-        }
-    }
-    getHeaders() {
-        return {
-            headers: new _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpHeaders"]({
-                'Accept': 'application/json',
-                'Authorization': 'Bearer ' + this.api.getToken()
-            })
-        };
-    }
-    productListing() {
-        return this.http
-            .get(this.apiEndPoints.productListing, this.getHeaders())
-            .pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('productListing')));
-    }
-    addProduct(product) {
-        const data = new FormData();
-        data.append('name', product.name);
-        data.append('image', product.image);
-        data.append('description', product.description);
-        if (product.status) {
-            data.append('show_in_website', '1');
-        }
-        else {
-            data.append('show_in_website', '0');
-        }
-        data.append('price', product.prize);
-        data.append('arabic_name', product.arabicName);
-        data.append('arabic_description', product.arabicDescription);
-        return this.http
-            .post(this.apiEndPoints.addProduct, data, this.getHeaders())
-            .pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Add Product')));
-    }
-    editProduct(product) {
-        const data = new FormData();
-        data.append('id', product.id);
-        data.append('name', product.name);
-        data.append('image', product.image);
-        data.append('description', product.description);
-        if (product.status == true || product.status == 1) {
-            data.append('show_in_website', '1');
-        }
-        else {
-            data.append('show_in_website', '0');
-        }
-        data.append('price', product.prize);
-        return this.http
-            .post(this.apiEndPoints.editProduct, data, this.getHeaders())
-            .pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Edit Product')));
-    }
-    deleteProduct(id) {
-        const data = new FormData();
-        data.append('id', id);
-        return this.http
-            .post(this.apiEndPoints.deleteProduct, data, this.getHeaders())
-            .pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Delete Product')));
-    }
-    handleError(operation = 'operation', result) {
-        return (error) => {
-            // TODO: send the error to remote logging infrastructure
-            console.error(error); // log to console instead
-            return;
-        };
-    }
-};
-ProductService.ctorParameters = () => [
-    { type: _common_common_service__WEBPACK_IMPORTED_MODULE_2__["CommonService"] },
-    { type: _url_url_service__WEBPACK_IMPORTED_MODULE_3__["UrlService"] },
-    { type: _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpClient"] },
-    { type: _api_api_service__WEBPACK_IMPORTED_MODULE_6__["ApiService"] }
-];
-ProductService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
-        providedIn: "root"
-    })
-], ProductService);
-
-
-
-/***/ }),
-
 /***/ "./src/app/idealz/services/url/url.service.ts":
 /*!****************************************************!*\
   !*** ./src/app/idealz/services/url/url.service.ts ***!
@@ -1793,8 +765,8 @@ let UrlService = class UrlService {
     constructor() {
         this.baseUrl = "http://192.168.1.98:3000/v1/admin";
         this.imageUrl = "http://192.168.1.98:3000";
-        this.SERVER_URL = "https://webdevelopmentsolution.net/winidealz_new";
         this.login = `${this.baseUrl}/login`;
+        this.SERVER_URL = "http://appgrowthcompany.com:3082/api/v1/";
     }
 };
 UrlService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
@@ -1872,7 +844,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Apptunix\winidealz\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! D:\Apptunix\cleat-street-admin\src\main.ts */"./src/main.ts");
 
 
 /***/ })
