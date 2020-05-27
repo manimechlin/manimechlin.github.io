@@ -870,12 +870,24 @@
     var ngx_ui_switch__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(
     /*! ngx-ui-switch */
     "./node_modules/ngx-ui-switch/ui-switch.es2015.js");
+    /* harmony import */
+
+
+    var _idealz_services_algorithm_service__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(
+    /*! ./idealz/services/algorithm.service */
+    "./src/app/idealz/services/algorithm.service.ts");
+    /* harmony import */
+
+
+    var _idealz_services_analysts_service__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(
+    /*! ./idealz/services/analysts.service */
+    "./src/app/idealz/services/analysts.service.ts");
 
     let AppModule = class AppModule {};
     AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_3__["NgModule"])({
       declarations: [_app_component__WEBPACK_IMPORTED_MODULE_10__["AppComponent"]],
       imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"], _app_routing_module__WEBPACK_IMPORTED_MODULE_9__["AppRoutingModule"], _angular_platform_browser_animations__WEBPACK_IMPORTED_MODULE_2__["BrowserAnimationsModule"], ng6_toastr_notifications__WEBPACK_IMPORTED_MODULE_11__["ToastrModule"].forRoot(), _angular_forms__WEBPACK_IMPORTED_MODULE_8__["FormsModule"], angular_web_storage__WEBPACK_IMPORTED_MODULE_12__["AngularWebStorageModule"], _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpClientModule"], ngx_spinner__WEBPACK_IMPORTED_MODULE_5__["NgxSpinnerModule"], _idealz_pages_material_material_module__WEBPACK_IMPORTED_MODULE_7__["MaterialModule"], _angular_forms__WEBPACK_IMPORTED_MODULE_8__["FormsModule"], _angular_forms__WEBPACK_IMPORTED_MODULE_8__["ReactiveFormsModule"], ng_pick_datetime__WEBPACK_IMPORTED_MODULE_13__["OwlDateTimeModule"], ng_pick_datetime__WEBPACK_IMPORTED_MODULE_13__["OwlNativeDateTimeModule"], ngx_ui_switch__WEBPACK_IMPORTED_MODULE_14__["UiSwitchModule"]],
-      providers: [],
+      providers: [_idealz_services_algorithm_service__WEBPACK_IMPORTED_MODULE_15__["AlgorithmService"], _idealz_services_analysts_service__WEBPACK_IMPORTED_MODULE_16__["AnalystsService"]],
       bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_10__["AppComponent"]],
       entryComponents: []
     })], AppModule);
@@ -1021,6 +1033,313 @@
     MaterialModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_5__["NgModule"])({
       exports: [_angular_cdk_table__WEBPACK_IMPORTED_MODULE_3__["CdkTableModule"], _angular_cdk_tree__WEBPACK_IMPORTED_MODULE_4__["CdkTreeModule"], _angular_cdk_drag_drop__WEBPACK_IMPORTED_MODULE_1__["DragDropModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatAutocompleteModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatBadgeModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatBottomSheetModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatButtonModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatButtonToggleModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatCardModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatCheckboxModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatChipsModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatStepperModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatDatepickerModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatDialogModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatDividerModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatExpansionModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatGridListModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatIconModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatInputModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatListModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatMenuModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatNativeDateModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatPaginatorModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatProgressBarModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatProgressSpinnerModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatRadioModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatRippleModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatSelectModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatSidenavModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatSliderModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatSlideToggleModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatSnackBarModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatSortModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatTableModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatTabsModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatToolbarModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatTooltipModule"], _angular_material__WEBPACK_IMPORTED_MODULE_6__["MatTreeModule"], _angular_cdk_scrolling__WEBPACK_IMPORTED_MODULE_2__["ScrollingModule"]]
     })], MaterialModule);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/services/algorithm.service.ts":
+  /*!******************************************************!*\
+    !*** ./src/app/idealz/services/algorithm.service.ts ***!
+    \******************************************************/
+
+  /*! exports provided: AlgorithmService */
+
+  /***/
+  function srcAppIdealzServicesAlgorithmServiceTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "AlgorithmService", function () {
+      return AlgorithmService;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var _common_common_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ./common/common.service */
+    "./src/app/idealz/services/common/common.service.ts");
+    /* harmony import */
+
+
+    var _url_url_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! ./url/url.service */
+    "./src/app/idealz/services/url/url.service.ts");
+    /* harmony import */
+
+
+    var _angular_common_http__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! @angular/common/http */
+    "./node_modules/@angular/common/fesm2015/http.js");
+    /* harmony import */
+
+
+    var rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
+    /*! rxjs/internal/operators */
+    "./node_modules/rxjs/internal/operators/index.js");
+    /* harmony import */
+
+
+    var rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__);
+    /* harmony import */
+
+
+    var _api_api_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
+    /*! ./api/api.service */
+    "./src/app/idealz/services/api/api.service.ts");
+
+    let AlgorithmService = class AlgorithmService {
+      constructor(comm, url, http, api) {
+        this.comm = comm;
+        this.url = url;
+        this.http = http;
+        this.api = api;
+        this.BASE_URL = this.url.SERVER_URL;
+        {
+          this.apiEndPoints = {
+            //Algorithems
+            getAllAlgorithem: 'admin/getAllAlgorithem',
+            deleteAlgorithem: 'admin/deleteAlgorithem'
+          };
+
+          for (let key in this.apiEndPoints) {
+            this.apiEndPoints[key] = this.BASE_URL + this.apiEndPoints[key];
+          }
+        }
+      }
+
+      getHeaders() {
+        return {
+          headers: new _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpHeaders"]({
+            'Content-Type': 'application/json',
+            'Authorization': this.api.getToken()
+          })
+        };
+      }
+
+      getAllAlgorithm() {
+        const data = {
+          "pageNo": 1
+        };
+        return this.http.post(this.apiEndPoints.getAllAlgorithem, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('All Algorithm')));
+      }
+
+      deleteAlgorithem(id) {
+        const data = {
+          "algorithemId": id
+        };
+        return this.http.post(this.apiEndPoints.deleteAlgorithem, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Delete Algorithm')));
+      }
+
+      handleError(operation = 'operation', result) {
+        return error => {
+          // TODO: send the error to remote logging infrastructure
+          console.error(error); // log to console instead
+
+          return;
+        };
+      }
+
+    };
+
+    AlgorithmService.ctorParameters = () => [{
+      type: _common_common_service__WEBPACK_IMPORTED_MODULE_2__["CommonService"]
+    }, {
+      type: _url_url_service__WEBPACK_IMPORTED_MODULE_3__["UrlService"]
+    }, {
+      type: _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpClient"]
+    }, {
+      type: _api_api_service__WEBPACK_IMPORTED_MODULE_6__["ApiService"]
+    }];
+
+    AlgorithmService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
+      providedIn: "root"
+    })], AlgorithmService);
+    /***/
+  },
+
+  /***/
+  "./src/app/idealz/services/analysts.service.ts":
+  /*!*****************************************************!*\
+    !*** ./src/app/idealz/services/analysts.service.ts ***!
+    \*****************************************************/
+
+  /*! exports provided: AnalystsService */
+
+  /***/
+  function srcAppIdealzServicesAnalystsServiceTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "AnalystsService", function () {
+      return AnalystsService;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var _common_common_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ./common/common.service */
+    "./src/app/idealz/services/common/common.service.ts");
+    /* harmony import */
+
+
+    var _url_url_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! ./url/url.service */
+    "./src/app/idealz/services/url/url.service.ts");
+    /* harmony import */
+
+
+    var _angular_common_http__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! @angular/common/http */
+    "./node_modules/@angular/common/fesm2015/http.js");
+    /* harmony import */
+
+
+    var rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
+    /*! rxjs/internal/operators */
+    "./node_modules/rxjs/internal/operators/index.js");
+    /* harmony import */
+
+
+    var rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__);
+    /* harmony import */
+
+
+    var _api_api_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
+    /*! ./api/api.service */
+    "./src/app/idealz/services/api/api.service.ts");
+
+    let AnalystsService = class AnalystsService {
+      constructor(comm, url, http, api) {
+        this.comm = comm;
+        this.url = url;
+        this.http = http;
+        this.api = api;
+        this.BASE_URL = this.url.SERVER_URL;
+        {
+          this.apiEndPoints = {
+            //Analysts
+            getAllUserProfile: 'admin/getAllUserProfile',
+            addAnalyst: 'admin/addUser',
+            deleteBlockUnBlockDeactivateUserProfile: 'admin/deleteBlockUnBlockDeactivateUserProfile'
+          };
+
+          for (let key in this.apiEndPoints) {
+            this.apiEndPoints[key] = this.BASE_URL + this.apiEndPoints[key];
+          }
+        }
+      }
+
+      getHeaders() {
+        return {
+          headers: new _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpHeaders"]({
+            'Content-Type': 'application/json',
+            'Authorization': this.api.getToken()
+          })
+        };
+      }
+
+      getAllAnalysts() {
+        const data = {
+          "pageNo": 1,
+          "userType": "ANALYST"
+        }; //usertype--->'ANALYST','ENTHUSIAST'"
+
+        return this.http.post(this.apiEndPoints.getAllUserProfile, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('All ANALYSTS')));
+      }
+
+      addAnalyst(analyst) {
+        // const data:FormData=new FormData();
+        // data.append('email',analyst.email);
+        // data.append('userName',analyst.userName);
+        // data.append('password',"12345678");
+        // data.append('userType',"ANALYST");
+        const data = {
+          'email': analyst.email,
+          'userName': analyst.userName,
+          'password': "12345678",
+          'userType': "ANALYST"
+        };
+        return this.http.post(this.apiEndPoints.addAnalyst, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('ADD ANALYST')));
+      }
+
+      deleteAnalyst(id) {
+        const data = {
+          "userId": id,
+          "isDeleted": true
+        };
+        return this.http.post(this.apiEndPoints.deleteBlockUnBlockDeactivateUserProfile, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Delete Analyst')));
+      }
+
+      blockAnalyst(id) {
+        const data = {
+          "userId": id,
+          "isBlocked": true
+        };
+        return this.http.post(this.apiEndPoints.deleteBlockUnBlockDeactivateUserProfile, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('Block Analyst')));
+      }
+
+      unBlockAnalyst(id) {
+        const data = {
+          "userId": id,
+          "isBlocked": false
+        };
+        return this.http.post(this.apiEndPoints.deleteBlockUnBlockDeactivateUserProfile, data, this.getHeaders()).pipe(Object(rxjs_internal_operators__WEBPACK_IMPORTED_MODULE_5__["catchError"])(this.handleError('UnBlock Analyst')));
+      }
+
+      handleError(operation = 'operation', result) {
+        return error => {
+          // TODO: send the error to remote logging infrastructure
+          console.error(error); // log to console instead
+
+          return;
+        };
+      }
+
+    };
+
+    AnalystsService.ctorParameters = () => [{
+      type: _common_common_service__WEBPACK_IMPORTED_MODULE_2__["CommonService"]
+    }, {
+      type: _url_url_service__WEBPACK_IMPORTED_MODULE_3__["UrlService"]
+    }, {
+      type: _angular_common_http__WEBPACK_IMPORTED_MODULE_4__["HttpClient"]
+    }, {
+      type: _api_api_service__WEBPACK_IMPORTED_MODULE_6__["ApiService"]
+    }];
+
+    AnalystsService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
+      providedIn: "root"
+    })], AnalystsService);
     /***/
   },
 
